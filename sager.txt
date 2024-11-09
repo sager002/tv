@@ -16,7 +16,7 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/Yhx941G/skynews.png", سكاي نيوز  ᴴᴰ
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/kGX3jMH/mayadeen.png" , الميادين  ᴴᴰ
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000.m3u8
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.alaraby.com/themes/custom/arabytv/logo.svg" , العربي  ᴴᴰ
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/kG0d8Ay.png" ,  الكويت  ᴴᴰ
