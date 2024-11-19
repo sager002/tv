@@ -160,7 +160,9 @@ http://defaultgen.com:3050/jackdacostajr@yahoo.com/ShLK7QrYz8/605182
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png", ام تي في 
 http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/2207
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png", او تي في  
-http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/2208
+http://23.227.140.75:3050/ZoraCo141/hNZ8hqRWyh/605202
+#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png", او تي في  
+http://supersonictv.live:8080/247340/764085/84163
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/sOQLV7L.png", قناة المنار  ᴴᴰ
 http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/27611
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/71qxh9L/etgah.jpg", قناة الاتجاه  ᴴᴰ
