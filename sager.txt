@@ -114,7 +114,7 @@ http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/5818
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" , سبيستون  ᴴᴰ
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" , كرتون نتورك  
-https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+http://goldiptv.website:8080/dmtn/KL86djT2jb@js26FD/3096.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/TzOKMMy.png" , ماجد  ᴴᴰ
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7woV4Cz.png" , براعم  
@@ -148,7 +148,7 @@ http://supersonictv.live:8080/812493/376688/84103
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/JksrH30/Screenshot-20240221-111204.jpg" , المصرية الاولى
 http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/53896
 #EXTINF:0 type="stream" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483628.jpg" , المصرية الثانية
-http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/53899
+http://goldiptv.website:8080/dmtn/KL86djT2jb@js26FD/71050.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
 http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/5028
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
@@ -203,16 +203,16 @@ http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/53905
 http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/4543
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا 
 http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/17953
-#EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahalaCinema.ae.png", |OSN| يا هلا افلام  
-http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/17952
+#EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahalaCinema.ae.png", |OSN| يا هلا بالعربي  
+http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/4711.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
 http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/9609
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
 http://154.58.202.185:8000/play/a0al
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/qnCg98M/mekamlin.png" , مكملين 
-http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/65892
+http://goldiptv.website:8080/dmtn/KL86djT2jb@js26FD/17180.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/4SBWZsb/hewar.png" , الحوار 
-http://mohdtv.com:8880/ALLChannels00fa20221c6d/39264717/27624
+http://goldiptv.website:8080/dmtn/KL86djT2jb@js26FD/70950.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C1RL10s/ssc1.jpg", SSC 1  
 http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/27441
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/8NRMJqd/ssc2.jpg",  SSC 2  
