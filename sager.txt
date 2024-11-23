@@ -158,7 +158,7 @@ http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/5028
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
 http://defaultgen.com:3050/peej1977@gmail.com/RaQGZdFweK/605151
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
-http://supersonictv.live:8080/329474/903964/84268
+http://s359.cc:80/live/Spr707569970/10706589964/5b737ab6-46cb-4324-9256-892b446c9e0f.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/kBS87sR/lbc.png", ال بي سي  
 http://defaultgen.com:3050/jackdacostajr@yahoo.com/ShLK7QrYz8/605182
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png", ام تي في 
