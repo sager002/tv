@@ -175,6 +175,8 @@ http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://l-television.com/LTV/wp-content/uploads/2021/07/LTV-final-logo-300x298.png", ال تي في  ᴴᴰ
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/x78fJnH/spi.png", اس بي اي  ᴴᴰ
+http://stream.spilebanon.com:1935/spi/myStream/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/fCDtN3p/jordan.jpg" ,الاردن  ᴴᴰ
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/BS8XXug.png", فلسطين اليوم  ᴴᴰ
