@@ -116,7 +116,11 @@ http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/5818
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0JBZkk4/mbc-elife.png" , ام بي سي - ايلايف 
 http://s359.cc:80/live/Spr707569970/10706589964/e38d4a6a-9e2f-4c1b-9f7b-1ecf52cd402e.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/bvhL81z/masrah-msr.png" , شاهد مسرح مصر
-http://s359.cc:80/live/Spr707569970/10706589964/f103388e-553c-4545-929c-6ea33b0ce076.ts
+https://shls-live-enc.edgenextcdn.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://up6.cc/2023/05/168405543304632.png" , شاهد افلام 
+https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://up6.cc/2023/05/168405543305773.png" , شاهد موفي 
+https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" , سبيستون  ᴴᴰ
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" , كرتون نتورك  
@@ -168,7 +172,7 @@ http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/2207
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png", او تي في  
 http://defaultgen.com:3050/peej1977@gmail.com/RaQGZdFweK/605202
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/sOQLV7L.png", قناة المنار  ᴴᴰ
-http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/27611
+https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/71qxh9L/etgah.jpg", قناة الاتجاه  ᴴᴰ
 http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.vdl.me/wp-content/themes/vdl/app/images/logo-header-mobile.png", صوت لبنان  ᴴᴰ
