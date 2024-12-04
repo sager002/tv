@@ -133,14 +133,24 @@ http://driptvs.com:2095/King200conxx/355sgdhh/410586
 http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/27467
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY  
 http://cord-cutter.net:8080/JktY4G/323319/2206
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY (*) 
+https://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/5W5y8f0/disney-jr.png" , DISNEY  jr
 http://yesimes.oknirvana.club:8880/29us2312173n01/asdfrf34r34/2161
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/5W5y8f0/disney-jr.png" , DISNEY  jr (*)
+https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/2560px-Logo_Disney_XD.svg.png" , DISNEY XD  
 http://cdn1host.online:2999/luisantoniorodz@gmail.com/welcome/178
+#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/2560px-Logo_Disney_XD.svg.png" , DISNEY XD (*)
+https://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" , nickelodeon
 http://yesimes.oknirvana.club:8880/29us2312173n01/asdfrf34r34/2151
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" , nickelodeon (*)
+http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick jr  
 http://fortv.cc:8080/34886996/84366221/9807
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick jr (*)
+https://fl2.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/dGlKoLW.png" , روتانا سينما  ᴴᴰ
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/pGgp38I.png" , روتانا افلام  
@@ -261,7 +271,9 @@ http://tooontv.com:999/live/be333gb/agape/31190.m3u
 http://op.web24.live:8080/2409849537/Dj7gDX/39204
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles
 http://cdn1host.online:2999/luisantoniorodz@gmail.com/welcome/985
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles (*)
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) (SP) 
 http://defaultgen.com:3050/jackdacostajr@yahoo.com/ShLK7QrYz8/648495
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC (KNBC) Los Angeles 
-http://1tv41.icu:8080/34157146/24597370/120656
+https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
