@@ -257,6 +257,8 @@ https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist
 http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/9958
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", Discovery us 
 https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", Discovery us (*)
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", Discovery Science us 
 https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/z7dc1VC/bbcearth.jpg", BBC Earth 
@@ -269,6 +271,8 @@ http://fortv.cc:8080/34886996/84366221/1818
 http://tooontv.com:999/live/be333gb/agape/31190.m3u
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN  
 http://op.web24.live:8080/2409849537/Dj7gDX/39204
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN (*)
+http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles
 http://cdn1host.online:2999/luisantoniorodz@gmail.com/welcome/985
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles (*)
