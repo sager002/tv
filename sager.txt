@@ -1,6 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/thqzs1w/arabia.png" , العربية  ᴴᴰ
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+https://live.alarabiya.net/alarabiapublish/alarabiya_720p/chunks.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/dMJhDzV/hadath.png" , العربية الحدث  ᴴᴰ
+https://live.alarabiya.net/alarabiapublish/alhadath_720p/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7bRVpnu.png" , الجزيرة  ᴴᴰ
 http://live-hls-web-aja.getaj.net/AJA/04.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7bRVpnu.png" , الجزيرة الثقافية  ᴴᴰ
