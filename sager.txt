@@ -170,7 +170,7 @@ http://yesimes.oknirvana.club:8880/29us2312173n01/asdfrf34r34/27374
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/6ZLkpgR/Masriyah1.jpg" , المصرية
 http://supersonictv.live:8080/812493/376688/84103
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/JksrH30/Screenshot-20240221-111204.jpg" , المصرية الاولى
-http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/53896
+http://s359.cc:80/live/Spr707569970/10706589964/2bb349af-811f-434a-9f29-09844cbbe4e2.ts
 #EXTINF:0 type="stream" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483628.jpg" , المصرية الثانية
 http://goldiptv.website:8080/dmtn/KL86djT2jb@js26FD/71050.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
