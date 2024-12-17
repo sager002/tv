@@ -234,7 +234,7 @@ http://154.58.202.185:8000/play/a0al
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/qnCg98M/mekamlin.png" , مكملين 
 http://megaott.live:8080/Slawa40cnx/q5kTk6pH9TVx/97752
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/4SBWZsb/hewar.png" , الحوار 
-http://megaott.live:8080/Slawa40cnx/q5kTk6pH9TVx/97464
+http://yesimes.oknirvana.club:8880/live/DAALM2374/mBv24XtbyX/27624.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C1RL10s/ssc1.jpg", SSC 1  
 http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/27441
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/8NRMJqd/ssc2.jpg",  SSC 2  
