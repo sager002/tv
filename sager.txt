@@ -140,7 +140,7 @@ http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/27467
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY  
 http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/17950
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/5W5y8f0/disney-jr.png" , DISNEY  jr
-http://yesimes.oknirvana.club:8880/29us2312173n01/asdfrf34r34/2161
+http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/2161
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/5W5y8f0/disney-jr.png" , DISNEY  jr (*)
 https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/2560px-Logo_Disney_XD.svg.png" , DISNEY XD  
@@ -148,7 +148,7 @@ http://cdn1host.online:2999/luisantoniorodz@gmail.com/welcome/178
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/2560px-Logo_Disney_XD.svg.png" , DISNEY XD (*)
 https://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" , nickelodeon
-http://yesimes.oknirvana.club:8880/29us2312173n01/asdfrf34r34/2151
+http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/2151
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" , nickelodeon (*)
 http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick jr  
@@ -166,7 +166,7 @@ https://oppomu.serv00.net/comedy.php?channel=rcomedy&.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/6HMluzv.png" , روتانا خليجية  
 https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/btnhPjZ.png" , روتانادراما  
-http://yesimes.oknirvana.club:8880/29us2312173n01/asdfrf34r34/27374
+http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/27374
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/6ZLkpgR/Masriyah1.jpg" , المصرية
 http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/53896
 #EXTINF:0 type="stream" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483628.jpg" , المصرية الثانية
@@ -218,9 +218,9 @@ https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900-b/MBN_Alhurra_Worlds
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/APREMUIM/ArtAflam1.png", |ART| افلام 1  
 http://defaultgen.com:3050/peej1977@gmail.com/RaQGZdFweK/605161
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/icE2WOw.png",  |ART| افلام 2  
-http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/2306
+http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/2306
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/APREMUIM/ArtHekayat.png", |ART| حكايات 1 
-http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/2304
+http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/2304
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/APREMUIM/ArtHekayat2.png", |ART| حكايات 2 
 http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/53905
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/osn_al_yawm.png", |OSN| اليوم 
@@ -266,7 +266,7 @@ https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/z7dc1VC/bbcearth.jpg", BBC Earth 
 http://defaultgen.com:3050/jackdacostajr@yahoo.com/ShLK7QrYz8/423700
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/z7dc1VC/bbcearth.jpg", |OSN|  H2
-http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/2158
+http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/2158
 #EXTINF:0 type="stream" tvg-logo="https://newsroom.mattressfirm.com/wp-content/uploads/2019/01/Fox-news-logo.png",Fox News  
 http://xxip25.top:8080/BAaq92/133623/1818
 #EXTINF:0 type="stream" tvg-logo="https://newsroom.mattressfirm.com/wp-content/uploads/2019/01/Fox-news-logo.png",Fox News  (*)
