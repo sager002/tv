@@ -134,7 +134,7 @@ http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/5018
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/TzOKMMy.png" , ماجد  ᴴᴰ
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7woV4Cz.png" , براعم  
-http://driptvs.com:2095/King200conxx/355sgdhh/410586
+http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/5019
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C10XDwn/jeemtv.jpg" , جيم  
 http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/27467
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY  
@@ -180,7 +180,7 @@ http://yesimes.oknirvana.club:8880/live/DAALM2374/mBv24XtbyX/2177.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
 http://defaultgen.com:3050/jackdacostajr@yahoo.com/ShLK7QrYz8/605183
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/kBS87sR/lbc.png", ال بي سي  
-http://driptvs.com:2095/King200conxx/355sgdhh/6306
+http://op.web24.live:8080/2409849537/Dj7gDX/55888
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png", ام تي في 
 http://yesimes.oknirvana.club:8880/DAALM2374/mBv24XtbyX/2207
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png", او تي في  
