@@ -28,7 +28,7 @@ https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/krojJJ7.png" , الكويت دراما  ᴴᴰ
 https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/krojJJ7.png" , الكويت العربي  
-http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/27402
+http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/27402
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/ZohZFuq.png" , الراي  
 http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/54005
 #EXTINF:0 type="stream" tvg-logo="http://live.multies.net/wp-content/uploads/2021/09/al-shahed.png" , الشاهد  
