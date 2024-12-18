@@ -76,9 +76,9 @@ https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/b38wNPK.png", عمان الثقافية  ᴴᴰ
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/fSsJBPF/saudia.png" , السعودية  ᴴᴰ
-http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/27755
+http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/27755.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/9JSQglj.png" , SBC  ᴴᴰ
-http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/2252
+http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/2252.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/dK7jJ3W/ekhbaryah.png" , الاخبارية  ᴴᴰ
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/WHx1Fnr/dhikrayat.png" ,  ذكريات ᴴᴰ
