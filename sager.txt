@@ -174,7 +174,7 @@ http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/53899
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
 http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/5028
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
-http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/54013.ts
+http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/54013
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png",(*) الجديد
 http://154.58.202.185:8000/play/a00s
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
