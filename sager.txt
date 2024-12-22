@@ -134,7 +134,7 @@ http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/5018
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/TzOKMMy.png" , ماجد  ᴴᴰ
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7woV4Cz.png" , براعم  
-http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/5019
+http://driptvs.com:2095/King200conxx/355sgdhh/410586
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C10XDwn/jeemtv.jpg" , جيم  
 http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/27467
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY  
@@ -144,7 +144,7 @@ http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/2161
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/5W5y8f0/disney-jr.png" , DISNEY  jr (*)
 https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/2560px-Logo_Disney_XD.svg.png" , DISNEY XD  
-http://cdn1host.online:2999/luisantoniorodz@gmail.com/welcome/178
+http://cdn1host.online:2999/live/happy2024/newyear/178.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/2560px-Logo_Disney_XD.svg.png" , DISNEY XD (*)
 https://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" , nickelodeon
@@ -152,7 +152,7 @@ http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/2151
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" , nickelodeon (*)
 http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick jr  
-http://fortv.cc:8080/34886996/84366221/9807
+http://cdn1host.online:2999/live/happy2024/newyear/351.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick jr (*)
 https://fl2.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/dGlKoLW.png" , روتانا سينما  ᴴᴰ
@@ -174,13 +174,13 @@ http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/53899
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
 http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/5028
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
-http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/54013
+http://defaultgen.com:3050/jackdacostajr@yahoo.com/ShLK7QrYz8/605151.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png",(*) الجديد
-http://154.58.202.185:8000/play/a00s
+http://yesimes.oknirvana.club:8880/live/DAALM2374/mBv24XtbyX/2177.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
 http://defaultgen.com:3050/jackdacostajr@yahoo.com/ShLK7QrYz8/605183
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/kBS87sR/lbc.png", ال بي سي  
-http://op.web24.live:8080/2409849537/Dj7gDX/55888
+http://driptvs.com:2095/King200conxx/355sgdhh/6306
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png", ام تي في 
 http://yesimes.oknirvana.club:8880/DAALM2374/mBv24XtbyX/2207
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png", او تي في  
@@ -276,7 +276,7 @@ http://op.web24.live:8080/2409849537/Dj7gDX/39204
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN (*)
 http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles
-http://cdn1host.online:2999/luisantoniorodz@gmail.com/welcome/985
+http://cdn1host.online:2999/live/happy2024/newyear/985.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles (*)
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) (SP) 
