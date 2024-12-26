@@ -172,7 +172,7 @@ http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/53899
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
 http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/5028
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
-http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/605151.m3u8
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/605151
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png",(*) الجديد
 http://yesimes.oknirvana.club:8880/live/29ca012603/fsd34r34wr/2177.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
