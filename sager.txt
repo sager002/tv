@@ -178,13 +178,13 @@ http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/5028
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
 http://defaultgen.com:3050/jackdacostajr@yahoo.com/ShLK7QrYz8/605151.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png",(*) الجديد
-http://yesimes.oknirvana.club:8880/live/DAALM2374/mBv24XtbyX/2177.m3u8
+http://yesimes.oknirvana.club:8880/live/29ca012603/fsd34r34wr/2177.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
 http://defaultgen.com:3050/jackdacostajr@yahoo.com/ShLK7QrYz8/605183
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/kBS87sR/lbc.png", ال بي سي  
 http://driptvs.com:2095/King200conxx/355sgdhh/6306
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png", ام تي في 
-http://yesimes.oknirvana.club:8880/DAALM2374/mBv24XtbyX/2207
+http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/2207
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png", او تي في  
 http://defaultgen.com:3050/jackdacostajr@yahoo.com/ShLK7QrYz8/605202
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/sOQLV7L.png", قناة المنار  ᴴᴰ
@@ -236,7 +236,7 @@ http://154.58.202.185:8000/play/a0al
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/qnCg98M/mekamlin.png" , مكملين 
 http://megaott.live:8080/Slawa40cnx/q5kTk6pH9TVx/97752
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/4SBWZsb/hewar.png" , الحوار 
-http://yesimes.oknirvana.club:8880/live/DAALM2374/mBv24XtbyX/27624.m3u8
+http://yesimes.oknirvana.club:8880/live/29ca012603/fsd34r34wr/27624.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C1RL10s/ssc1.jpg", SSC 1  
 http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/27441
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/8NRMJqd/ssc2.jpg",  SSC 2  
