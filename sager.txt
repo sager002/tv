@@ -236,7 +236,7 @@ http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/17951
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
 http://154.58.202.185:8000/play/a0al
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/qnCg98M/mekamlin.png" , مكملين 
-http://megaott.live:8080/Slawa40cnx/q5kTk6pH9TVx/97752
+http://175772.ip07.eu:80/denizuzulmez2/6Q5wLeH5Mr/233007
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/4SBWZsb/hewar.png" , الحوار 
 http://yesimes.oknirvana.club:8880/live/29ca012603/fsd34r34wr/27624.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C1RL10s/ssc1.jpg", SSC 1  
