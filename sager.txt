@@ -178,17 +178,15 @@ http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/53899
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
 http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/5028
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
-http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/605151
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png",(*) الجديد
-http://yesimes.oknirvana.club:8880/live/29ca012603/fsd34r34wr/2177.m3u8
+http://supersonictv.live:8080/live/697347/358939/84167.ts
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
 http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/605183
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/kBS87sR/lbc.png", ال بي سي  
-http://driptvs.com:2095/King200conxx/355sgdhh/6306
+http://supersonictv.live:8080/live/697347/358939/84164.ts
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png", ام تي في 
-http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/2207
+http://supersonictv.live:8080/live/697347/358939/84166.ts
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png", او تي في  
-http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/605202
+http://supersonictv.live:8080/live/697347/358939/84163.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/sOQLV7L.png", قناة المنار  ᴴᴰ
 https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/71qxh9L/etgah.jpg", قناة الاتجاه  ᴴᴰ
