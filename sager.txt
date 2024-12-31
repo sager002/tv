@@ -249,6 +249,8 @@ http://defaultgen.com:3050/peej1977@gmail.com/RaQGZdFweK/605232
 http://defaultgen.com:3050/peej1977@gmail.com/RaQGZdFweK/605233
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1   
 http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/2097
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1 (*) 
+http://supersonictv.live:8080/697347/358939/84128
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 2  
 http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/2096
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/r7BK36X/Animal.jpg", animal planet  
