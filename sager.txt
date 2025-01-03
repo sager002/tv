@@ -93,8 +93,6 @@ https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/in
 http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/5816
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ygs1mVf/MBC2-Logo.png" , ام بي سي - 2 (*)
 https://edge66.magictvbox.com/liveApple/MBC_2/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ygs1mVf/MBC2-Logo.png" , ام بي سي - 2 (+)
-https://mbc-2-prod-dub-enc.edgenextcdn.net/out/v1/a3ad4b53b3ff4a95b4acba9527b280ba/index.mpd
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/UgDTRNv.png" , ام بي سي - 3  ᴴᴰ
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/snkewG1.png" , ام بي سي - 4  ᴴᴰ
@@ -115,12 +113,8 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?HasBahCa
 #EXTINF:0 type="stream" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082010/MBC_Action.png" , ام بي سي اكشن -  
 http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/5072
-#EXTINF:0 type="stream" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082010/MBC_Action.png" , ام بي سي اكشن -  (+)
-https://shls-mbcaction-prod-dub-enc.edgenextcdn.net/out/v1/8732f5132b274000bd59aee64255241c/index.mpd
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/xqq4GwW/mbc-max.png" , ام بي سي - ماكس  
 http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/5810
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/xqq4GwW/mbc-max.png" , ام بي سي - ماكس (+)
-https://mbc-max-prod-dub-enc.edgenextcdn.net:443/out/v1/d63172e8402640c4a6fa442aa0ea2cb8/index.mpd
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات  
 http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/5818
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0JBZkk4/mbc-elife.png" , ام بي سي - ايلايف 
