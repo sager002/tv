@@ -210,7 +210,7 @@ https://live.cdnbridge.tv/Almasirah/Almasirah_1080p/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://habbabihd.com/tvlogo/alhurrah-live.jpg" , الحرة  ᴴᴰ
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900-b/MBN_Alhurra_Worldsafe_HLS/master_2596.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/APREMUIM/ArtAflam1.png", |ART| افلام 1  
-http://defaultgen.com:3050/peej1977@gmail.com/RaQGZdFweK/605161
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/605161
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/icE2WOw.png",  |ART| افلام 2  
 http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/2306
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/APREMUIM/ArtHekayat.png", |ART| حكايات 1 
@@ -234,11 +234,11 @@ http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/27441
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/8NRMJqd/ssc2.jpg",  SSC 2  
 http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/27440
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1  
-http://defaultgen.com:3050/peej1977@gmail.com/RaQGZdFweK/605231
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/605231
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/vUJZSvs.png", beIN Sports 2   
-http://defaultgen.com:3050/peej1977@gmail.com/RaQGZdFweK/605232
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/605232
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/UYSMao3.png", beIN Sports  3 
-http://defaultgen.com:3050/peej1977@gmail.com/RaQGZdFweK/605233
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/605233
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1   
 http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/2097
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1 (*) 
