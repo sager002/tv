@@ -264,22 +264,14 @@ http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/423700
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/z7dc1VC/bbcearth.jpg", |OSN|  H2
 http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/2158
 #EXTINF:0 type="stream" tvg-logo="https://newsroom.mattressfirm.com/wp-content/uploads/2019/01/Fox-news-logo.png",Fox News  
-http://xxip25.top:8080/BAaq92/133623/1818
-#EXTINF:0 type="stream" tvg-logo="https://newsroom.mattressfirm.com/wp-content/uploads/2019/01/Fox-news-logo.png",Fox News  (*)
-http://tooontv.com:999/live/be333gb/agape/31190.m3u
+http://webapphost.ddns.net:80/live/WNUYMt9Tw/ggYtd8939N/610556.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN  
-http://op.web24.live:8080/2409849537/Dj7gDX/39204
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN (*)
-http://xxip25.top:8080/BAaq92/133623/1817
+http://webapphost.ddns.net:80/live/WNUYMt9Tw/ggYtd8939N/12176.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles (*)
-http://xxip25.top:8080/BAaq92/133623/120654
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) 
-http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/648495
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) (*)
-http://xxip25.top:8080/BAaq92/133623/120889
+http://webapphost.ddns.net:80/live/WNUYMt9Tw/ggYtd8939N/1412693.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC (KNBC) Los Angeles 
 https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC (KNBC) Los Angeles (*)
-http://xxip25.top:8080/BAaq92/133623/120656
