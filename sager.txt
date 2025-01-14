@@ -84,7 +84,7 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/WHx1Fnr/dhikrayat.png" ,  ذكريات ᴴᴰ
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/jLD8mtg/sunnah.png" ,  السنة النبوية ᴴᴰ 
-https://oppomu.serv00.net/aloula.php?channel=sunnatvsa&.m3u8
+http://supersonictv.live:8080/live/697347/358939/84190.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/n0Q9nRT/quran.png" , القران الكريم ᴴᴰ 
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/ePBvFC8.png" , ام بي سي - 1  ᴴᴰ
