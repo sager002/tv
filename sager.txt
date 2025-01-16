@@ -12,7 +12,7 @@ https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2kd9ZTd/bbc.png" , بي بي سي  ᴴᴰ
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/420px-France24.png" ,  فرنسا 24
-https://ythls.armelin.one/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
+http://stream.snaptech.tv:/D73747r7udh/rDcYJPXUqC2GgU/436.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/EfKe3ae.png", المانيا  ᴴᴰ
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/Yhx941G/skynews.png", سكاي نيوز  ᴴᴰ
