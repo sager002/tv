@@ -118,7 +118,7 @@ http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/5810
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات  
 http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/5818
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0JBZkk4/mbc-elife.png" , ام بي سي - ايلايف 
-http://stream.snaptech.tv/D73747r7udh/rDcYJPXUqC2GgU/259241.m3u8
+http://stream.snaptech.tv:80/live/D73747r7udh/rDcYJPXUqC2GgU/259241.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/bvhL81z/masrah-msr.png" , شاهد مسرح مصر
 https://shls-live-enc.edgenextcdn.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://up6.cc/2023/05/168405543304632.png" , شاهد افلام 
