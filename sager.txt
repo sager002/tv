@@ -112,11 +112,11 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/tYOxhA9.png" , ام بي سي - بوليوود  ᴴᴰ
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082010/MBC_Action.png" , ام بي سي اكشن -  
-http://185.101.107.131:2082/hmx/44kaux0zI/192
+http://supersonictv.live:8080/697347/358939/84010
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/xqq4GwW/mbc-max.png" , ام بي سي - ماكس  
 http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27752
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات  
-http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/5818
+http://supersonictv.live:8080/697347/358939/84014
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0JBZkk4/mbc-elife.png" , ام بي سي - ايلايف 
 http://stream.snaptech.tv:/live/D73747r7udh/rDcYJPXUqC2GgU/259241.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/bvhL81z/masrah-msr.png" , شاهد مسرح مصر
