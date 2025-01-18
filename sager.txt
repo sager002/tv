@@ -30,7 +30,7 @@ https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/krojJJ7.png" , الكويت العربي  
 http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27402
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/ZohZFuq.png" , الراي  
-http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/54005
+http://185.101.107.131:2082/hmx/44kaux0zI/240
 #EXTINF:0 type="stream" tvg-logo="http://live.multies.net/wp-content/uploads/2021/09/al-shahed.png" , الشاهد  
 http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/66759
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2F8TwT3/bahrain.png" , البحرين  ᴴᴰ
@@ -91,6 +91,8 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ygs1mVf/MBC2-Logo.png" , ام بي سي - 2  
 http://stream.snaptech.tv:/D73747r7udh/rDcYJPXUqC2GgU/259215
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ygs1mVf/MBC2-Logo.png" , ام بي سي - 2  (*)
+http://185.101.107.131:2082/hmx/44kaux0zI/189
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/UgDTRNv.png" , ام بي سي - 3  ᴴᴰ
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/snkewG1.png" , ام بي سي - 4  ᴴᴰ
@@ -110,7 +112,7 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/tYOxhA9.png" , ام بي سي - بوليوود  ᴴᴰ
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082010/MBC_Action.png" , ام بي سي اكشن -  
-http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/5072
+http://185.101.107.131:2082/hmx/44kaux0zI/192
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/xqq4GwW/mbc-max.png" , ام بي سي - ماكس  
 http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/5810
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات  
@@ -138,7 +140,7 @@ http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27467
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zhGgTLX/boomerang.png" , Boomerange 
 http://185.101.107.131:2082/live/hmx/44kaux0zI/3712.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY  
-http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/17950
+http://185.101.107.131:2082/hmx/44kaux0zI/131
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/5W5y8f0/disney-jr.png" , DISNEY  jr
 http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/2161
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/5W5y8f0/disney-jr.png" , DISNEY  jr (*)
@@ -216,11 +218,13 @@ http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/2306
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/APREMUIM/ArtHekayat.png", |ART| حكايات 1 
 http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/2304
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/APREMUIM/ArtHekayat2.png", |ART| حكايات 2 
-http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/53905
+http://185.101.107.131:2082/hmx/44kaux0zI/155
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/osn_al_yawm.png", |OSN| اليوم 
-http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/4543
+http://185.101.107.131:2082/hmx/44kaux0zI/142
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا 
-http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/17952
+http://185.101.107.131:2082/hmx/44kaux0zI/137
+#EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا بالعربي
+http://185.101.107.131:2082/hmx/44kaux0zI/138
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
 http://stream.snaptech.tv:/live/D73747r7udh/rDcYJPXUqC2GgU/312555.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
@@ -252,7 +256,7 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/1KZG3b4/fe43c644-081a-4816-a4e1-411740081c52.png",الشرق Documentary  ᴴᴰ
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", |OSN| ديسكفري  
-http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/9958
+http://185.101.107.131:2082/hmx/44kaux0zI/9
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", Discovery us 
 http://tooontv.com:999/live/be333gb/agape/31191.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", Discovery us (*)
