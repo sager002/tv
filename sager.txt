@@ -32,7 +32,7 @@ http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27402
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/ZohZFuq.png" , الراي  
 http://185.101.107.131:2082/hmx/44kaux0zI/240
 #EXTINF:0 type="stream" tvg-logo="http://live.multies.net/wp-content/uploads/2021/09/al-shahed.png" , الشاهد  
-http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/66759
+http://stream.snaptech.tv:/D73747r7udh/rDcYJPXUqC2GgU/280847
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2F8TwT3/bahrain.png" , البحرين  ᴴᴰ
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/N5RB4sp.png" , قطر 1  ᴴᴰ
@@ -168,7 +168,7 @@ http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27374
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/6ZLkpgR/Masriyah1.jpg" , المصرية
 http://supersonictv.live:8080/697347/358939/84103
 #EXTINF:0 type="stream" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483628.jpg" , المصرية الثانية
-http://eg.protoniumtv.net:1997/frlocalyoussef/9175286361/53899
+http://stream.snaptech.tv:/D73747r7udh/rDcYJPXUqC2GgU/86588
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
 http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27767
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
