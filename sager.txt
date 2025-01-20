@@ -256,7 +256,7 @@ https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", |OSN| ديسكفري  
 http://185.101.107.131:2082/hmx/44kaux0zI/9
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", Discovery us 
-http://tooontv.com:999/live/be333gb/agape/31191.ts
+http://voidharbinger.xyz:80/fgagg6242/fg0716/814297
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", Discovery us (*)
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", Discovery Science us 
