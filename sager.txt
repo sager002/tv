@@ -90,7 +90,7 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/ePBvFC8.png" , ام بي سي - 1  ᴴᴰ
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ygs1mVf/MBC2-Logo.png" , ام بي سي - 2  
-http://supersonictv.live:8080/697347/358939/84004
+http://149.57.37.10/EX/MBC_2_FHD-ar/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/UgDTRNv.png" , ام بي سي - 3  ᴴᴰ
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/snkewG1.png" , ام بي سي - 4  ᴴᴰ
