@@ -268,10 +268,10 @@ http://xxip9.top:8080/357363/396558/135794
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN  
 http://xxip9.top:8080/357363/396558/104884
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles
-http://voidharbinger.xyz:80/dr206/1563082974/814636
+http://voidharbinger.xyz:80/fgagg6242/fg0716/814636
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) 
-http://voidharbinger.xyz:80/dr206/1563082974/814877
+http://voidharbinger.xyz:80/fgagg6242/fg0716/814877
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC (KNBC) Los Angeles 
 https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png", ABC 7
-http://stilustv.com:80/tobeltv/1997347024/21957
+http://voidharbinger.xyz:80/fgagg6242/fg0716/814541
