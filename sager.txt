@@ -258,7 +258,7 @@ http://185.101.107.131:2082/hmx/44kaux0zI/9
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", Discovery us
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", Discovery Science us 
-http://tooontv.com:999/live/be333gb/agape/31231.ts
+http://voidharbinger.xyz:80/dr206/1563082974/814301
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/z7dc1VC/bbcearth.jpg", BBC Earth 
 http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/423700
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/z7dc1VC/bbcearth.jpg", |OSN|  H2
@@ -268,9 +268,9 @@ http://xxip9.top:8080/357363/396558/135794
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN  
 http://xxip9.top:8080/357363/396558/104884
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles
-http://stilustv.com:80/tobeltv/1997347024/21966
+http://voidharbinger.xyz:80/dr206/1563082974/814636
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) 
-http://xxip9.top:8080/357363/396558/120889
+http://voidharbinger.xyz:80/dr206/1563082974/814877
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC (KNBC) Los Angeles 
 https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png", ABC 7
