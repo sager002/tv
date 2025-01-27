@@ -264,14 +264,14 @@ http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/423700
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/z7dc1VC/bbcearth.jpg", |OSN|  H2
 http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/2158
 #EXTINF:0 type="stream" tvg-logo="https://newsroom.mattressfirm.com/wp-content/uploads/2019/01/Fox-news-logo.png",Fox News  
-http://xxip9.top:8080/357363/396558/135794
+http://hdhd.tk:80/live/11111111/11111111/1654.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN  
-http://xxip9.top:8080/357363/396558/104884
+http://hdhd.tk:80/live/11111111/11111111/1644.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles
-http://voidharbinger.xyz:80/fgagg6242/fg0716/814636
+http://hdhd.tk:80/live/11111111/11111111/29169.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) 
-http://voidharbinger.xyz:80/fgagg6242/fg0716/814877
+http://hdhd.tk:80/live/11111111/11111111/29148.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC (KNBC) Los Angeles 
 https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png", ABC 7
-http://voidharbinger.xyz:80/fgagg6242/fg0716/814541
+http://hdhd.tk:80/live/11111111/11111111/22009.m3u8
