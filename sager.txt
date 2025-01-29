@@ -274,16 +274,11 @@ http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2168314
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN (*)
 http://104.243.32.122:8080/return20/eftsfspbkcnt/2076
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles
-http://104.243.32.122:8080/return20/eftsfspbkcnt/925
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles (*)
 http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2113516
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) 
-http://jaciptv.com/play/link/2b4a27c5-0c85-4a5d-99ea-cab02deb5360/eyJpdiI6InVkRWtJREszbmJyTU4va2RQKzJGWXc9PSIsInZhbHVlIjoidjFENXorV0dIVDNGaTd4aFNsMmIvZnJsMXpmYUh3ZVF5QjA2OFg3ZnlQcExjYjcrNzMxTVBBY3ZjNUpMVXJFaCIsIm1hYyI6IjU1NjQxZjFlOTg3YzQxNDQ4NzExZTQ0MWQ3ZjBjODQ1OTgzNDY2MTljODQ3OTIwZWRlMDVjMmJmODVkYWVhYjUiLCJ0YWciOiIifQ==.m3u?useIntId=0
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) (*)
+http://jaciptv.com/play/link/2b4a27
 http://104.243.32.122:8080/return20/eftsfspbkcnt/2146
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC (KNBC) Los Angeles 
-https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC 4 Los Angeles 
 http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2113568
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png", ABC 7
 http://104.243.32.122:8080/return20/eftsfspbkcnt/1310
