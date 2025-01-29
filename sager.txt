@@ -264,20 +264,26 @@ http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/423700
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/z7dc1VC/bbcearth.jpg", |OSN|  H2
 http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/2158
 #EXTINF:0 type="stream" tvg-logo="https://newsroom.mattressfirm.com/wp-content/uploads/2019/01/Fox-news-logo.png",Fox News  
-http://jaciptv.com/play/link/fa4f44a9-80c7-452e-b465-6a4c463039d3/eyJpdiI6InNsTUJOMkcrVXNiRUhmc0RNbmVwOEE9PSIsInZhbHVlIjoid0QrM041M05hZnJ4ZXZyZ3IwUzIxR09JQnA3aVNkM2VZbExtcEoxMmU3bTNDbFZuSFovc2hNbHQwV3pjc0xqZSIsIm1hYyI6IjMzZTMzZGUxZTY0NGQ4MTE0OWVmMGIwZTk0MjY5OTlmMTA5MmM5MTczZTA5N2VlNGYyZjJhNzc2NDI1Y2NiMTYiLCJ0YWciOiIifQ==.m3u?useIntId=0
+http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/10615
 #EXTINF:0 type="stream" tvg-logo="https://newsroom.mattressfirm.com/wp-content/uploads/2019/01/Fox-news-logo.png",Fox News (*)
 http://104.243.32.122:8080/return20/eftsfspbkcnt/2082
+#EXTINF:0 type="stream" tvg-logo="https://newsroom.mattressfirm.com/wp-content/uploads/2019/01/Fox-news-logo.png",Fox 11
+http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2113544
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN  
-http://jaciptv.com/play/link/57740d5b-516c-4926-ad28-dd5bee941e58/eyJpdiI6Im14RHk4MmVYMXY5WWluTGFCQmR3RXc9PSIsInZhbHVlIjoidnNaOTFvTUpTRm96aFMrMTNXcXVnNnRVMDlLSGJ2bnFZM0dybHRnR0tpaWltOEpPMTlNVzFaVHpLWlVIYUlDSSIsIm1hYyI6IjkwN2JmMjk1NTFlN2E4NTVmMWE2MWY5YjQzNmQ4OTBkNWMxY2EzYWUxMDVjZjcwZWMzZDZjOWYxMGFjNTk2NmQiLCJ0YWciOiIifQ==.m3u?useIntId=0
+http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2168314
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN (*)
 http://104.243.32.122:8080/return20/eftsfspbkcnt/2076
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles
 http://104.243.32.122:8080/return20/eftsfspbkcnt/925
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles (*)
+http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2113516
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) 
 http://jaciptv.com/play/link/2b4a27c5-0c85-4a5d-99ea-cab02deb5360/eyJpdiI6InVkRWtJREszbmJyTU4va2RQKzJGWXc9PSIsInZhbHVlIjoidjFENXorV0dIVDNGaTd4aFNsMmIvZnJsMXpmYUh3ZVF5QjA2OFg3ZnlQcExjYjcrNzMxTVBBY3ZjNUpMVXJFaCIsIm1hYyI6IjU1NjQxZjFlOTg3YzQxNDQ4NzExZTQ0MWQ3ZjBjODQ1OTgzNDY2MTljODQ3OTIwZWRlMDVjMmJmODVkYWVhYjUiLCJ0YWciOiIifQ==.m3u?useIntId=0
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) (*)
 http://104.243.32.122:8080/return20/eftsfspbkcnt/2146
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC (KNBC) Los Angeles 
 https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC 4 Los Angeles 
+http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2113568
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png", ABC 7
 http://104.243.32.122:8080/return20/eftsfspbkcnt/1310
