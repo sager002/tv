@@ -281,4 +281,4 @@ http://104.243.32.122:8080/return20/eftsfspbkcnt/2146
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC (KNBC) Los Angeles 
 http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2113568
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png", ABC 7
-http://104.243.32.122:8080/return20/eftsfspbkcnt/1310
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/103133.ts
