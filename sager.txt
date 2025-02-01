@@ -266,19 +266,23 @@ http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/2158
 #EXTINF:0 type="stream" tvg-logo="https://newsroom.mattressfirm.com/wp-content/uploads/2019/01/Fox-news-logo.png",Fox News  
 http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/10615
 #EXTINF:0 type="stream" tvg-logo="https://newsroom.mattressfirm.com/wp-content/uploads/2019/01/Fox-news-logo.png",Fox News (*)
-http://104.243.32.122:8080/return20/eftsfspbkcnt/2082
+http://orbytdrm.xyz:8080/live/gobirds/UCwJJWQwtrEq/57622.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://newsroom.mattressfirm.com/wp-content/uploads/2019/01/Fox-news-logo.png",Fox 11
 http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2113544
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN  
 http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2168314
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN (*)
-http://104.243.32.122:8080/return20/eftsfspbkcnt/2076
+http://orbytdrm.xyz:8080/live/gobirds/UCwJJWQwtrEq/57295.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles
 http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2113516
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles (*)
+http://orbytdrm.xyz:8080/live/gobirds/UCwJJWQwtrEq/103134.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) 
 http://jaciptv.com/play/link/2b4a27
 http://104.243.32.122:8080/return20/eftsfspbkcnt/2146
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC (KNBC) Los Angeles 
 http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2113568
+#EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC (KNBC) Los Angeles (*)
+http://orbytdrm.xyz:8080/live/gobirds/UCwJJWQwtrEq/103138.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png", ABC 7
-http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/103133.ts
+http://orbytdrm.xyz:8080/live/gobirds/UCwJJWQwtrEq/103133.m3u8
