@@ -232,7 +232,7 @@ http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27441
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/8NRMJqd/ssc2.jpg",  SSC 2  
 http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27440
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1  
-http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/605231
+http://authxplus-2.xyz:2082/Xplus-1-1LPUKYQ5Rx/cL0ycK3pGb/901
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/vUJZSvs.png", beIN Sports 2   
 http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/605232
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/UYSMao3.png", beIN Sports  3 
