@@ -12,7 +12,7 @@ https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2kd9ZTd/bbc.png" , بي بي سي  ᴴᴰ
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/420px-France24.png" ,  فرنسا 24
-http://stream.snaptech.tv:/live/D73747r7udh/rDcYJPXUqC2GgU/436.ts
+http://193.27.90.139:8080/romaniamedia/c726d524bf/2929
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/EfKe3ae.png", المانيا  ᴴᴰ
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/Yhx941G/skynews.png", سكاي نيوز  ᴴᴰ
@@ -115,8 +115,6 @@ http://supersonictv.live:8080/697347/358939/84010
 http://supersonictv.live:8080/697347/358939/84011
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات  
 http://supersonictv.live:8080/697347/358939/84014
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0JBZkk4/mbc-elife.png" , ام بي سي - ايلايف 
-http://stream.snaptech.tv:/live/D73747r7udh/rDcYJPXUqC2GgU/259241.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/bvhL81z/masrah-msr.png" , شاهد مسرح مصر
 https://shls-live-enc.edgenextcdn.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://up6.cc/2023/05/168405543304632.png" , شاهد افلام 
@@ -226,7 +224,7 @@ http://200.26.188.228:2082/live/hmx/44kaux0zI/178.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
 http://154.58.202.185:8000/play/a0al
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/qnCg98M/mekamlin.png" , مكملين 
-http://stream.snaptech.tv:/live/D73747r7udh/rDcYJPXUqC2GgU/6097.m3u8
+http://193.27.90.139:8080/romaniamedia/c726d524bf/4958
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/4SBWZsb/hewar.png" , الحوار 
 http://193.27.90.139:8080/romaniamedia/c726d524bf/33100
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C1RL10s/ssc1.jpg", SSC 1  
@@ -246,7 +244,7 @@ http://supersonictv.live:8080/697347/358939/84128
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 2  
 http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/2096
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/r7BK36X/Animal.jpg", animal planet  
-http://stream.snaptech.tv:/live/D73747r7udh/rDcYJPXUqC2GgU/259168.m3u8
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/417996
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/1KZG3b4/fe43c644-081a-4816-a4e1-411740081c52.png",الشرق Discovery  ᴴᴰ
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/1KZG3b4/fe43c644-081a-4816-a4e1-411740081c52.png",الشرق Documentary  ᴴᴰ
