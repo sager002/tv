@@ -32,7 +32,7 @@ http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27402
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/ZohZFuq.png" , الراي  
 http://185.101.107.131:2082/hmx/44kaux0zI/240
 #EXTINF:0 type="stream" tvg-logo="http://live.multies.net/wp-content/uploads/2021/09/al-shahed.png" , الشاهد  
-http://stream.snaptech.tv:/D73747r7udh/rDcYJPXUqC2GgU/280847
+http://193.27.90.139:8080/romaniamedia/c726d524bf/284383
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2F8TwT3/bahrain.png" , البحرين  ᴴᴰ
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/N5RB4sp.png" , قطر 1  ᴴᴰ
@@ -76,7 +76,7 @@ https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/b38wNPK.png", عمان الثقافية  ᴴᴰ
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/fSsJBPF/saudia.png" , السعودية  ᴴᴰ
-http://stream.snaptech.tv:/D73747r7udh/rDcYJPXUqC2GgU/35986
+http://193.27.90.139:8080/romaniamedia/c726d524bf/3741
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/9JSQglj.png" , SBC  ᴴᴰ
 http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/2252
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/dK7jJ3W/ekhbaryah.png" , الاخبارية  ᴴᴰ
@@ -154,9 +154,7 @@ https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/60
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/pGgp38I.png" , روتانا افلام  
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/pMMUvkt.png" , روتانا كلاسك
-http://stream.snaptech.tv:/D73747r7udh/rDcYJPXUqC2GgU/9
-#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/pMMUvkt.png" , روتانا كلاسك (*)
-http://stream.snaptech.tv:/live/D73747r7udh/rDcYJPXUqC2GgU/9.ts
+http://193.27.90.139:8080/romaniamedia/c726d524bf/300323
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0f9sh8q/rotana-comedy.jpg" , روتانا كوميدي 
 https://oppomu.serv00.net/comedy.php?channel=rcomedy&.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/6HMluzv.png" , روتانا خليجية  
@@ -166,7 +164,7 @@ http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27374
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/6ZLkpgR/Masriyah1.jpg" , المصرية
 http://supersonictv.live:8080/697347/358939/84103
 #EXTINF:0 type="stream" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483628.jpg" , المصرية الثانية
-http://stream.snaptech.tv:/D73747r7udh/rDcYJPXUqC2GgU/86588
+http://193.27.90.139:8080/romaniamedia/c726d524bf/11282
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
 http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27767
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
@@ -224,7 +222,7 @@ http://185.101.107.131:2082/hmx/44kaux0zI/137
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا بالعربي
 http://185.101.107.131:2082/hmx/44kaux0zI/138
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
-http://stream.snaptech.tv:/live/D73747r7udh/rDcYJPXUqC2GgU/312555.ts
+http://200.26.188.228:2082/live/hmx/44kaux0zI/178.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
 http://154.58.202.185:8000/play/a0al
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/qnCg98M/mekamlin.png" , مكملين 
@@ -278,6 +276,7 @@ http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2113516
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles (*)
 http://orbytdrm.xyz:8080/live/gobirds/UCwJJWQwtrEq/103134.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) 
+http://jaciptv.com/play/link/2b4a27
 http://104.243.32.122:8080/return20/eftsfspbkcnt/2146
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC (KNBC) Los Angeles 
 http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2113568
