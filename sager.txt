@@ -235,10 +235,12 @@ http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27441
 http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27440
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1  
 http://authxplus-2.xyz:2082/Xplus-1-1LPUKYQ5Rx/cL0ycK3pGb/901
+#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1 (*)
+http://cnd.epg-service.xyz:2082/Xplus-1-gEbzZfQn9c/AGIYONlta5/901
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/vUJZSvs.png", beIN Sports 2   
-http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/605232
+http://cnd.epg-service.xyz:2082/Xplus-1-gEbzZfQn9c/AGIYONlta5/902
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/UYSMao3.png", beIN Sports  3 
-http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/605233
+http://cnd.epg-service.xyz:2082/Xplus-1-gEbzZfQn9c/AGIYONlta5/903
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1   
 http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/2097
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1 (*) 
