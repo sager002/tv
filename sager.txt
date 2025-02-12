@@ -114,7 +114,7 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/tYOxhA9.png" , ام بي سي - بوليوود  ᴴᴰ
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082010/MBC_Action.png" , ام بي سي اكشن -  
-http://supersonictv.live:8080/593869/699093/84010
+https://edge66.magictvbox.com/liveApple/MBC_Action/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/xqq4GwW/mbc-max.png" , ام بي سي - ماكس  
 http://supersonictv.live:8080/593869/699093/84011
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات  
