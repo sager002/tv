@@ -118,7 +118,7 @@ http://supersonictv.live:8080/593869/699093/84011
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات  
 http://supersonictv.live:8080/593869/699093/84014
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0JBZkk4/mbc-elife.png" , ام بي سي - ايلايف
-http://ktv.im:8080/5425798654290/7431790764235/51291
+http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/1445982
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/bvhL81z/masrah-msr.png" , شاهد مسرح مصر
 https://shls-live-enc.edgenextcdn.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://up6.cc/2023/05/168405543304632.png" , شاهد افلام 
@@ -166,7 +166,7 @@ http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27374
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/6ZLkpgR/Masriyah1.jpg" , المصرية
 http://supersonictv.live:8080/593869/699093/84103
 #EXTINF:0 type="stream" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483628.jpg" , المصرية الثانية
-http://193.27.90.139:8080/romaniamedia/c726d524bf/11282
+http://ktv.im:8080/5425798654290/7431790764235/504548
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
 https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
@@ -206,7 +206,7 @@ https://htvmada.mada.ps:4443/maannews/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.livehdtv.net/uploads/kanal/26635Makan%2033.jpg" , مكان   ᴴᴰ
 https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_4k/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/TY4SXxV/hala.png" , هلا  ᴴᴰ
-http://135.125.160.66/edge/halaTV/chunks.m3u8
+https://stream.panet.com/edge/halaTV/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0M8mj1c/i24.jpg" , i24  ᴴᴰ
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/V055t5e.png" , المسيرة
