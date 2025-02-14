@@ -33,8 +33,6 @@ https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
 https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/ZohZFuq.png" , الراي  
 http://185.101.107.131:2082/hmx/44kaux0zI/240
-#EXTINF:0 type="stream" tvg-logo="http://live.multies.net/wp-content/uploads/2021/09/al-shahed.png" , الشاهد  
-http://193.27.90.139:8080/romaniamedia/c726d524bf/284383
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2F8TwT3/bahrain.png" , البحرين  ᴴᴰ
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/N5RB4sp.png" , قطر 1  ᴴᴰ
@@ -172,17 +170,17 @@ http://193.27.90.139:8080/romaniamedia/c726d524bf/11282
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
 https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
-http://193.27.90.139:8080/romaniamedia/c726d524bf/3774
+http://23.227.147.172:80/Pete1/Pete2/515725.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
-http://193.27.90.139:8080/romaniamedia/c726d524bf/11921
+http://23.227.147.172:80/Pete1/Pete2/516663.ts
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال 2
-http://193.27.90.139:8080/romaniamedia/c726d524bf/297107
+http://23.227.147.172:80/Pete1/Pete2/2758562.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/kBS87sR/lbc.png", ال بي سي  
 http://supersonictv.live:8080/live/593869/699093/84164.ts
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png", ام تي في 
-http://193.27.90.139:8080/romaniamedia/c726d524bf/1236
+http://23.227.147.172:80/Pete1/Pete2/770861.ts
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png", او تي في  
-http://193.27.90.139:8080/romaniamedia/c726d524bf/3751
+http://23.227.147.172:80/Pete1/Pete2/1791088.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/sOQLV7L.png", قناة المنار  ᴴᴰ
 https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/71qxh9L/etgah.jpg", قناة الاتجاه  ᴴᴰ
@@ -289,6 +287,7 @@ http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2113516
 http://orbytdrm.xyz:8080/live/gobirds/UCwJJWQwtrEq/103134.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) 
 http://jaciptv.com/play/link/2b4a27
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) (*)
 http://104.243.32.122:8080/return20/eftsfspbkcnt/2146
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC (KNBC) Los Angeles 
 http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2113568
