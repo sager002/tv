@@ -134,9 +134,9 @@ http://wskunsa12.wanicelife.com:8880/JH12M3D238/2WfvkguZ9g/27721
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/TzOKMMy.png" , ماجد  ᴴᴰ
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7woV4Cz.png" , براعم  
-http://23.227.147.172:80/Pete1/Pete2/516021.ts
+http://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/392.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C10XDwn/jeemtv.jpg" , جيم  
-http://23.227.147.172:80/Pete1/Pete2/516250.ts
+http://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/393.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zhGgTLX/boomerang.png" , Boomerange 
 http://185.101.107.131:2082/live/hmx/44kaux0zI/3712.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY  
