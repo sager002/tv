@@ -116,7 +116,7 @@ https://edge66.magictvbox.com/liveApple/MBC_Action/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/xqq4GwW/mbc-max.png" , ام بي سي - ماكس  
 https://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/347.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات  
-http://supersonictv.live:8080/593869/699093/84014
+https://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/348.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0JBZkk4/mbc-elife.png" , ام بي سي - ايلايف
 http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/1445982
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/bvhL81z/masrah-msr.png" , شاهد مسرح مصر
