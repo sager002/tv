@@ -180,7 +180,7 @@ http://supersonictv.live:8080/live/593869/699093/84164.ts
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png", ام تي في 
 http://supersonictv.live:8080/312378/888834/84166
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png", او تي في  
-http://supersonictv.live:8080/312378/888834/84163
+http://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/369.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/sOQLV7L.png", قناة المنار  ᴴᴰ
 https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/71qxh9L/etgah.jpg", قناة الاتجاه  ᴴᴰ
