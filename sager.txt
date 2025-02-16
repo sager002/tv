@@ -114,7 +114,7 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 #EXTINF:0 type="stream" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082010/MBC_Action.png" , ام بي سي اكشن -  
 https://edge66.magictvbox.com/liveApple/MBC_Action/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/xqq4GwW/mbc-max.png" , ام بي سي - ماكس  
-http://supersonictv.live:8080/593869/699093/84011
+https://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/347.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات  
 http://supersonictv.live:8080/593869/699093/84014
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0JBZkk4/mbc-elife.png" , ام بي سي - ايلايف
@@ -234,17 +234,17 @@ http://193.27.90.139:8080/romaniamedia/c726d524bf/4958
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/4SBWZsb/hewar.png" , الحوار 
 http://193.27.90.139:8080/romaniamedia/c726d524bf/33100
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C1RL10s/ssc1.jpg", SSC 1  
-http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27441
+https://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/318.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/8NRMJqd/ssc2.jpg",  SSC 2  
-http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27440
-#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1  
-http://authxplus-2.xyz:2082/Xplus-1-1LPUKYQ5Rx/cL0ycK3pGb/901
+https://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/319.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1
+https://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/306.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1 (*)
-http://cnd.epg-service.xyz:2082/Xplus-1-gEbzZfQn9c/AGIYONlta5/901
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-1_A/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/vUJZSvs.png", beIN Sports 2   
-http://cnd.epg-service.xyz:2082/Xplus-1-gEbzZfQn9c/AGIYONlta5/902
+https://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/307.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/UYSMao3.png", beIN Sports  3 
-http://cnd.epg-service.xyz:2082/Xplus-1-gEbzZfQn9c/AGIYONlta5/903
+https://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/308.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1   
 http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/2097
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1 (*) 
