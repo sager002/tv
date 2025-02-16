@@ -171,8 +171,10 @@ http://ktv.im:8080/5425798654290/7431790764235/504548
 https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
 http://supersonictv.live:8080/312378/888834/84167
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد (*)
+https://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/373.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
-http://154.58.202.185:8000/play/a00r
+https://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/375.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/kBS87sR/lbc.png", ال بي سي  
 http://supersonictv.live:8080/live/593869/699093/84164.ts
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png", ام تي في 
@@ -222,7 +224,7 @@ http://185.101.107.131:2082/hmx/44kaux0zI/155
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/osn_al_yawm.png", |OSN| اليوم 
 http://185.101.107.131:2082/hmx/44kaux0zI/142
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا 
-http://185.101.107.131:2082/hmx/44kaux0zI/137
+https://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/430.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا بالعربي
 http://185.101.107.131:2082/hmx/44kaux0zI/138
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
