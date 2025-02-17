@@ -170,8 +170,6 @@ http://ktv.im:8080/5425798654290/7431790764235/504548
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
 https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
-http://supersonictv.live:8080/312378/888834/84167
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد (*)
 https://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/373.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
 https://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/375.m3u8
