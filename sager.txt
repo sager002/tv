@@ -130,7 +130,7 @@ https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/in
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" , سبيستون  ᴴᴰ
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" , كرتون نتورك  
-http://wskunsa12.wanicelife.com:8880/JH12M3D238/2WfvkguZ9g/27721
+http://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/387.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/TzOKMMy.png" , ماجد  ᴴᴰ
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7woV4Cz.png" , براعم  
@@ -212,15 +212,15 @@ https://live.cdnbridge.tv/Almasirah/Almasirah_1080p/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://habbabihd.com/tvlogo/alhurrah-live.jpg" , الحرة  ᴴᴰ
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900-b/MBN_Alhurra_Worldsafe_HLS/master_2596.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/APREMUIM/ArtAflam1.png", |ART| افلام 1  
-http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/605161
+http://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/406.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/icE2WOw.png",  |ART| افلام 2  
-http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/2306
+http://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/407.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/APREMUIM/ArtHekayat.png", |ART| حكايات 1 
-http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/2304
+http://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/409.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/APREMUIM/ArtHekayat2.png", |ART| حكايات 2 
-http://185.101.107.131:2082/hmx/44kaux0zI/155
+http://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/410.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/osn_al_yawm.png", |OSN| اليوم 
-http://185.101.107.131:2082/hmx/44kaux0zI/142
+http://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/437.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا 
 https://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/430.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا بالعربي
@@ -266,9 +266,9 @@ http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", Discovery Science us 
 http://voidharbinger.xyz:80/dr206/1563082974/814301
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/z7dc1VC/bbcearth.jpg", BBC Earth 
-http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/423700
+http://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/574.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/z7dc1VC/bbcearth.jpg", |OSN|  H2
-http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/2158
+http://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/438.ts
 #EXTINF:0 type="stream" tvg-logo="https://newsroom.mattressfirm.com/wp-content/uploads/2019/01/Fox-news-logo.png",Fox News  
 http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/10615
 #EXTINF:0 type="stream" tvg-logo="https://newsroom.mattressfirm.com/wp-content/uploads/2019/01/Fox-news-logo.png",Fox News (*)
