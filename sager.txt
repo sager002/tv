@@ -166,7 +166,7 @@ http://edge66.magictvbox.com/liveApple/rotana_massriya_plus/tracks-v1a1/mono.m3u
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/6ZLkpgR/Masriyah1.jpg" , المصرية
 http://supersonictv.live:8080/593869/699093/84103
 #EXTINF:0 type="stream" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483628.jpg" , المصرية الثانية
-http://ktv.im:8080/5425798654290/7431790764235/504548
+http://vip.private1tv.com:25443/live/6529517657/TNDYT42NPG/64291.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
 https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
