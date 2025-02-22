@@ -197,6 +197,8 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/HPHqvVt/aqsa.jpg", الاقصى   ᴴᴰ
 http://63b03f7689049.streamlock.net:1935/live/68/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/HPHqvVt/aqsa.jpg", الاقصى
+http://95.216.180.111:1935/live/68/chunklist_w215107032.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/4B5FvmX.png", فلسطين  ᴴᴰ
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.maannews.net/2022_assets/images/logo.png" , معا  ᴴᴰ
