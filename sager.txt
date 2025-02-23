@@ -114,7 +114,7 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 #EXTINF:0 type="stream" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082010/MBC_Action.png" , ام بي سي اكشن -  
 https://edge66.magictvbox.com/liveApple/MBC_Action/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/xqq4GwW/mbc-max.png" , ام بي سي - ماكس  
-http://supersonictv.live:8080/640676/019121/84011
+http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/1240
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات  
 http://mu3241218.oknirvana.club:8880/live/NestaSoekarno/v856TWWLS4/27501.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0JBZkk4/mbc-elife.png" , ام بي سي - ايلايف
@@ -130,11 +130,11 @@ https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/in
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" , سبيستون  ᴴᴰ
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" , كرتون نتورك  
-http://mu3241218.oknirvana.club:8880/live/NestaSoekarno/v856TWWLS4/27721.m3u8
+http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/58461
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/TzOKMMy.png" , ماجد  ᴴᴰ
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7woV4Cz.png" , براعم  
-http://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/392.ts
+http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/1272
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C10XDwn/jeemtv.jpg" , جيم  
 http://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/393.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zhGgTLX/boomerang.png" , Boomerange 
@@ -142,11 +142,7 @@ http://185.101.107.131:2082/live/hmx/44kaux0zI/3712.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY  
 http://185.101.107.131:2082/live/hmx/44kaux0zI/131.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/5W5y8f0/disney-jr.png" , DISNEY  jr
-http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/2161
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/5W5y8f0/disney-jr.png" , DISNEY  jr (*)
-https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/2560px-Logo_Disney_XD.svg.png" , DISNEY XD
-http://supersonictv.live:8080/live/593869/699093/21802.m3u8
+http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/64409
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" , nickelodeon
 http://185.101.107.131:2082/live/hmx/44kaux0zI/109.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick jr
@@ -166,19 +162,19 @@ http://edge66.magictvbox.com/liveApple/rotana_massriya_plus/tracks-v1a1/mono.m3u
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/6ZLkpgR/Masriyah1.jpg" , المصرية
 http://supersonictv.live:8080/593869/699093/84103
 #EXTINF:0 type="stream" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483628.jpg" , المصرية الثانية
-http://vip.private1tv.com:25443/live/6529517657/TNDYT42NPG/64291.m3u8
+http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/11282
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
 https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
-http://mu3241218.oknirvana.club:8880/live/NestaSoekarno/v856TWWLS4/2177.m3u8
+http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/3774
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
-https://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/375.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/kBS87sR/lbc.png", ال بي سي  
-http://supersonictv.live:8080/live/593869/699093/84164.ts
+http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/11921
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pJ8G3zh/lbc2.png", ال بي سي 2
+http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/297107
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png", ام تي في 
-http://supersonictv.live:8080/312378/888834/84166
+http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/1236
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png", او تي في  
-http://supersonictv.live:8080/640676/019121/84163
+http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/3751
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/sOQLV7L.png", قناة المنار  ᴴᴰ
 https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/71qxh9L/etgah.jpg", قناة الاتجاه  ᴴᴰ
@@ -224,9 +220,9 @@ http://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/410.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/osn_al_yawm.png", |OSN| اليوم 
 http://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/437.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا 
-https://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/430.m3u8
+http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/2850
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا بالعربي
-http://185.101.107.131:2082/hmx/44kaux0zI/138
+http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/54573
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
 http://200.26.188.228:2082/live/hmx/44kaux0zI/178.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
