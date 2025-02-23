@@ -232,9 +232,9 @@ http://193.27.90.139:8080/romaniamedia/c726d524bf/4958
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/4SBWZsb/hewar.png" , الحوار 
 http://193.27.90.139:8080/romaniamedia/c726d524bf/33100
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C1RL10s/ssc1.jpg", SSC 1  
-https://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/318.m3u8
+http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/280132
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/8NRMJqd/ssc2.jpg",  SSC 2  
-https://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/319.m3u8
+http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/280137
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1
 http://178.162.225.116:2082/Tourobox1-fVPoTnQon5/QellcZdOY8/901
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1 (*)
@@ -252,7 +252,7 @@ http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/2096
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/r7BK36X/Animal.jpg", animal planet  
 http://ktv.im:8080/5425798654290/7431790764235/51179
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/z7dc1VC/bbcearth.jpg", bbc earth
-https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/198003
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/1KZG3b4/fe43c644-081a-4816-a4e1-411740081c52.png",الشرق Discovery  ᴴᴰ
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/1KZG3b4/fe43c644-081a-4816-a4e1-411740081c52.png",الشرق Documentary  ᴴᴰ
@@ -263,31 +263,17 @@ http://185.101.107.131:2082/hmx/44kaux0zI/9
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", Discovery Science us 
 http://voidharbinger.xyz:80/dr206/1563082974/814301
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/z7dc1VC/bbcearth.jpg", BBC Earth 
-http://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/574.ts
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/z7dc1VC/bbcearth.jpg", |OSN|  H2
-http://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/438.ts
 #EXTINF:0 type="stream" tvg-logo="https://newsroom.mattressfirm.com/wp-content/uploads/2019/01/Fox-news-logo.png",Fox News  
 http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/10615
-#EXTINF:0 type="stream" tvg-logo="https://newsroom.mattressfirm.com/wp-content/uploads/2019/01/Fox-news-logo.png",Fox News (*)
-http://orbytdrm.xyz:8080/live/gobirds/UCwJJWQwtrEq/57622.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://newsroom.mattressfirm.com/wp-content/uploads/2019/01/Fox-news-logo.png",Fox 11
 http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2113544
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN  
 http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2168314
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN (*)
-http://orbytdrm.xyz:8080/live/gobirds/UCwJJWQwtrEq/57295.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles
 http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2113516
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles (*)
-http://orbytdrm.xyz:8080/live/gobirds/UCwJJWQwtrEq/103134.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) 
-http://jaciptv.com/play/link/2b4a27
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) (*)
-http://104.243.32.122:8080/return20/eftsfspbkcnt/2146
+http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/171820
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC (KNBC) Los Angeles 
 http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2113568
-#EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC (KNBC) Los Angeles (*)
-http://orbytdrm.xyz:8080/live/gobirds/UCwJJWQwtrEq/103138.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png", ABC 7
-http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/103133.ts
+http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/8460
