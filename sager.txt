@@ -218,7 +218,7 @@ http://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/409.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/EfzfrOL.png", |ART| حكايات 2 
 http://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/410.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/osn_al_yawm.png", |OSN| اليوم 
-http://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/437.ts
+http://185.101.107.131:2082/live/hmx/44kaux0zI/142.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا 
 http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/2850
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا بالعربي
