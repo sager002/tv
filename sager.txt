@@ -214,9 +214,9 @@ http://supersonictv.live:8080/640676/019121/84021
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/icE2WOw.png",  |ART| افلام 2  
 http://supersonictv.live:8080/640676/019121/84022
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/kzNnSoV.png", |ART| حكايات 1 
-http://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/409.ts
+http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/102
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/EfzfrOL.png", |ART| حكايات 2 
-http://airmax.boats/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/410.ts
+http://185.101.107.131:2082/live/hmx/44kaux0zI/155.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/osn_al_yawm.png", |OSN| اليوم 
 http://185.101.107.131:2082/live/hmx/44kaux0zI/142.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا 
