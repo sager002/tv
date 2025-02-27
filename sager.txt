@@ -246,13 +246,13 @@ http://45.139.122.148:8000/play/a005
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/UYSMao3.png", beIN Sports  3 
 http://45.139.122.148:8000/play/a006
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1   
-http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/2097
+http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/2097
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1 (*) 
 http://supersonictv.live:8080/593869/699093/84128
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 2  
-http://yesimes.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/2096
+http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/2096
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/r7BK36X/Animal.jpg", animal planet  
-http://ktv.im:8080/5425798654290/7431790764235/51179
+http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/3161
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/z7dc1VC/bbcearth.jpg", bbc earth
 http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/198003
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/1KZG3b4/fe43c644-081a-4816-a4e1-411740081c52.png",الشرق Discovery  ᴴᴰ
