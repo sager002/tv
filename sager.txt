@@ -286,4 +286,4 @@ http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/171820
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC (KNBC) Los Angeles 
 http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2113568
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png", ABC 7
-http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/8460
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
