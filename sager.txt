@@ -232,9 +232,9 @@ http://200.26.188.228:2082/live/hmx/44kaux0zI/178.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
 http://154.58.202.185:8000/play/a0al
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/qnCg98M/mekamlin.png" , مكملين 
-http://193.27.90.139:8080/romaniamedia/c726d524bf/4958
+http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/4958
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/4SBWZsb/hewar.png" , الحوار 
-http://193.27.90.139:8080/romaniamedia/c726d524bf/33100
+http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/33100
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C1RL10s/ssc1.jpg", SSC 1  
 http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/280132
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C1RL10s/ssc1.jpg", SSC 1 (s)
