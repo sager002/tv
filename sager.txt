@@ -142,13 +142,15 @@ http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27467
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zhGgTLX/boomerang.png" , Boomerange 
 http://185.101.107.131:2082/live/hmx/44kaux0zI/3712.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY  
-http://185.101.107.131:2082/live/hmx/44kaux0zI/131.m3u8
+https://tvpass.org/live/DisneyChannelEast/hd
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/5W5y8f0/disney-jr.png" , DISNEY  jr
-http://185.101.107.131:2082/live/hmx/44kaux0zI/94.m3u8
+https://tvpass.org/live/DisneyJuniorEast/hd
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/XrKcpN02/download.png" , DISNEY XD
+https://tvpass.org/live/DisneyXDEast/hd
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" , nickelodeon
-http://185.101.107.131:2082/live/hmx/44kaux0zI/109.m3u8
+https://tvpass.org/live/NickelodeonEast/hd
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick jr
-http://supersonictv.live:8080/live/593869/699093/21806.m3u8
+https://tvpass.org/live/NicktoonsEast/hd
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/dGlKoLW.png" , روتانا سينما  ᴴᴰ
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/pGgp38I.png" , روتانا افلام  
@@ -261,6 +263,8 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5nnha/master.m3u8
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1/master.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/r7BK36X/Animal.jpg", animal planet  
 http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/3161
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/r7BK36X/Animal.jpg", animal planet us
+https://tvpass.org/live/AnimalPlanetEast/hd
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/z7dc1VC/bbcearth.jpg", bbc earth
 http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/198003
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/1KZG3b4/fe43c644-081a-4816-a4e1-411740081c52.png",الشرق Discovery  ᴴᴰ
@@ -270,20 +274,18 @@ https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", |OSN| ديسكفري  
 http://185.101.107.131:2082/hmx/44kaux0zI/9
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", Discovery us
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", Discovery Science us 
-http://voidharbinger.xyz:80/dr206/1563082974/814301
-#EXTINF:0 type="stream" tvg-logo="https://newsroom.mattressfirm.com/wp-content/uploads/2019/01/Fox-news-logo.png",Fox News  
-http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/10615
+https://tvpass.org/live/DiscoveryChannelEast/hd
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/S4K1TDfH/foxnews.jpg",Fox News  
+https://tvpass.org/live/FoxNewsChannel/hd
 #EXTINF:0 type="stream" tvg-logo="https://newsroom.mattressfirm.com/wp-content/uploads/2019/01/Fox-news-logo.png",Fox 11
-http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2113544
+https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN  
-http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2168314
+https://tvpass.org/live/CNN/hd
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles
-http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2113516
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) 
 http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/171820
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC (KNBC) Los Angeles 
-http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2113568
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png", ABC 7
-https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
