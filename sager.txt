@@ -114,9 +114,7 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 #EXTINF:0 type="stream" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082010/MBC_Action.png" , ام بي سي اكشن -  
 https://edge66.magictvbox.com/liveApple/MBC_Action/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/xqq4GwW/mbc-max.png" , ام بي سي - ماكس  
-http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/1240
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/xqq4GwW/mbc-max.png" , ام بي سي - ماكس (*)
-http://lionboxiptv.xyz:80/telegram.proto1545/yN4uABSHHJw5/14450
+http://2022.dynu.com:2022/aabdell/wxInwecmlr/7831
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات  
 http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27501
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0JBZkk4/mbc-elife.png" , ام بي سي - ايلايف
@@ -228,7 +226,7 @@ http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/2850
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا بالعربي
 http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/54573
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
-http://200.26.188.228:2082/live/hmx/44kaux0zI/178.m3u8
+http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/267230
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
 http://154.58.202.185:8000/play/a0al
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/qnCg98M/mekamlin.png" , مكملين 
