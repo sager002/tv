@@ -245,10 +245,16 @@ http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/280137
 http://45.139.122.148:8000/play/a00e
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1
 http://45.139.122.148:8000/play/a004
+#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1 (bk)
+http://84.16.253.173:2082/Xplus-1-W73eSKtCW9/dpOvH7Ezf2/901
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/vUJZSvs.png", beIN Sports 2   
 http://45.139.122.148:8000/play/a005
+#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/vUJZSvs.png", beIN Sports 2 (bk)
+http://84.16.253.173:2082/Xplus-1-W73eSKtCW9/dpOvH7Ezf2/902
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/UYSMao3.png", beIN Sports  3 
 http://45.139.122.148:8000/play/a006
+#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/UYSMao3.png", beIN Sports  3 (bk)
+http://84.16.253.173:2082/Xplus-1-W73eSKtCW9/dpOvH7Ezf2/903
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1   
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1mhu/master.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 2  
