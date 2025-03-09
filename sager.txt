@@ -117,10 +117,12 @@ https://edge66.magictvbox.com/liveApple/MBC_Action/tracks-v1a1/mono.m3u8
 http://2022.dynu.com:2022/aabdell/wxInwecmlr/7831
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات  
 http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27501
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0JBZkk4/mbc-elife.png", ام بي سي - بلس
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/SX1B2KgF/mbcplus.jpg", ام بي سي - بلس
 http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/1445986
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0JBZkk4/mbc-elife.png", ام بي سي - ايلايف
-http://mag.4k365.xyz:80/3aabc72cc5/e42ad08a8647/718442
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/9kkLF1Hc/mbcplus1.jpg", ام بي سي بلس 1
+http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/1445975
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/JwkZR36t/mbcplus2.jpg", ام بي سي بلس 2
+http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/1445976
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/bvhL81z/masrah-msr.png" , شاهد مسرح مصر
 https://shls-live-enc.edgenextcdn.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://up6.cc/2023/05/168405543304632.png" , شاهد افلام 
