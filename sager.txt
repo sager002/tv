@@ -290,7 +290,7 @@ https://tvpass.org/live/CNN/hd
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) 
-http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/171820
+http://boundlesstv.xyz:80/get.php?username=Jayccc23&password=7434699164&type=m3u&output=ts
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC (KNBC) Los Angeles 
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png", ABC 7
