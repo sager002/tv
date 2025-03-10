@@ -114,7 +114,7 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 #EXTINF:0 type="stream" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082010/MBC_Action.png" , ام بي سي اكشن -  
 https://edge66.magictvbox.com/liveApple/MBC_Action/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/xqq4GwW/mbc-max.png" , ام بي سي - ماكس  
-http://2022.dynu.com:2022/aabdell/wxInwecmlr/7831
+http://149.57.37.10/EX/MBC_MAX_FHD-ar/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات  
 http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27501
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/SX1B2KgF/mbcplus.jpg", ام بي سي - بلس
