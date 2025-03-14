@@ -239,6 +239,8 @@ http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/4958
 http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/33100
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C1RL10s/ssc1.jpg", SSC 1  
 http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/280132
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C1RL10s/ssc1.jpg", SSC 1 (ir)
+https://cma.footballii.ir/hls2/ssc1.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C1RL10s/ssc1.jpg", SSC 1 (s)
 http://45.139.122.148:8000/play/a00d
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/8NRMJqd/ssc2.jpg",  SSC 2  
@@ -247,10 +249,14 @@ http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/280137
 http://45.139.122.148:8000/play/a00e
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1
 http://45.139.122.148:8000/play/a004
+#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1 (ir)
+https://cma.footballii.ir/hls2/b1.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1 (bk)
 http://84.16.253.173:2082/Xplus-1-W73eSKtCW9/dpOvH7Ezf2/901
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/vUJZSvs.png", beIN Sports 2   
 http://45.139.122.148:8000/play/a005
+#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 2 (ir)
+https://cma.footballii.ir/hls2/b2.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/vUJZSvs.png", beIN Sports 2 (bk)
 http://84.16.253.173:2082/Xplus-1-W73eSKtCW9/dpOvH7Ezf2/902
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/UYSMao3.png", beIN Sports  3 
@@ -285,6 +291,8 @@ http://185.101.107.131:2082/hmx/44kaux0zI/9
 https://tvpass.org/live/DiscoveryChannelEast/hd
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/S4K1TDfH/foxnews.jpg",Fox News  
 https://tvpass.org/live/FoxNewsChannel/hd
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/S4K1TDfH/foxnews.jpg",Fox News (ros)
+http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/19147/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://newsroom.mattressfirm.com/wp-content/uploads/2019/01/Fox-news-logo.png",Fox 11
 https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN  
