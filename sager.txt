@@ -304,4 +304,4 @@ http://boundlesstv.xyz:80/get.php?username=Jayccc23&password=7434699164&type=m3u
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC (KNBC) Los Angeles 
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png", ABC 7
-https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
