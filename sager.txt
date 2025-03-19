@@ -119,10 +119,12 @@ http://149.57.37.10/EX/MBC_MAX_FHD-ar/index.m3u8
 http://149.57.37.10/EX/MBC_Variety_HD-ar/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/SX1B2KgF/mbcplus.jpg", ام بي سي - بلس
 http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/1445986
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/9kkLF1Hc/mbcplus1.jpg", ام بي سي بلس 1
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/9kkLF1Hc/mbcplus1.jpg", ام بي سي بلس - 1
 http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/1445975
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/JwkZR36t/mbcplus2.jpg", ام بي سي بلس 2
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/JwkZR36t/mbcplus2.jpg", ام بي سي بلس - 2
 http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/1445976
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ymvq4QBQ/mbc-e.png",  ام بي سي بلس - اي اند
+http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/1445982
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/bvhL81z/masrah-msr.png" , شاهد مسرح مصر
 https://shls-live-enc.edgenextcdn.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://up6.cc/2023/05/168405543304632.png" , شاهد افلام 
@@ -144,15 +146,15 @@ http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27467
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zhGgTLX/boomerang.png" , Boomerange 
 http://185.101.107.131:2082/live/hmx/44kaux0zI/3712.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY  
-http://xxip9.top:8080/live/WphGC3/717601/2206.m3u8
+http://185.101.107.131:2082/live/hmx/44kaux0zI/131.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/5W5y8f0/disney-jr.png" , DISNEY  jr
-http://xxip9.top:8080/live/71983280/57849683/41960.m3u8
+http://185.101.107.131:2082/live/hmx/44kaux0zI/94.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/XrKcpN02/download.png" , DISNEY XD
 http://xxip9.top:8080/live/781245/753468/75621.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" , nickelodeon
-http://xxip9.top:8080/live/44V95q/480418/38.m3u8
+http://185.101.107.131:2082/live/hmx/44kaux0zI/109.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick jr
-http://xxip9.top:8080/live/71983280/57849683/9807.m3u8
+http://185.101.107.131:2082/live/hmx/44kaux0zI/64.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/dGlKoLW.png" , روتانا سينما  ᴴᴰ
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/pGgp38I.png" , روتانا افلام  
