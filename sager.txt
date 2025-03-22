@@ -299,8 +299,8 @@ http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/125426
 http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/125425
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/S4K1TDfH/foxnews.jpg",Fox News  
 http://xxip9.top:8080/live/781245/753468/135794.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/S4K1TDfH/foxnews.jpg",Fox News (ros)
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/19147/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/S4K1TDfH/foxnews.jpg",Fox News (1p)
+http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/43648
 #EXTINF:0 type="stream" tvg-logo="https://newsroom.mattressfirm.com/wp-content/uploads/2019/01/Fox-news-logo.png",Fox 11
 http://xxip9.top:8080/live/71983280/57849683/120655.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN  
