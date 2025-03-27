@@ -241,7 +241,9 @@ http://154.58.202.185:8000/play/a0al
 http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/4958
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/4SBWZsb/hewar.png" , الحوار 
 http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/33100
-#EXTINF:0 type="stream" tvg-id="AlGhadTV.eg" tvg-logo="https://i.ibb.co/JwSztVz3/ga6NXb9.png" ,Al Ghad TV https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+#EXTINF:0 type="stream" tvg-id="AlGhadTV.eg" tvg-logo="https://i.ibb.co/JwSztVz3/ga6NXb9.png" , الغد https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/YTyCBvB.png" , التغيير
+https://194788.global.ssl.fastly.net/63c63697632705047ffda2da/live_d33349a0962a11ed907dd9e556777b63/rewind-14400.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C1RL10s/ssc1.jpg", SSC 1  
 http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/280132
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C1RL10s/ssc1.jpg", SSC 1 (ir)
