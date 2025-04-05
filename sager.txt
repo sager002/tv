@@ -172,7 +172,7 @@ http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/11282
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
 https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
-http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/3774
+http://teledunet.com:8080/tdn/tdn/289
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
 http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/11921
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pJ8G3zh/lbc2.png", ال بي سي 2
