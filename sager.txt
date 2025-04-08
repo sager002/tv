@@ -279,7 +279,7 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1/master.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/r7BK36X/Animal.jpg", animal planet  
 http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/3161
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/r7BK36X/Animal.jpg", animal planet us
-http://xxip9.top:8080/live/71983280/57849683/17870.m3u8
+http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/z7dc1VC/bbcearth.jpg", bbc earth
 http://nocable.cc:8080/live/crystal/crystal/99621.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/1KZG3b4/fe43c644-081a-4816-a4e1-411740081c52.png",الشرق Discovery  ᴴᴰ
@@ -289,24 +289,22 @@ https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", |OSN| ديسكفري  
 http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/125434
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", Discovery us
-http://xxip9.top:8080/live/WphGC3/717601/9811.m3u8
+http://38.96.178.201:80/live/Discovery/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/278zCqYf/h1.png", Hestory 1
 http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/125426
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0pZHs1jz/h2.png", Hestory 2
 http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/125425
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/S4K1TDfH/foxnews.jpg",Fox News  
-http://xxip9.top:8080/live/781245/753468/135794.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/S4K1TDfH/foxnews.jpg",Fox News (1p)
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/43648
+http://38.96.178.201:80/live/FOXNEWS/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://newsroom.mattressfirm.com/wp-content/uploads/2019/01/Fox-news-logo.png",Fox 11
 http://xxip9.top:8080/live/71983280/57849683/120655.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN  
-http://xxip9.top:8080/live/44V95q/480418/1817.m3u8
+http://38.96.178.201:80/live/FOXNEWS/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles
 http://xxip9.top:8080/live/781245/753468/120654.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) 
 http://nocable.cc:8080/live/crystal/crystal/120889.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC (KNBC) Los Angeles 
-http://xxip9.top:8080/live/71983280/57849683/120656.m3u8
+https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png", ABC 7
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
