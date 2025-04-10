@@ -170,7 +170,7 @@ http://supersonictv.live:8080/593869/699093/84103
 #EXTINF:0 type="stream" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483628.jpg" , المصرية الثانية
 http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/11282
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
-https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
+https://live2.alalam.ir/alalam.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
 http://teledunet.com:8080/tdn/tdn/289
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
@@ -198,9 +198,7 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/BS8XXug.png", فلسطين اليوم  ᴴᴰ
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/HPHqvVt/aqsa.jpg", الاقصى   ᴴᴰ
-http://63b03f7689049.streamlock.net:1935/live/68/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/HPHqvVt/aqsa.jpg", الاقصى
-http://95.216.180.111:1935/live/68/chunklist_w215107032.m3u8
+http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/4B5FvmX.png", فلسطين  ᴴᴰ
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.maannews.net/2022_assets/images/logo.png" , معا  ᴴᴰ
