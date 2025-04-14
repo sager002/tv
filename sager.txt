@@ -206,11 +206,11 @@ https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.maannews.net/2022_assets/images/logo.png" , معا  ᴴᴰ
 https://htvmada.mada.ps:4443/maannews/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.livehdtv.net/uploads/kanal/26635Makan%2033.jpg" , مكان   ᴴᴰ
-https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_4k/chunklist.m3u8
+https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_1.2k/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/TY4SXxV/hala.png" , هلا  ᴴᴰ
-https://stream.panet.com/edge/halaTV/playlist.m3u8
+https://stream.panet.com/edge/halaTV/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0M8mj1c/i24.jpg" , i24  ᴴᴰ
-https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/profile_0/chunklist.m3u8
+https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/profile_1/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/V055t5e.png" , المسيرة
 https://live.cdnbridge.tv/Almasirah/Almasirah_1080p/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://habbabihd.com/tvlogo/alhurrah-live.jpg" , الحرة  ᴴᴰ
