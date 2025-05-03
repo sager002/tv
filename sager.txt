@@ -156,12 +156,13 @@ http://185.101.107.131:2082/live/hmx/44kaux0zI/109.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick jr
 http://185.101.107.131:2082/live/hmx/44kaux0zI/64.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/dGlKoLW.png" , روتانا سينما 
-https://rotana.hibridcdn.net/rotana/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
+https://edge66.magictvbox.com/liveApple/rotana_cinema/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/pGgp38I.png" , روتانا افلام  
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/pMMUvkt.png" , روتانا كلاسك
 https://edge66.magictvbox.com/liveApple/rotana_classic/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0f9sh8q/rotana-comedy.jpg" , روتانا كوميدي 
+https://edge66.magictvbox.com/liveApple/rotana_comedy/tracks-v1a1/mono.m3u8
 https://rotana.hibridcdn.net/rotana/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/6HMluzv.png" , روتانا خليجية  
 https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
