@@ -175,6 +175,8 @@ http://teledunet.com:8080/tdn/tdn/337.ts
 http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27767
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
 http://btx88.pro:80/Rmcallister305@/uNvBqMjMkB/1335615
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد (*) 
+http://154.58.202.185:8000/play/a00s
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
 http://btx88.pro:80/Rmcallister305@/uNvBqMjMkB/1335862
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pJ8G3zh/lbc2.png", ال بي سي 2
