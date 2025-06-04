@@ -251,11 +251,11 @@ https://cma.footballii.ir/hls2/ssc1.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/8NRMJqd/ssc2.jpg",  SSC 2  
 http://45.139.122.148:8000/play/a00e
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1
-http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/2140
+http://s1.faster4k.run.place:8080/live/mogador4k/448HD/1.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1 (ir)
 https://cma.footballii.ir/hls2/b1.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/vUJZSvs.png", beIN Sports 2   
-http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/2139
+http://s1.faster4k.run.place:8080/live/mogador4k/448HD/2.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 2 (ir)
 https://cma.footballii.ir/hls2/b2.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/UYSMao3.png", beIN Sports  3 
