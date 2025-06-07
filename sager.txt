@@ -136,7 +136,7 @@ https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/in
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" , سبيستون  ᴴᴰ
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" , كرتون نتورك  
-http://btx88.pro:80/Rmcallister305@/uNvBqMjMkB/1335745
+http://filex.tv:8080/mIlts-milts/fXgWeZ3nz6/29622
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/TzOKMMy.png" , ماجد  ᴴᴰ
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7woV4Cz.png" , براعم  
@@ -174,7 +174,7 @@ http://teledunet.com:8080/tdn/tdn/337.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
 http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27767
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
-http://btx88.pro:80/Rmcallister305@/uNvBqMjMkB/1335615
+http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27751
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد (*) 
 http://154.58.202.185:8000/play/a00s
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
@@ -184,7 +184,7 @@ http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/297107
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png", ام تي في 
 http://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png", او تي في  
-http://btx88.pro:80/Rmcallister305@/uNvBqMjMkB/1336021
+http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27388
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/sOQLV7L.png", قناة المنار  ᴴᴰ
 https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/71qxh9L/etgah.jpg", قناة الاتجاه  ᴴᴰ
@@ -238,7 +238,7 @@ http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/267230
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
 http://154.58.202.185:8000/play/a0al
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/qnCg98M/mekamlin.png" , مكملين 
-http://btx88.pro:80/Rmcallister305@/uNvBqMjMkB/1335901
+http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/2245
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/4SBWZsb/hewar.png" , الحوار 
 http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/33100
 #EXTINF:0 type="stream" tvg-id="AlGhadTV.eg" tvg-logo="https://i.ibb.co/JwSztVz3/ga6NXb9.png" , الغد https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
