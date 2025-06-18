@@ -172,19 +172,17 @@ https://fl1002.bozztv.com/ga-almasriya/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483628.jpg" , المصرية الثانية
 http://teledunet.com:8080/tdn/tdn/337.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
-http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27767
+http://abmizle.xyz:8080/tolgahankenar/puwKt3G/71901
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
-http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27751
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد (*) 
-http://154.58.202.185:8000/play/a00s
+http://abmizle.xyz:8080/tolgahankenar/puwKt3G/71914
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
-http://btx88.pro:80/Rmcallister305@/uNvBqMjMkB/1335862
+http://abmizle.xyz:8080/tolgahankenar/puwKt3G/71913
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pJ8G3zh/lbc2.png", ال بي سي 2
-http://193.27.90.139:8080/test_acct/ohbo1veifa4AhD/297107
+http://abmizle.xyz:8080/tolgahankenar/puwKt3G/71898
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png", ام تي في 
 http://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png", او تي في  
-http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27388
+http://abmizle.xyz:8080/tolgahankenar/puwKt3G/71893
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/sOQLV7L.png", قناة المنار  ᴴᴰ
 https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.vdl.me/wp-content/themes/vdl/app/images/logo-header-mobile.png", صوت لبنان  ᴴᴰ
@@ -251,15 +249,15 @@ https://cma.footballii.ir/hls2/ssc1.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/8NRMJqd/ssc2.jpg",  SSC 2  
 http://45.139.122.148:8000/play/a00e
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1
-http://s1.faster4k.run.place:8080/live/mogador4k/448HD/1.ts
+http://abmizle.xyz:8080/tolgahankenar/puwKt3G/71697
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1 (ir)
 https://cma.footballii.ir/hls2/b1.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/vUJZSvs.png", beIN Sports 2   
-http://s1.faster4k.run.place:8080/live/mogador4k/448HD/2.ts
+http://abmizle.xyz:8080/tolgahankenar/puwKt3G/71698
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 2 (ir)
 https://cma.footballii.ir/hls2/b2.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/UYSMao3.png", beIN Sports  3 
-http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/2138
+http://abmizle.xyz:8080/tolgahankenar/puwKt3G/71699
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1   
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1mhuab/master.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 2  
