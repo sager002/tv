@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/thqzs1w/arabia.png" , العربية  ᴴᴰ
-http://154.197.91.168:7003/play/a0ew
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/dMJhDzV/hadath.png" , العربية الحدث  ᴴᴰ
 https://live.alarabiya.net/alarabiapublish/alhadath_720p/chunks.m3u8
 #EXTINF:0 type="stream" tvg-id="AlJazeera.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" , الجزيرة  ᴴᴰ
@@ -51,8 +51,6 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/DASH/master.m
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/tq5Aj9i.png" , الشارقة  ᴴᴰ
 https://svs.itworkscdn.net/smc1live/smc1tv.smil/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/ob1GhbC.jpg" , الشارقة 2  ᴴᴰ
-https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zQ3d95t/dubai.png" , دبي  ᴴᴰ
 https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/M5RPFYH/smadubai.jpg" , سما دبي  ᴴᴰ
@@ -81,8 +79,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/dK7jJ3W/ekhbaryah.png" , الاخبارية  ᴴᴰ
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/WHx1Fnr/dhikrayat.png" ,  ذكريات ᴴᴰ
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/jLD8mtg/sunnah.png" ,  السنة النبوية ᴴᴰ 
 http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/90433
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/n0Q9nRT/quran.png" , القران الكريم ᴴᴰ 
