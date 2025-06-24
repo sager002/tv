@@ -214,7 +214,7 @@ https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900-b/MBN_Alhurra_Worlds
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/aeY4ax8.png", |ART| افلام 1  
 http://supersonictv.live:8080/640676/019121/84021
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/icE2WOw.png",  |ART| افلام 2  
-http://supersonictv.live:8080/640676/019121/84022
+http://185.101.107.131:2082/live/hmx/44kaux0zI/153.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/kzNnSoV.png", |ART| حكايات 1 
 http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/102
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/EfzfrOL.png", |ART| حكايات 2 
@@ -239,11 +239,7 @@ http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27624
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/YTyCBvB.png" , التغيير
 https://194788.global.ssl.fastly.net/63c63697632705047ffda2da/live_d33349a0962a11ed907dd9e556777b63/rewind-14400.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C1RL10s/ssc1.jpg", SSC 1  
-http://45.139.122.148:8000/play/a00d
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C1RL10s/ssc1.jpg", SSC 1 (ir)
-https://cma.footballii.ir/hls2/ssc1.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/8NRMJqd/ssc2.jpg",  SSC 2  
-http://45.139.122.148:8000/play/a00e
+http://185.101.107.131:2082/live/hmx/44kaux0zI/47199.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1
 http://abmizle.xyz:8080/tolgahankenar/puwKt3G/71697
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1 (ir)
