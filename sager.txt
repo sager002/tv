@@ -239,15 +239,9 @@ https://194788.global.ssl.fastly.net/63c63697632705047ffda2da/live_d33349a0962a1
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C1RL10s/ssc1.jpg", SSC 1  
 http://185.101.107.131:2082/live/hmx/44kaux0zI/47199.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1
-http://abmizle.xyz:8080/tolgahankenar/puwKt3G/71697
-#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1 (ir)
-https://cma.footballii.ir/hls2/b1.m3u8
+http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/897626
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/vUJZSvs.png", beIN Sports 2   
-http://abmizle.xyz:8080/tolgahankenar/puwKt3G/71698
-#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 2 (ir)
-https://cma.footballii.ir/hls2/b2.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/UYSMao3.png", beIN Sports  3 
-http://abmizle.xyz:8080/tolgahankenar/puwKt3G/71699
+http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/897733
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1   
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1mhuab/master.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 2  
