@@ -220,7 +220,7 @@ http://185.101.107.131:2082/live/hmx/44kaux0zI/155.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/osn_al_yawm.png", |OSN| اليوم 
 http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/125432
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا 
-http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/125455
+http://185.101.107.131:2082/live/hmx/44kaux0zI/137.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا بالعربي
 http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/125454
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا افلام
