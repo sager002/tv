@@ -188,7 +188,7 @@ https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/yBQn5t4n/spi.png", اس بي اي
 http://stream.spilebanon.com:1935/spi/myStream/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/uWibV0i.png", العهد
-http://63b03f7689049.streamlock.net:1935/live/7/playlist.m3u8
+http://app-plus.live:80/phooria2_kamal/brte7l8l0d/192417
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/71qxh9L/etgah.jpg", قناة الاتجاه  ᴴᴰ
 http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/5045
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/fCDtN3p/jordan.jpg" ,الاردن  ᴴᴰ
@@ -259,7 +259,7 @@ http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/6945
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/r7BK36X/Animal.jpg", animal planet us
 http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/z7dc1VC/bbcearth.jpg", bbc earth
-http://nocable.cc:8080/live/crystal/crystal/99621.m3u8
+http://app-plus.live:80/phooria2_kamal/brte7l8l0d/14552
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/1KZG3b4/fe43c644-081a-4816-a4e1-411740081c52.png",الشرق Discovery  ᴴᴰ
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/1KZG3b4/fe43c644-081a-4816-a4e1-411740081c52.png",الشرق Documentary  ᴴᴰ
