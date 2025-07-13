@@ -172,9 +172,9 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/3451
+http://ultrontv.xyz:80/PCSmith/19023968706/246838
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pJ8G3zh/lbc2.png", ال بي سي 2
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/2413
+http://ultrontv.xyz:80/PCSmith/19023968706/246765
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png", ام تي في 
 http://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png", او تي في  
