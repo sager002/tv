@@ -281,7 +281,7 @@ http://xxip9.top:8080/71983280/57849683/1817
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles
 http://xxip9.top:8080/live/781245/753468/120654.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) 
-http://elgranfafy.com:80/nino0010/nino0011/237177.ts
+http://xxip9.top:8080/71983280/57849683/120889
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC (KNBC) Los Angeles 
 https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png", ABC 7
