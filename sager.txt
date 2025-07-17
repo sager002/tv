@@ -104,11 +104,11 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39c
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/lMNtYqf.png" , ام بي سي - مصر 1 ᴴᴰ 
 https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Qh8455q.png" , ام بي سي - مصر 2  ᴴᴰ
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+http://185.101.107.131:2082/hmx/44kaux0zI/205
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/tYOxhA9.png" , ام بي سي - بوليوود  ᴴᴰ
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082010/MBC_Action.png" , ام بي سي اكشن -  
-http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/54378
+http://149.57.37.10/EX/MBC_ACTION_FHD-ar/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/xqq4GwW/mbc-max.png" , ام بي سي - ماكس  
 http://149.57.37.10/EX/MBC_MAX_FHD-ar/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات  
@@ -185,8 +185,6 @@ https://edge.fastpublish.me/live/index.m3u8
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://l-television.com/LTV/wp-content/uploads/2021/07/LTV-final-logo-300x298.png", ال تي في  ᴴᴰ
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/yBQn5t4n/spi.png", اس بي اي
-http://stream.spilebanon.com:1935/spi/myStream/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/uWibV0i.png", العهد
 http://app-plus.live:80/phooria2_kamal/brte7l8l0d/192417
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/71qxh9L/etgah.jpg", قناة الاتجاه  ᴴᴰ
