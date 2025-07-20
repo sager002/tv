@@ -136,9 +136,9 @@ http://ultrontv.xyz:80/PCSmith/19023968706/246759
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/TzOKMMy.png" , ماجد  ᴴᴰ
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7woV4Cz.png" , براعم  
-http://ultrontv.xyz:80/PCSmith/19023968706/246757
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2028
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C10XDwn/jeemtv.jpg" , جيم  
-http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/27467
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/22
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zhGgTLX/boomerang.png" , Boomerange 
 http://185.101.107.131:2082/live/hmx/44kaux0zI/3712.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY  
@@ -172,9 +172,9 @@ http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/4992
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
 https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
-http://185.9.2.18/chid_391/mono.m3u8
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3038
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
-http://ultrontv.xyz:80/PCSmith/19023968706/246838
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3026
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pJ8G3zh/lbc2.png", ال بي سي 2
 http://ultrontv.xyz:80/PCSmith/19023968706/246765
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png", ام تي في 
