@@ -171,16 +171,26 @@ https://fl1002.bozztv.com/ga-almasriya/index.m3u8
 http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/4992
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
 https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم (*)
+http://svods.net:8080/micah.casper/bf3c7e42/270649
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3038
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد (*)
+http://svods.net:8080/micah.casper/bf3c7e42/3774
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3026
+#EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال (*)
+http://svods.net:8080/micah.casper/bf3c7e42/11921
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pJ8G3zh/lbc2.png", ال بي سي 2
 http://ultrontv.xyz:80/PCSmith/19023968706/246765
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pJ8G3zh/lbc2.png", ال بي سي 2 (*)
+http://svods.net:8080/micah.casper/bf3c7e42/297107
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png", ام تي في 
 http://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png", او تي في  
 https://fl1002.bozztv.com/ga-otvlebanon/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png", او تي في (*)
+http://svods.net:8080/micah.casper/bf3c7e42/3751
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/sOQLV7L.png", قناة المنار  ᴴᴰ
 https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.vdl.me/wp-content/themes/vdl/app/images/logo-header-mobile.png", صوت لبنان  ᴴᴰ
@@ -189,6 +199,8 @@ https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/uWibV0i.png", العهد
 http://app-plus.live:80/phooria2_kamal/brte7l8l0d/192417
+#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/uWibV0i.png", العهد (*)
+http://svods.net:8080/micah.casper/bf3c7e42/300340
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/71qxh9L/etgah.jpg", قناة الاتجاه  ᴴᴰ
 http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/5045
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/fCDtN3p/jordan.jpg" ,الاردن  ᴴᴰ
@@ -232,7 +244,7 @@ http://154.58.202.185:8000/play/a0al
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/qnCg98M/mekamlin.png" , مكملين 
 http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/101155
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/4SBWZsb/hewar.png" , الحوار 
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/5038
+http://185.101.107.131:2082/live/hmx/44kaux0zI/3677.m3u8
 #EXTINF:0 type="stream" tvg-id="AlGhadTV.eg" tvg-logo="https://i.ibb.co/JwSztVz3/ga6NXb9.png" , الغد https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/YTyCBvB.png" , التغيير
 http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/80931
