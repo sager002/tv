@@ -220,9 +220,9 @@ https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/53
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/V055t5e.png" , المسيرة
 https://live.cdnbridge.tv/Almasirah/Almasirah_1080p/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/aeY4ax8.png", |ART| افلام 1  
-http://185.101.107.131:2082/live/hmx/44kaux0zI/152.m3u8
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/997
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/icE2WOw.png",  |ART| افلام 2  
-http://185.101.107.131:2082/live/hmx/44kaux0zI/153.m3u8
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/102
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/kzNnSoV.png", |ART| حكايات 1 
 http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/102
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/EfzfrOL.png", |ART| حكايات 2 
