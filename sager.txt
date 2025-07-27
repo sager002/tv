@@ -253,15 +253,13 @@ http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/897626
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/vUJZSvs.png", beIN Sports 2   
 http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/897733
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1   
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1mhuab/master.m3u8
+http://185.101.107.131:2082/live/hmx/44kaux0zI/1590.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 2  
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 3  
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vakazq/master.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 4  
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4cn/master.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 5  
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5nnha/master.m3u8
+http://185.101.107.131:2082/live/hmx/44kaux0zI/7118.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", شوف 
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/r7BK36X/Animal.jpg", animal planet  
