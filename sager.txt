@@ -242,7 +242,7 @@ http://185.101.107.131:2082/live/hmx/44kaux0zI/3677.m3u8
 #EXTINF:0 type="stream" tvg-id="AlGhadTV.eg" tvg-logo="https://i.ibb.co/JwSztVz3/ga6NXb9.png" ,الغد
 https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/YTyCBvB.png" , التغيير
-http://svods.net:8080/micah.casper/bf3c7e42/225968
+https://jmc-live.ercdn.net/altaghier/altaghier.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C1RL10s/ssc1.jpg", SSC 1  
 http://185.101.107.131:2082/live/hmx/44kaux0zI/47199.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1
@@ -291,4 +291,5 @@ http://xxip9.top:8080/71983280/57849683/120889
 https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png", ABC 7
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+
 
