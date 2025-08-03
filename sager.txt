@@ -69,6 +69,8 @@ https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/hVNIwgE.png", عجمان  ᴴᴰ
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/b5dSVj9k/sOMOe9t.png", الظفرة  ᴴᴰ
+https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/streams/dbb8ac05-a020-784c-3a95-6ed027941532.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/q9RHcRd/oman.png", عمان   ᴴᴰ
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/b38wNPK.png", عمان الثقافية  ᴴᴰ
@@ -187,6 +189,8 @@ http://svods.net:8080/micah.casper/bf3c7e42/297107
 http://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png", او تي في  
 https://fl1002.bozztv.com/ga-otvlebanon/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/d0xXWcgH/OaqEpwe.png", المستقبل 
+https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/sOQLV7L.png", قناة المنار  ᴴᴰ
 https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.vdl.me/wp-content/themes/vdl/app/images/logo-header-mobile.png", صوت لبنان  ᴴᴰ
@@ -291,6 +295,7 @@ http://xxip9.top:8080/71983280/57849683/120889
 https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png", ABC 7
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+
 
 
 
