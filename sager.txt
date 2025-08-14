@@ -89,10 +89,8 @@ http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/72518
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ygs1mVf/MBC2-Logo.png" , ام بي سي - 2  
 https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ygs1mVf/MBC2-Logo.png" , ام بي سي - 2  (*)
-http://149.57.37.10/EX/MBC_2_FHD-ar/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/UgDTRNv.png" , ام بي سي - 3  ᴴᴰ
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+https://edge66.magictvbox.com/liveApple/MBC_3/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/snkewG1.png" , ام بي سي - 4  ᴴᴰ
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8?HasBahCa
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/5_MBC.webp/512px-5_MBC.webp.png" , ام بي سي - 5  ᴴᴰ
@@ -110,9 +108,9 @@ http://185.101.107.131:2082/hmx/44kaux0zI/205
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/tYOxhA9.png" , ام بي سي - بوليوود  ᴴᴰ
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082010/MBC_Action.png" , ام بي سي اكشن -  
-http://149.57.37.10/EX/MBC_ACTION_FHD-ar/index.m3u8
+https://edge66.magictvbox.com/liveApple/MBC_Action/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/xqq4GwW/mbc-max.png" , ام بي سي - ماكس  
-http://149.57.37.10/EX/MBC_MAX_FHD-ar/index.m3u8
+http://212.126.106.218:31000/play/a09f
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات  
 http://149.57.37.10/EX/MBC_Variety_HD-ar/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/SX1B2KgF/mbcplus.jpg", ام بي سي - بلس
@@ -299,6 +297,7 @@ http://xxip9.top:8080/71983280/57849683/120889
 https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png", ABC 7
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+
 
 
 
