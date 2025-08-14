@@ -86,15 +86,15 @@ http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/90433
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/n0Q9nRT/quran.png" , القران الكريم ᴴᴰ 
 http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/72518
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/ePBvFC8.png" , ام بي سي - 1  ᴴᴰ
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+https://d2ow8h651gs7dx.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ygs1mVf/MBC2-Logo.png" , ام بي سي - 2  
 https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/UgDTRNv.png" , ام بي سي - 3  ᴴᴰ
-https://edge66.magictvbox.com/liveApple/MBC_3/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/snkewG1.png" , ام بي سي - 4  ᴴᴰ
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8?HasBahCa
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/5_MBC.webp/512px-5_MBC.webp.png" , ام بي سي - 5  ᴴᴰ
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/nBqfTwY/mbc-drama.png" , ام بي سي - دراما  ᴴᴰ
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/6yH88Q1.png" ,  + ام بي سي - دراما   ᴴᴰ
@@ -104,7 +104,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39c
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/lMNtYqf.png" , ام بي سي - مصر 1 ᴴᴰ 
 https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Qh8455q.png" , ام بي سي - مصر 2  ᴴᴰ
-http://185.101.107.131:2082/hmx/44kaux0zI/205
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/tYOxhA9.png" , ام بي سي - بوليوود  ᴴᴰ
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082010/MBC_Action.png" , ام بي سي اكشن -  
@@ -297,6 +297,7 @@ http://xxip9.top:8080/71983280/57849683/120889
 https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png", ABC 7
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+
 
 
 
