@@ -156,9 +156,9 @@ http://edge.19741977.network:80/korhan/domates/110003
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0f9sh8q/rotana-comedy.jpg" , روتانا كوميدي 
 http://mains.services/live/bshorty/Zv5le07a0J/790ba89d-843f-4e4e-b4a4-27973cb1f51b.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/6HMluzv.png" , روتانا خليجية  
-https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
+http://edge.19741977.network:80/korhan/domates/110001
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/btnhPjZ.png" , روتانادراما  
-http://edge66.magictvbox.com/liveApple/rotana_massriya_plus/tracks-v1a1/mono.m3u8
+http://edge.19741977.network:80/korhan/domates/110002
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/6ZLkpgR/Masriyah1.jpg" , المصرية
 https://fl1002.bozztv.com/ga-almasriya/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483628.jpg" , المصرية الثانية
@@ -172,7 +172,7 @@ http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3026
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png", ام تي في 
 http://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png", او تي في  
-https://fl1002.bozztv.com/ga-otvlebanon/index.m3u8
+http://edge.19741977.network:80/korhan/domates/109744
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/d0xXWcgH/OaqEpwe.png", المستقبل 
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/sOQLV7L.png", قناة المنار  ᴴᴰ
@@ -212,11 +212,12 @@ http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/104
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/EfzfrOL.png", |ART| حكايات 2 
 http://185.101.107.131:2082/live/hmx/44kaux0zI/155.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/osn_al_yawm.png", |OSN| اليوم 
-http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/125432
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98015
+
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا 
 http://185.101.107.131:2082/live/hmx/44kaux0zI/137.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا بالعربي
-http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/125454
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98036
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا افلام
 http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/125453
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
@@ -279,6 +280,7 @@ http://xxip9.top:8080/71983280/57849683/120889
 https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png", ABC 7
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+
 
 
 
