@@ -273,12 +273,17 @@ http://xxip9.top:8080/live/71983280/57849683/120655.m3u8
 http://xxip9.top:8080/71983280/57849683/1817
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles
 http://xxip9.top:8080/live/781245/753468/120654.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (*KCAL*) Los Angeles
+https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/400248713
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) 
 http://xxip9.top:8080/71983280/57849683/120889
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (*KTLA*)
+https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/27177
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC (KNBC) Los Angeles 
 https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png", ABC 7
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+
 
 
 
