@@ -90,7 +90,7 @@ http://edge.19741977.network:80/korhan/domates/109940
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/ePBvFC8.png" , ام بي سي - 1  ᴴᴰ
 https://d2ow8h651gs7dx.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ygs1mVf/MBC2-Logo.png" , ام بي سي - 2  
-http://edge.19741977.network:80/korhan/domates/110104
+http://185.9.2.18/chid_375/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/UgDTRNv.png" , ام بي سي - 3  ᴴᴰ
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/snkewG1.png" , ام بي سي - 4  ᴴᴰ
@@ -110,9 +110,9 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0a
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/tYOxhA9.png" , ام بي سي - بوليوود  ᴴᴰ
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082010/MBC_Action.png" , ام بي سي اكشن -  
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2428
+http://185.9.2.18/chid_378/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/xqq4GwW/mbc-max.png" , ام بي سي - ماكس  
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2417
+http://185.9.2.18/chid_379/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات  
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2427
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/bvhL81z/masrah-msr.png" , شاهد مسرح مصر
@@ -148,19 +148,19 @@ http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2829
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick jr
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/162
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/dGlKoLW.png" , روتانا سينما 
-https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
+http://185.9.2.18/chid_288/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/pGgp38I.png" , روتانا افلام  
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/pMMUvkt.png" , روتانا كلاسك
-http://edge.19741977.network:80/korhan/domates/110003
+http://185.9.2.18/chid_286/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0f9sh8q/rotana-comedy.jpg" , روتانا كوميدي 
 http://mains.services/live/bshorty/Zv5le07a0J/790ba89d-843f-4e4e-b4a4-27973cb1f51b.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/6HMluzv.png" , روتانا خليجية  
-http://edge.19741977.network:80/korhan/domates/110001
+http://185.9.2.18/chid_285/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/btnhPjZ.png" , روتانادراما  
 http://edge.19741977.network:80/korhan/domates/110002
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/6ZLkpgR/Masriyah1.jpg" , المصرية
-https://fl1002.bozztv.com/ga-almasriya/index.m3u8
+http://185.9.2.18/chid_247/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483628.jpg" , المصرية الثانية
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/4992
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
@@ -168,7 +168,7 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
-http://edge.19741977.network:80/korhan/domates/109753
+http://185.9.2.18/chid_521/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png", ام تي في 
 http://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png", او تي في  
@@ -287,6 +287,7 @@ https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png",* ABC 7 *
 http://lucidhosting.xyz:82/ayishmael@yahoo.com/9eAGS@dhbWL/5752
+
 
 
 
