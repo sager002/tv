@@ -172,9 +172,11 @@ http://edge.19741977.network:80/korhan/domates/109753
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png", ام تي في 
 http://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png", او تي في  
-http://edge.19741977.network:80/korhan/domates/109744
+http://185.9.2.18/chid_312/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/d0xXWcgH/OaqEpwe.png", المستقبل 
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://i.postimg.cc/d3RWtcXq/teleliban.png", تلفزيون لبنان 
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/sOQLV7L.png", قناة المنار  ᴴᴰ
 https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.vdl.me/wp-content/themes/vdl/app/images/logo-header-mobile.png", صوت لبنان  ᴴᴰ
@@ -285,6 +287,7 @@ https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png",* ABC 7 *
 http://lucidhosting.xyz:82/ayishmael@yahoo.com/9eAGS@dhbWL/5752
+
 
 
 
