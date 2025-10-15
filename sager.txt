@@ -250,7 +250,7 @@ http://185.101.107.131:2082/live/hmx/44kaux0zI/7118.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", شوف 
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/r7BK36X/Animal.jpg", animal planet  
-http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/1296568
+http://185.101.107.131:2082/hmx/44kaux0zI/94322
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/r7BK36X/Animal.jpg", animal planet us
 http://xxip9.top:8080/71983280/57849683/17870
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/z7dc1VC/bbcearth.jpg", bbc earth
@@ -260,13 +260,13 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/1KZG3b4/fe43c644-081a-4816-a4e1-411740081c52.png",الشرق Documentary  ᴴᴰ
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", |OSN| ديسكفري  
-http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/125434
+http://185.101.107.131:2082/hmx/44kaux0zI/94330
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", Discovery us
 http://xxip9.top:8080/71983280/57849683/46720
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/278zCqYf/h1.png", Hestory 1
-http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/125426
+http://185.101.107.131:2082/hmx/44kaux0zI/94320
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0pZHs1jz/h2.png", Hestory 2
-http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/125425
+http://185.101.107.131:2082/hmx/44kaux0zI/12
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/S4K1TDfH/foxnews.jpg",Fox News  
 http://xxip9.top:8080/71983280/57849683/1818
 #EXTINF:0 type="stream" tvg-logo="https://newsroom.mattressfirm.com/wp-content/uploads/2019/01/Fox-news-logo.png",Fox 11
@@ -287,6 +287,7 @@ https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png",* ABC 7 *
 http://lucidhosting.xyz:82/ayishmael@yahoo.com/9eAGS@dhbWL/5752
+
 
 
 
