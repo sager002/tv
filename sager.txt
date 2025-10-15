@@ -236,15 +236,15 @@ https://jmc-live.ercdn.net/altaghier/altaghier.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C1RL10s/ssc1.jpg", SSC 1  
 http://185.101.107.131:2082/live/hmx/44kaux0zI/47199.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1
-http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/897626
+http://185.101.107.131:2082/hmx/44kaux0zI/72032
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/vUJZSvs.png", beIN Sports 2   
-http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/897733
+http://185.101.107.131:2082/hmx/44kaux0zI/72033
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1   
 http://185.101.107.131:2082/live/hmx/44kaux0zI/1590.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 2  
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
+http://185.101.107.131:2082/hmx/44kaux0zI/7063
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 3  
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vakazq/master.m3u8
+http://185.101.107.131:2082/hmx/44kaux0zI/7068
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 4  
 http://185.101.107.131:2082/live/hmx/44kaux0zI/7118.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", شوف 
@@ -287,6 +287,7 @@ https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png",* ABC 7 *
 http://lucidhosting.xyz:82/ayishmael@yahoo.com/9eAGS@dhbWL/5752
+
 
 
 
