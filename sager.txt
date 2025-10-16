@@ -100,7 +100,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/nBqfTwY/mbc-drama.png" , ام بي سي - دراما  ᴴᴰ
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/6yH88Q1.png" ,  + ام بي سي - دراما   ᴴᴰ
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+http://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/5CtT0ck.png" , ام بي سي - العراق  ᴴᴰ
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/lMNtYqf.png" , ام بي سي - مصر 1 ᴴᴰ 
@@ -124,7 +124,7 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 #EXTINF:0 type="stream" tvg-logo="https://up6.cc/2023/05/168405543305773.png" , شاهد موفي 2
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_5.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" , سبيستون  ᴴᴰ
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" , كرتون نتورك  
 http://ultrontv.xyz:80/PCSmith/19023968706/246759
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/TzOKMMy.png" , ماجد  ᴴᴰ
@@ -248,7 +248,7 @@ http://185.101.107.131:2082/hmx/44kaux0zI/7068
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 4  
 http://185.101.107.131:2082/live/hmx/44kaux0zI/7118.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", شوف 
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
+https://storage.googleapis.com/alkass6-bucket/livestream/shoof/main.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/r7BK36X/Animal.jpg", animal planet  
 http://185.101.107.131:2082/hmx/44kaux0zI/94322
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/r7BK36X/Animal.jpg", animal planet us
@@ -275,45 +275,11 @@ http://xxip9.top:8080/live/71983280/57849683/120655.m3u8
 http://xxip9.top:8080/71983280/57849683/1817
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles
 http://xxip9.top:8080/live/781245/753468/120654.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (*KCAL*) Los Angeles
-https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/400248713
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) 
 http://xxip9.top:8080/71983280/57849683/120889
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (*KTLA*)
-https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/27177
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC (KNBC) Los Angeles 
-https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
+https://prodamdlim.akamaized.net/out/v1/095b72b462534be1bb5d09bf5d9e8f86/2bb150785d0e46878b849fb4f8add1c9/d81eee37923941738ba5c009f69b18ec/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png", ABC 7
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png",* ABC 7 *
 http://lucidhosting.xyz:82/ayishmael@yahoo.com/9eAGS@dhbWL/5752
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
