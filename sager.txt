@@ -279,11 +279,12 @@ http://xxip9.top:8080/71983280/57849683/1817
 http://xxip9.top:8080/live/781245/753468/120654.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) 
 http://xxip9.top:8080/71983280/57849683/120889
-#EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", NBC (KNBC) Los Angeles 
-https://prodamdlim.akamaized.net/out/v1/095b72b462534be1bb5d09bf5d9e8f86/2bb150785d0e46878b849fb4f8add1c9/d81eee37923941738ba5c009f69b18ec/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", MSNBC  
+http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png", ABC 7
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png",* ABC 7 *
 http://lucidhosting.xyz:82/ayishmael@yahoo.com/9eAGS@dhbWL/5752
+
 
 
