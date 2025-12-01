@@ -126,15 +126,15 @@ https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/in
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" , سبيستون  ᴴᴰ
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" , كرتون نتورك  
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/659411
+http://bluedk.xyz:8080/311521889776/277848346382/514300
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/TzOKMMy.png" , ماجد  ᴴᴰ
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7woV4Cz.png" , براعم  
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2028
+http://bluedk.xyz:8080/311521889776/277848346382/391394
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C10XDwn/jeemtv.jpg" , جيم  
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/22
+http://bluedk.xyz:8080/311521889776/277848346382/4361
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zhGgTLX/boomerang.png" , Boomerange 
-http://185.101.107.131:2082/live/hmx/44kaux0zI/3712.m3u8
+http://bluedk.xyz:8080/311521889776/277848346382/425707
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY  
 https://fl31.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/5W5y8f0/disney-jr.png" , DISNEY  jr
@@ -142,11 +142,11 @@ https://fl41.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/XrKcpN02/download.png" , DISNEY XD
 http://xxip9.top:8080/live/781245/753468/57420.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/XZ5HcpTz/disney-movie-ch.png" , DISNEY Movies Family
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98029
+http://bluedk.xyz:8080/311521889776/277848346382/114382
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" , nickelodeon
-http://185.101.107.131:2082/hmx/44kaux0zI/75
+http://bluedk.xyz:8080/311521889776/277848346382/32165
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick jr
-http://185.101.107.131:2082/hmx/44kaux0zI/94315
+http://bluedk.xyz:8080/311521889776/277848346382/19019
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/dGlKoLW.png" , روتانا سينما 
 http://185.9.2.18/chid_288/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/pGgp38I.png" , روتانا افلام  
@@ -285,6 +285,7 @@ http://41.205.93.154/MSNBC/index.m3u8
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png",* ABC 7 *
 http://lucidhosting.xyz:82/ayishmael@yahoo.com/9eAGS@dhbWL/5752
+
 
 
 
