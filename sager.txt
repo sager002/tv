@@ -210,9 +210,9 @@ https://live.cdnbridge.tv/Almasirah/Almasirah_1080p/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/aeY4ax8.png", |ART| افلام 1  
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/118865
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/icE2WOw.png",  |ART| افلام 2  
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/102
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/118866
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/kzNnSoV.png", |ART| حكايات 1 
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/104
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/118867
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/EfzfrOL.png", |ART| حكايات 2 
 http://185.101.107.131:2082/live/hmx/44kaux0zI/155.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/osn_al_yawm.png", |OSN| اليوم 
@@ -220,7 +220,7 @@ https://restream-live.realiptv.to:443/live/Lewis12345/Lewis12345/659487.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا 
 http://185.101.107.131:2082/live/hmx/44kaux0zI/137.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا بالعربي
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98036
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/119297
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا افلام
 http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/125453
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
@@ -228,7 +228,7 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/3484
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
 http://edge.19741977.network:80/korhan/domates/110118
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/qnCg98M/mekamlin.png" , مكملين 
-http://edge.19741977.network:80/korhan/domates/109835
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/118965
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/4SBWZsb/hewar.png" , الحوار 
 http://185.101.107.131:2082/live/hmx/44kaux0zI/3677.m3u8
 #EXTINF:0 type="stream" tvg-id="AlGhadTV.eg" tvg-logo="https://i.ibb.co/JwSztVz3/ga6NXb9.png" ,الغد
@@ -285,3 +285,4 @@ http://41.205.93.154/MSNBC/index.m3u8
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png",* ABC 7 *
 http://lucidhosting.xyz:82/ayishmael@yahoo.com/9eAGS@dhbWL/5752
+
