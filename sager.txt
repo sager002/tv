@@ -134,7 +134,7 @@ http://bluedk.xyz:8080/311521889776/277848346382/391394
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C10XDwn/jeemtv.jpg" , جيم  
 http://bluedk.xyz:8080/311521889776/277848346382/4361
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zhGgTLX/boomerang.png" , Boomerange 
-http://bluedk.xyz:8080/311521889776/277848346382/425707
+http://c.overboxtv.com:8080/Slobodanka-Sain/pR1KalA6gv/110287
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY  
 https://fl31.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/5W5y8f0/disney-jr.png" , DISNEY  jr
@@ -224,7 +224,7 @@ http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/119297
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا افلام
 http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/125453
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/3484
+http://c.overboxtv.com:8080/Slobodanka-Sain/pR1KalA6gv/110309
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
 http://edge.19741977.network:80/korhan/domates/110118
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/qnCg98M/mekamlin.png" , مكملين 
@@ -238,21 +238,21 @@ https://jmc-live.ercdn.net/altaghier/altaghier.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C1RL10s/ssc1.jpg", SSC 1  
 http://185.101.107.131:2082/live/hmx/44kaux0zI/47199.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1
-http://185.101.107.131:2082/hmx/44kaux0zI/72032
+http://c.overboxtv.com:8080/Slobodanka-Sain/pR1KalA6gv/18776
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/vUJZSvs.png", beIN Sports 2   
-http://185.101.107.131:2082/hmx/44kaux0zI/72033
+http://c.overboxtv.com:8080/Slobodanka-Sain/pR1KalA6gv/18775
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1   
-http://185.101.107.131:2082/live/hmx/44kaux0zI/1590.m3u8
+http://c.overboxtv.com:8080/Slobodanka-Sain/pR1KalA6gv/117149
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 2  
-http://185.101.107.131:2082/hmx/44kaux0zI/7063
+http://c.overboxtv.com:8080/Slobodanka-Sain/pR1KalA6gv/117152
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 3  
-http://185.101.107.131:2082/hmx/44kaux0zI/7068
+http://c.overboxtv.com:8080/Slobodanka-Sain/pR1KalA6gv/117153
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 4  
-http://185.101.107.131:2082/live/hmx/44kaux0zI/7118.m3u8
+http://c.overboxtv.com:8080/Slobodanka-Sain/pR1KalA6gv/117154
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", شوف 
-https://storage.googleapis.com/alkass6-bucket/livestream/shoof/main.m3u8
+http://c.overboxtv.com:8080/Slobodanka-Sain/pR1KalA6gv/117156
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/r7BK36X/Animal.jpg", animal planet  
-http://185.101.107.131:2082/hmx/44kaux0zI/94322
+http://c.overboxtv.com:8080/Slobodanka-Sain/pR1KalA6gv/6945
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/r7BK36X/Animal.jpg", animal planet us
 http://xxip9.top:8080/71983280/57849683/17870
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/z7dc1VC/bbcearth.jpg", bbc earth
@@ -262,7 +262,7 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/1KZG3b4/fe43c644-081a-4816-a4e1-411740081c52.png",الشرق Documentary  ᴴᴰ
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", |OSN| ديسكفري  
-http://185.101.107.131:2082/hmx/44kaux0zI/94330
+http://c.overboxtv.com:8080/Slobodanka-Sain/pR1KalA6gv/110252
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", Discovery us
 http://xxip9.top:8080/71983280/57849683/46720
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/278zCqYf/h1.png", Hestory 1
@@ -285,4 +285,5 @@ http://41.205.93.154/MSNBC/index.m3u8
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png",* ABC 7 *
 http://lucidhosting.xyz:82/ayishmael@yahoo.com/9eAGS@dhbWL/5752
+
 
