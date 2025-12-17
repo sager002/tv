@@ -134,19 +134,19 @@ http://bluedk.xyz:8080/311521889776/277848346382/391394
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C10XDwn/jeemtv.jpg" , جيم  
 http://bluedk.xyz:8080/311521889776/277848346382/4361
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zhGgTLX/boomerang.png" , Boomerange 
-http://c.overboxtv.com:8080/Slobodanka-Sain/pR1KalA6gv/110287
+http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lvxwthWGjU2DV-8YCcCvP43H7sLs_BWKpeqGph8YcCuyg
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY  
 https://fl31.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/5W5y8f0/disney-jr.png" , DISNEY  jr
-http://sansatplus.net:88/owlottpeer/SOGS9CLEDSLDYJG/94226
+http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lvxwthWGjU2DV-8YCcCvP43EIPPbbVQDgTPjO1sFm47_E
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/XrKcpN02/download.png" , DISNEY XD
 http://xxip9.top:8080/live/781245/753468/57420.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/XZ5HcpTz/disney-movie-ch.png" , DISNEY Movies Family
-http://bluedk.xyz:8080/311521889776/277848346382/114382
+http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lvyyHaLAafoWKPobN9Fnj9sGdHOyzE5z4Ftgtn8gG_f_7
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" , nickelodeon
-http://bluedk.xyz:8080/311521889776/277848346382/32165
+http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lvxwthWGjU2DV-8YCcCvP43Ejxs27fz8zvB0sJ-kW2Ni_
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick jr
-http://bluedk.xyz:8080/311521889776/277848346382/19019
+http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lvxwthWGjU2DV-8YCcCvP43H5rKzDFhjBGXq8Pv1fJv7h
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/dGlKoLW.png" , روتانا سينما 
 http://185.9.2.18/chid_288/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/pGgp38I.png" , روتانا افلام  
@@ -285,6 +285,7 @@ http://41.205.93.154/MSNBC/index.m3u8
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png",* ABC 7 *
 http://lucidhosting.xyz:82/ayishmael@yahoo.com/9eAGS@dhbWL/5752
+
 
 
 
