@@ -126,7 +126,7 @@ https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/in
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" , سبيستون  ᴴᴰ
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" , كرتون نتورك  
-http://bluedk.xyz:8080/311521889776/277848346382/514300
+http://superhd.org:80/play/TMah5U9MKXeMtBC7XoEwBY8sac4E5So8JQs0GXnx3hzxcUOySrwm5FA_BZohp57V/m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/TzOKMMy.png" , ماجد  ᴴᴰ
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7woV4Cz.png" , براعم  
@@ -154,7 +154,7 @@ https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/pMMUvkt.png" , روتانا كلاسك
 http://185.9.2.18/chid_286/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0f9sh8q/rotana-comedy.jpg" , روتانا كوميدي 
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/118889
+http://superhd.org:80/play/TMah5U9MKXeMtBC7XoEwBTi-V1N2WHGwOx896SClzSr8lfc_5ynpkSlOXBIV4g2e/m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/6HMluzv.png" , روتانا خليجية  
 http://185.9.2.18/chid_285/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/btnhPjZ.png" , روتانادراما  
@@ -208,17 +208,17 @@ https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/53
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/V055t5e.png" , المسيرة
 https://live.cdnbridge.tv/Almasirah/Almasirah_1080p/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/aeY4ax8.png", |ART| افلام 1  
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/118865
+http://superhd.org:8080/play/TMah5U9MKXeMtBC7XoEwBSVXECsROqA7eRG2fnSHl4d6aM8NFiAxFSdiuQxXI3Ng/m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/icE2WOw.png",  |ART| افلام 2  
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/118866
+http://superhd.org:8080/play/TMah5U9MKXeMtBC7XoEwBSVXECsROqA7eRG2fnSHl4cRjZvY1wMMWdXGZ6QHKVG8/m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/kzNnSoV.png", |ART| حكايات 1 
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/118867
+http://superhd.org:8080/play/TMah5U9MKXeMtBC7XoEwBSVXECsROqA7eRG2fnSHl4daAQohTYpI2FnRoeNHYsXQ/m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/EfzfrOL.png", |ART| حكايات 2 
-http://185.101.107.131:2082/live/hmx/44kaux0zI/155.m3u8
+http://superhd.org:8080/play/TMah5U9MKXeMtBC7XoEwBSVXECsROqA7eRG2fnSHl4duquiZk1qSkQtxWpHiEIgM/m3u8
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/osn_al_yawm.png", |OSN| اليوم 
 https://restream-live.realiptv.to:443/live/Lewis12345/Lewis12345/659487.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا 
-http://185.101.107.131:2082/live/hmx/44kaux0zI/137.m3u8
+http://superhd.org:8080/play/TMah5U9MKXeMtBC7XoEwBSVXECsROqA7eRG2fnSHl4f1_Ngi48adoZP57EvAgZGu/m3u8
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا بالعربي
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/119297
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا افلام
@@ -285,6 +285,7 @@ http://41.205.93.154/MSNBC/index.m3u8
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png",* ABC 7 *
 http://lucidhosting.xyz:82/ayishmael@yahoo.com/9eAGS@dhbWL/5752
+
 
 
 
