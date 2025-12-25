@@ -144,9 +144,9 @@ http://xxip9.top:8080/live/781245/753468/57420.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/XZ5HcpTz/disney-movie-ch.png" , DISNEY Movies Family
 http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lvyyHaLAafoWKPobN9Fnj9sGdHOyzE5z4Ftgtn8gG_f_7
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" , nickelodeon
-http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lvxwthWGjU2DV-8YCcCvP43Ejxs27fz8zvB0sJ-kW2Ni_
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick jr
-http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lvxwthWGjU2DV-8YCcCvP43H5rKzDFhjBGXq8Pv1fJv7h
+https://fl1.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/dGlKoLW.png" , روتانا سينما 
 http://185.9.2.18/chid_288/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/pGgp38I.png" , روتانا افلام  
@@ -285,6 +285,7 @@ http://41.205.93.154/MSNBC/index.m3u8
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png",* ABC 7 *
 http://lucidhosting.xyz:82/ayishmael@yahoo.com/9eAGS@dhbWL/5752
+
 
 
 
