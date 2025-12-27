@@ -208,21 +208,21 @@ https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/53
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/V055t5e.png" , المسيرة
 https://live.cdnbridge.tv/Almasirah/Almasirah_1080p/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/aeY4ax8.png", |ART| افلام 1  
-http://superhd.org:8080/play/TMah5U9MKXeMtBC7XoEwBSVXECsROqA7eRG2fnSHl4d6aM8NFiAxFSdiuQxXI3Ng/m3u8
+http://smartzone1.xyz:8080/live/leventergonul/u6WN3A9m3k/1f1f7a33-5647-4cd6-b8b4-3aa734039344.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/icE2WOw.png",  |ART| افلام 2  
-http://superhd.org:8080/play/TMah5U9MKXeMtBC7XoEwBSVXECsROqA7eRG2fnSHl4cRjZvY1wMMWdXGZ6QHKVG8/m3u8
+http://smartzone1.xyz:8080/live/leventergonul/u6WN3A9m3k/eb9bedd0-c336-4d55-bded-4909051e9f93.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/kzNnSoV.png", |ART| حكايات 1 
-http://superhd.org:8080/play/TMah5U9MKXeMtBC7XoEwBSVXECsROqA7eRG2fnSHl4daAQohTYpI2FnRoeNHYsXQ/m3u8
+http://smartzone1.xyz:8080/live/leventergonul/u6WN3A9m3k/289fe596-3ecf-4583-aa3e-a038c1e4d330.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/EfzfrOL.png", |ART| حكايات 2 
-http://superhd.org:8080/play/TMah5U9MKXeMtBC7XoEwBSVXECsROqA7eRG2fnSHl4duquiZk1qSkQtxWpHiEIgM/m3u8
+http://smartzone1.xyz:8080/live/leventergonul/u6WN3A9m3k/dbf259cb-63b0-450e-87c7-603a21b78d73.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/osn_al_yawm.png", |OSN| اليوم 
 https://restream-live.realiptv.to:443/live/Lewis12345/Lewis12345/659487.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا 
-http://app.gogo-tv.com:2086/live/319957061G/27674/5123.m3u8
+http://smartzone1.xyz:8080/live/leventergonul/u6WN3A9m3k/8f88cdca-7b93-4b29-b5c8-5fc43e9985f9.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا بالعربي
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/119297
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا افلام
-http://app.gogo-tv.com:2086/live/319957061G/27674/5126.m3u8
+http://smartzone1.xyz:8080/live/leventergonul/u6WN3A9m3k/f4483cba-ba4d-47bb-a920-bb31635e0822.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
 http://app.gogo-tv.com:2086/live/319957061G/27674/5155.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
@@ -285,6 +285,7 @@ http://41.205.93.154/MSNBC/index.m3u8
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png",* ABC 7 *
 http://lucidhosting.xyz:82/ayishmael@yahoo.com/9eAGS@dhbWL/5752
+
 
 
 
