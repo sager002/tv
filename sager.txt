@@ -242,15 +242,15 @@ http://c.overboxtv.com:8080/Slobodanka-Sain/pR1KalA6gv/18776
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/vUJZSvs.png", beIN Sports 2   
 http://c.overboxtv.com:8080/Slobodanka-Sain/pR1KalA6gv/18775
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1   
-http://c.overboxtv.com:8080/Slobodanka-Sain/pR1KalA6gv/117149
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 2  
-http://c.overboxtv.com:8080/Slobodanka-Sain/pR1KalA6gv/117152
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 3  
-http://c.overboxtv.com:8080/Slobodanka-Sain/pR1KalA6gv/117153
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 4  
-http://c.overboxtv.com:8080/Slobodanka-Sain/pR1KalA6gv/117154
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", شوف 
-http://c.overboxtv.com:8080/Slobodanka-Sain/pR1KalA6gv/117156
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/r7BK36X/Animal.jpg", animal planet  
 http://c.overboxtv.com:8080/Slobodanka-Sain/pR1KalA6gv/6945
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/r7BK36X/Animal.jpg", animal planet us
@@ -285,6 +285,7 @@ http://41.205.93.154/MSNBC/index.m3u8
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png",* ABC 7 *
 http://lucidhosting.xyz:82/ayishmael@yahoo.com/9eAGS@dhbWL/5752
+
 
 
 
