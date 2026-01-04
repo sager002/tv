@@ -238,9 +238,9 @@ https://jmc-live.ercdn.net/altaghier/altaghier.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C1RL10s/ssc1.jpg", SSC 1  
 http://news.shuomys.eu:80/play/keyqv71sChSNmr__VdbkR1UO3KlLM13GBkjrZTA-D2M/ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1
-http://news.shuomys.eu:80/play/keyqv71sChSNmr__VdbkRyXYirTpYcMrtkPgN7WICAI/ts
+http://smartzone1.xyz:8080/live/leventergonul/u6WN3A9m3k/7aa06c1e-9992-43d3-b228-3bf948bff05f.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/vUJZSvs.png", beIN Sports 2   
-http://news.shuomys.eu:80/play/keyqv71sChSNmr__VdbkR5iKHvqP0XBNbVKT8J0nmKQ/ts
+http://smartzone1.xyz:8080/live/leventergonul/u6WN3A9m3k/93db6857-1408-4585-a99f-a94e45ecc7bc.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1   
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 2  
@@ -266,9 +266,9 @@ http://5startv.xyz:8080/2052299747/0ioN5kxtFC/132282
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", Discovery us
 http://xxip9.top:8080/71983280/57849683/46720
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/278zCqYf/h1.png", Hestory 1
-http://185.101.107.131:2082/hmx/44kaux0zI/94320
+http://smartzone1.xyz:8080/live/leventergonul/u6WN3A9m3k/c5551ce9-037b-4bd7-8830-00dc5e1e32d3.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0pZHs1jz/h2.png", Hestory 2
-http://185.101.107.131:2082/hmx/44kaux0zI/12
+http://smartzone1.xyz:8080/live/leventergonul/u6WN3A9m3k/dd0acd7e-bee9-4ceb-86a1-50674d46e09c.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/S4K1TDfH/foxnews.jpg",Fox News  
 http://xxip9.top:8080/71983280/57849683/1818
 #EXTINF:0 type="stream" tvg-logo="https://newsroom.mattressfirm.com/wp-content/uploads/2019/01/Fox-news-logo.png",Fox 11
@@ -285,6 +285,7 @@ http://41.205.93.154/MSNBC/index.m3u8
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png",* ABC 7 *
 http://lucidhosting.xyz:82/ayishmael@yahoo.com/9eAGS@dhbWL/5752
+
 
 
 
