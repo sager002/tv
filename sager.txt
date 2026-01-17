@@ -114,7 +114,7 @@ http://185.9.2.18/chid_378/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/xqq4GwW/mbc-max.png" , ام بي سي - ماكس  
 http://185.9.2.18/chid_379/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات  
-http://supersonictv.live:8080/808764/583037/84014
+http://xneoip.online:8080/ercankervankaynanasi/0OCfTA9Myl/179020
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/bvhL81z/masrah-msr.png" , شاهد مسرح مصر
 https://shls-live-enc.edgenextcdn.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://up6.cc/2023/05/168405543304632.png" , شاهد افلام 
@@ -144,7 +144,7 @@ http://xxip9.top:8080/live/781245/753468/57420.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/XZ5HcpTz/disney-movie-ch.png" , DISNEY Movies Family
 http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lvyyHaLAafoWKPobN9Fnj9sGdHOyzE5z4Ftgtn8gG_f_7
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" , nickelodeon
-http://ugeen.live:8080/Ugeen_VIP410ZXv/gR7YtR/2829
+http://xneoip.online:8080/ercankervankaynanasi/0OCfTA9Myl/291640
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick jr
 http://ugeen.live:8080/Ugeen_VIP410ZXv/gR7YtR/162
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/dGlKoLW.png" , روتانا سينما 
@@ -208,15 +208,15 @@ https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/53
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/V055t5e.png" , المسيرة
 https://live.cdnbridge.tv/Almasirah/Almasirah_1080p/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/aeY4ax8.png", |ART| افلام 1  
-http://ugeen.live:8080/Ugeen_VIP410ZXv/gR7YtR/997
+http://supersonictv.live:8080/808764/583037/84021
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/icE2WOw.png",  |ART| افلام 2  
-http://ugeen.live:8080/Ugeen_VIP410ZXv/gR7YtR/102
+http://xneoip.online:8080/ercankervankaynanasi/0OCfTA9Myl/2122
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/kzNnSoV.png", |ART| حكايات 1 
-http://ugeen.live:8080/Ugeen_VIP410ZXv/gR7YtR/104
+http://xneoip.online:8080/ercankervankaynanasi/0OCfTA9Myl/2124
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/EfzfrOL.png", |ART| حكايات 2 
-http://ugeen.live:8080/Ugeen_VIP410ZXv/gR7YtR/105
+http://xneoip.online:8080/ercankervankaynanasi/0OCfTA9Myl/2125
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/osn_al_yawm.png", |OSN| اليوم 
-http://ugeen.live:8080/Ugeen_VIP410ZXv/gR7YtR/2828
+http://xneoip.online:8080/ercankervankaynanasi/0OCfTA9Myl/132305
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا 
 http://news.shuomys.eu:80/play/keyqv71sChSNmr__VdbkR5UQGZnSso3wr8MvNEq1T60/ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا بالعربي
@@ -224,7 +224,7 @@ http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/119297
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا افلام
 http://ugeen.live:8080/Ugeen_VIP410ZXv/gR7YtR/161
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
-http://ugeen.live:8080/Ugeen_VIP410ZXv/gR7YtR/25
+http://xneoip.online:8080/ercankervankaynanasi/0OCfTA9Myl/132353
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
 http://supersonictv.live:8080/808764/583037/84201
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/qnCg98M/mekamlin.png" , مكملين 
@@ -285,6 +285,7 @@ http://41.205.93.154/MSNBC/index.m3u8
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png",* ABC 7 *
 http://lucidhosting.xyz:82/ayishmael@yahoo.com/9eAGS@dhbWL/5752
+
 
 
 
