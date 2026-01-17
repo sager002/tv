@@ -131,8 +131,12 @@ http://ugeen.live:8080/Ugeen_VIP410ZXv/gR7YtR/2949
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7woV4Cz.png" , براعم  
 http://xneoip.online:8080/ercankervankaynanasi/0OCfTA9Myl/94391
+#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7woV4Cz.png" , براعم (lu)
+http://lunar.pm:8080/2057185953/G4IbXjegFc/132295
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C10XDwn/jeemtv.jpg" , جيم  
 http://xneoip.online:8080/ercankervankaynanasi/0OCfTA9Myl/250302
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C10XDwn/jeemtv.jpg" , جيم (lu)
+http://lunar.pm:8080/2057185953/G4IbXjegFc/132237
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zhGgTLX/boomerang.png" , Boomerange 
 http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lvxwthWGjU2DV-8YCcCvP43H7sLs_BWKpeqGph8YcCuyg
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY  
@@ -285,4 +289,5 @@ http://41.205.93.154/MSNBC/index.m3u8
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png",* ABC 7 *
 http://lucidhosting.xyz:82/ayishmael@yahoo.com/9eAGS@dhbWL/5752
+
 
