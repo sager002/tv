@@ -130,9 +130,9 @@ http://ugeen.live:8080/Ugeen_VIP410ZXv/gR7YtR/2949
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/TzOKMMy.png" , ماجد  ᴴᴰ
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7woV4Cz.png" , براعم  
-http://ugeen.live:8080/Ugeen_VIP410ZXv/gR7YtR/2028
+http://xneoip.online:8080/ercankervankaynanasi/0OCfTA9Myl/94391
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C10XDwn/jeemtv.jpg" , جيم  
-http://ugeen.live:8080/Ugeen_VIP410ZXv/gR7YtR/22
+http://xneoip.online:8080/ercankervankaynanasi/0OCfTA9Myl/250302
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zhGgTLX/boomerang.png" , Boomerange 
 http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lvxwthWGjU2DV-8YCcCvP43H7sLs_BWKpeqGph8YcCuyg
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY  
@@ -222,7 +222,7 @@ http://news.shuomys.eu:80/play/keyqv71sChSNmr__VdbkR5UQGZnSso3wr8MvNEq1T60/ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا بالعربي
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/119297
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا افلام
-http://xneoip.online:8080/ercankervankaynanasi/0OCfTA9Myl/567423
+http://xneoip.online:8080/ercankervankaynanasi/0OCfTA9Myl/132315
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
 http://xneoip.online:8080/ercankervankaynanasi/0OCfTA9Myl/132353
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
@@ -285,9 +285,4 @@ http://41.205.93.154/MSNBC/index.m3u8
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png",* ABC 7 *
 http://lucidhosting.xyz:82/ayishmael@yahoo.com/9eAGS@dhbWL/5752
-
-
-
-
-
 
