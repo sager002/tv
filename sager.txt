@@ -212,7 +212,7 @@ https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/53
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/V055t5e.png" , المسيرة
 https://live.cdnbridge.tv/Almasirah/Almasirah_1080p/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/aeY4ax8.png", |ART| افلام 1  
-http://supersonictv.live:8080/808764/583037/84021
+http://supersonictv.live:8080/640676/019121/84021
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/icE2WOw.png",  |ART| افلام 2  
 http://xneoip.online:8080/ercankervankaynanasi/0OCfTA9Myl/2122
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/kzNnSoV.png", |ART| حكايات 1 
@@ -230,7 +230,7 @@ http://xneoip.online:8080/ercankervankaynanasi/0OCfTA9Myl/132315
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
 http://xneoip.online:8080/ercankervankaynanasi/0OCfTA9Myl/132353
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
-http://supersonictv.live:8080/808764/583037/84201
+http://supersonictv.live:8080/640676/019121/84201
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/qnCg98M/mekamlin.png" , مكملين 
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/4SBWZsb/hewar.png" , الحوار 
@@ -289,5 +289,6 @@ http://41.205.93.154/MSNBC/index.m3u8
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png",* ABC 7 *
 http://lucidhosting.xyz:82/ayishmael@yahoo.com/9eAGS@dhbWL/5752
+
 
 
