@@ -170,7 +170,7 @@ http://185.9.2.18/chid_247/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483628.jpg" , المصرية الثانية
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/118972
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
-http://22122025main1.xyz:8080/play/link/a67b8151-ad4e-4622-850b-7fdbf5bc2629/eyJpdiI6IkdzenBMOTRDZlY4UFF4YUFlY00zVFE9PSIsInZhbHVlIjoiRitidHF2cExOalV2SFRUUTdJVTJNTHZpNVY5WktUdHErS1M1cUxZU0JXSk16THJ5ajlIVHVpdEw3UHpYNzM2QyIsIm1hYyI6IjQ0Y2NkOTg3OTQ4NDU4MWYwN2MyNmM5NjVhMDEwODNiZWUwZWZlOGZiZjg5YmFmMWU1MjkzNDhmYjE4MmE2YmMiLCJ0YWciOiIifQ==.m3u8?useIntId=0
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/4996
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
@@ -291,6 +291,7 @@ http://41.205.93.154/MSNBC/index.m3u8
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png",* ABC 7 *
 http://lucidhosting.xyz:82/ayishmael@yahoo.com/9eAGS@dhbWL/5752
+
 
 
 
