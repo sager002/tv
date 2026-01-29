@@ -146,7 +146,7 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/130313
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/5W5y8f0/disney-jr.png" , DISNEY  jr
 http://161.123.116.21:8080/Kenny1/Kenny2/1690025
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/XrKcpN02/download.png" , DISNEY XD
-http://xxip9.top:8080/live/781245/753468/57420.m3u8
+http://tv14s.xyz:8080/live/781245/753468/57420.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/XZ5HcpTz/disney-movie-ch.png" , DISNEY Movies Family
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98029
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" , nickelodeon
@@ -262,7 +262,7 @@ https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/r7BK36X/Animal.jpg", animal planet  
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98000
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/r7BK36X/Animal.jpg", animal planet us
-http://xxip9.top:8080/71983280/57849683/17870
+http://tv14s.xyz:8080/71983280/57849683/17870
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/z7dc1VC/bbcearth.jpg", bbc earth
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98142
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/1KZG3b4/fe43c644-081a-4816-a4e1-411740081c52.png",الشرق Discovery  ᴴᴰ
@@ -272,22 +272,23 @@ https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", |OSN| ديسكفري  
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98003
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", Discovery us
-http://xxip9.top:8080/71983280/57849683/46720
+http://tv14s.xyz:8080/71983280/57849683/46720
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/278zCqYf/h1.png", Hestory 1
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98008
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0pZHs1jz/h2.png", Hestory 2
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98007
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/S4K1TDfH/foxnews.jpg",Fox News  
-http://xxip9.top:8080/71983280/57849683/1818
+http://tv14s.xyz:8080/71983280/57849683/1818
 #EXTINF:0 type="stream" tvg-logo="https://newsroom.mattressfirm.com/wp-content/uploads/2019/01/Fox-news-logo.png",Fox 11
-http://xxip9.top:8080/live/71983280/57849683/120655.m3u8
+http://tv14s.xyz:8080/live/71983280/57849683/120655.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN  
-http://xxip9.top:8080/71983280/57849683/1817
+http://tv14s.xyz:8080/71983280/57849683/1817
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles
-http://xxip9.top:8080/live/781245/753468/120654.m3u8
+http://tv14s.xyz:8080/live/781245/753468/120654
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) 
-http://xxip9.top:8080/71983280/57849683/120889
+http://tv14s.xyz:8080/71983280/57849683/120889
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", MSNBC  
 http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png", ABC 7
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+
