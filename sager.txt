@@ -114,8 +114,6 @@ http://185.9.2.18/chid_378/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/xqq4GwW/mbc-max.png" , ام بي سي - ماكس  
 http://185.9.2.18/chid_379/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات  
-http://xneoip.online:8080/ercankervankaynanasi/0OCfTA9Myl/179020
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات  (k)
 http://161.123.116.21:8080/Kenny1/Kenny2/1690082
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/bvhL81z/masrah-msr.png" , شاهد مسرح مصر
 https://shls-live-enc.edgenextcdn.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index.m3u8
@@ -132,12 +130,8 @@ http://lunar.pm:8080/Reginaharris/Itsbest4/132241
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/TzOKMMy.png" , ماجد  ᴴᴰ
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7woV4Cz.png" , براعم  
-http://xneoip.online:8080/ercankervankaynanasi/0OCfTA9Myl/94391
-#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7woV4Cz.png" , براعم (lu)
 http://lunar.pm:8080/Reginaharris/Itsbest4/132295
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C10XDwn/jeemtv.jpg" , جيم  
-http://xneoip.online:8080/ercankervankaynanasi/0OCfTA9Myl/250302
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C10XDwn/jeemtv.jpg" , جيم (lu)
 http://lunar.pm:8080/Reginaharris/Itsbest4/132237
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zhGgTLX/boomerang.png" , Boomerange 
 http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lvxwthWGjU2DV-8YCcCvP43H7sLs_BWKpeqGph8YcCuyg
@@ -214,16 +208,14 @@ https://fastly.live.brightcove.com/6386792572112/eu-central-1/5377161796001/eyJh
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/V055t5e.png" , المسيرة
 https://live.cdnbridge.tv/Almasirah/Almasirah_1080p/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/aeY4ax8.png", |ART| افلام 1  
-http://supersonictv.live:8080/640676/019121/84021
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2440
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/icE2WOw.png",  |ART| افلام 2  
-http://xneoip.online:8080/ercankervankaynanasi/0OCfTA9Myl/2122
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/101146
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/kzNnSoV.png", |ART| حكايات 1 
-http://xneoip.online:8080/ercankervankaynanasi/0OCfTA9Myl/2124
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/101145
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/EfzfrOL.png", |ART| حكايات 2 
-http://xneoip.online:8080/ercankervankaynanasi/0OCfTA9Myl/2125
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2436
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/osn_al_yawm.png", |OSN| اليوم 
-http://xneoip.online:8080/ercankervankaynanasi/0OCfTA9Myl/132305
-#EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/osn_al_yawm.png", |OSN| اليوم (g)
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98015
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا 
 http://161.123.116.21:8080/Kenny1/Kenny2/1689980
@@ -232,7 +224,7 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98037
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا افلام
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98035
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
-http://xneoip.online:8080/ercankervankaynanasi/0OCfTA9Myl/132353
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/3484
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
 http://supersonictv.live:8080/640676/019121/84201
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/qnCg98M/mekamlin.png" , مكملين 
@@ -291,4 +283,5 @@ http://tv14s.xyz:8080/71983280/57849683/120889
 http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png", ABC 7
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+
 
