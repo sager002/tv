@@ -54,13 +54,11 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/nat
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/tq5Aj9i.png" , الشارقة  ᴴᴰ
 https://svs.itworkscdn.net/smc1live/smc1tv.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zQ3d95t/dubai.png" , دبي  ᴴᴰ
-https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2402
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/M5RPFYH/smadubai.jpg" , سما دبي  ᴴᴰ
-https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/FP2yHkl.png" , نور دبي  ᴴᴰ
-https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2399
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/5Q5qMzP.png" , دبي زمان  ᴴᴰ
-https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2400
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/3TkCNYG/wosta.png" , الوسطى  ᴴᴰ
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/n6RXCn6/fujairah.png" , الفجيرة  ᴴᴰ
@@ -271,18 +269,11 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98008
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98007
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/S4K1TDfH/foxnews.jpg",Fox News  
 http://tv14s.xyz:8080/71983280/57849683/1818
-#EXTINF:0 type="stream" tvg-logo="https://newsroom.mattressfirm.com/wp-content/uploads/2019/01/Fox-news-logo.png",Fox 11
-http://tv14s.xyz:8080/live/71983280/57849683/120655.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN  
 http://tv14s.xyz:8080/71983280/57849683/1817
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/wW9czk6/kcallogo.png", CBS (KCAL) Los Angeles
-http://tv14s.xyz:8080/live/781245/753468/120654
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BwcBMrH/Ktla.png", CW (KTLA) 
-http://tv14s.xyz:8080/71983280/57849683/120889
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", MSNBC  
 http://41.205.93.154/MSNBC/index.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mvyG68y/abc7.png", ABC 7
-https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+
 
 
 
