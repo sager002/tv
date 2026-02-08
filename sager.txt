@@ -54,11 +54,13 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/nat
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/tq5Aj9i.png" , الشارقة  ᴴᴰ
 https://svs.itworkscdn.net/smc1live/smc1tv.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zQ3d95t/dubai.png" , دبي  ᴴᴰ
-http://185.9.2.18/chid_139/index.m3u8
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2402
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/M5RPFYH/smadubai.jpg" , سما دبي  ᴴᴰ
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2399
+http://mains.services/live/67564813/67564813/aa7ac53c-a585-4ced-9e27-3a28aac75a7b.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/5Q5qMzP.png" , دبي زمان  ᴴᴰ
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2400
+#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/5Q5qMzP.png" , نور دبي
+http://mains.services/live/67564813/67564813/1cf8925d-a8e9-43e7-8253-0be407edd1df.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/3TkCNYG/wosta.png" , الوسطى  ᴴᴰ
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/n6RXCn6/fujairah.png" , الفجيرة  ᴴᴰ
@@ -273,9 +275,4 @@ http://tv14s.xyz:8080/71983280/57849683/1818
 http://tv14s.xyz:8080/71983280/57849683/1817
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", MSNBC  
 http://41.205.93.154/MSNBC/index.m3u8
-
-
-
-
-
 
