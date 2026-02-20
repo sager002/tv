@@ -196,7 +196,7 @@ https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.maannews.net/2022_assets/images/logo.png" , معا  ᴴᴰ
 https://htvmada.mada.ps:4443/maannews/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.livehdtv.net/uploads/kanal/26635Makan%2033.jpg" , مكان   ᴴᴰ
-https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_1.2k/chunklist.m3u8
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/TY4SXxV/hala.png" , هلا  ᴴᴰ
 https://stream.panet.com/edge/halaTV/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0M8mj1c/i24.jpg" , i24  ᴴᴰ
@@ -271,10 +271,3 @@ http://tv14s.xyz:8080/71983280/57849683/1818
 http://tv14s.xyz:8080/71983280/57849683/1817
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", MSNBC  
 http://41.205.93.154/MSNBC/index.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", test
-http://alkanz.net/playlist.m3u8
-
-
-
-
-
