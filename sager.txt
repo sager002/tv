@@ -210,7 +210,7 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98015
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا 
 http://161.123.116.21:8080/Kenny1/Kenny2/1689980
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا بالعربي
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98037
+http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/119297.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا افلام
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98035
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
@@ -263,5 +263,6 @@ http://tv14s.xyz:8080/71983280/57849683/1818
 http://tv14s.xyz:8080/71983280/57849683/1817
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", MSNBC  
 http://41.205.93.154/MSNBC/index.m3u8
+
 
 
