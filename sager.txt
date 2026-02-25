@@ -219,6 +219,8 @@ http://pp.prison2break.xyz:8080/live/carloseloyguerreiro02/LGtev3TsrR/98137.m3u8
 http://176.65.146.147:9981/stream/channelid/2096576635
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/qnCg98M/mekamlin.png" , مكملين 
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/4SBWZsb/hewar.png" , الحوار
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-id="AlGhadTV.eg" tvg-logo="https://i.ibb.co/JwSztVz3/ga6NXb9.png" ,الغد
 https://eazyvwqssi.erbvr.com/alghadtv/alghadtv_1080p.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/YTyCBvB.png" , التغيير
@@ -263,6 +265,7 @@ http://tv14s.xyz:8080/71983280/57849683/1818
 http://tv14s.xyz:8080/71983280/57849683/1817
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", MSNBC  
 http://41.205.93.154/MSNBC/index.m3u8
+
 
 
 
