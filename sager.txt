@@ -134,7 +134,7 @@ http://pp.prison2break.xyz:8080/carloseloyguerreiro02/LGtev3TsrR/97999
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/XrKcpN02/download.png" , DISNEY XD
 http://tv14s.xyz:8080/live/781245/753468/57420.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" , nickelodeon
-http://161.123.116.21:8080/Kenny1/Kenny2/1690026
+http://pp.prison2break.xyz:8080/carloseloyguerreiro02/LGtev3TsrR/97994
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick jr
 http://pp.prison2break.xyz:8080/live/carloseloyguerreiro02/LGtev3TsrR/97997.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/dGlKoLW.png" , روتانا سينما 
@@ -265,6 +265,7 @@ http://tv14s.xyz:8080/71983280/57849683/1818
 http://tv14s.xyz:8080/71983280/57849683/1817
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", MSNBC  
 http://41.205.93.154/MSNBC/index.m3u8
+
 
 
 
