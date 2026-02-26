@@ -154,7 +154,7 @@ http://185.9.2.18/chid_247/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483628.jpg" , المصرية الثانية
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/118972
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/4996
+http://portal.geniptv.com:8080/carloseloyguerreiro02/LGtev3TsrR/4996
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
@@ -206,13 +206,13 @@ http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/118867.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/EfzfrOL.png", |ART| حكايات 2 
 http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/118868.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/osn_al_yawm.png", |OSN| اليوم 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98015
+http://pp.prison2break.xyz:8080/carloseloyguerreiro02/LGtev3TsrR/98015
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا 
 http://161.123.116.21:8080/Kenny1/Kenny2/1689980
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا بالعربي
 http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/119297.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا افلام
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98035
+http://pp.prison2break.xyz:8080/carloseloyguerreiro02/LGtev3TsrR/98035
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
 http://pp.prison2break.xyz:8080/live/carloseloyguerreiro02/LGtev3TsrR/98137.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
@@ -246,25 +246,26 @@ http://pp.prison2break.xyz:8080/carloseloyguerreiro02/LGtev3TsrR/98001
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/r7BK36X/Animal.jpg", animal planet us
 http://tv14s.xyz:8080/71983280/57849683/17870
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/z7dc1VC/bbcearth.jpg", bbc earth
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98142
+http://portal.geniptv.com:8080/carloseloyguerreiro02/LGtev3TsrR/98142
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/1KZG3b4/fe43c644-081a-4816-a4e1-411740081c52.png",الشرق Discovery  ᴴᴰ
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/1KZG3b4/fe43c644-081a-4816-a4e1-411740081c52.png",الشرق Documentary  ᴴᴰ
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", |OSN| ديسكفري  
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98003
+http://pp.prison2break.xyz:8080/carloseloyguerreiro02/LGtev3TsrR/98003
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", Discovery us
 http://tv14s.xyz:8080/71983280/57849683/46720
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/278zCqYf/h1.png", Hestory 1
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98008
+http://pp.prison2break.xyz:8080/carloseloyguerreiro02/LGtev3TsrR/98008
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0pZHs1jz/h2.png", Hestory 2
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98007
+http://pp.prison2break.xyz:8080/carloseloyguerreiro02/LGtev3TsrR/98007
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/S4K1TDfH/foxnews.jpg",Fox News  
 http://tv14s.xyz:8080/71983280/57849683/1818
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN  
 http://tv14s.xyz:8080/71983280/57849683/1817
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", MSNBC  
 http://41.205.93.154/MSNBC/index.m3u8
+
 
 
 
