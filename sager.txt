@@ -107,6 +107,8 @@ http://185.9.2.18/chid_378/index.m3u8
 http://185.9.2.18/chid_379/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات  
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/118850
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" ,  BK-ام بي سي - منوعات
+https://restream-live.realiptv.to/ALEX/sg5ng25ikf/659420
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/bvhL81z/masrah-msr.png" , شاهد مسرح مصر
 https://shls-live-enc.edgenextcdn.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://up6.cc/2023/05/168405543304632.png" , شاهد افلام 
@@ -127,6 +129,8 @@ http://pp.prison2break.xyz:8080/carloseloyguerreiro02/LGtev3TsrR/98143
 http://pp.prison2break.xyz:8080/carloseloyguerreiro02/LGtev3TsrR/98121
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zhGgTLX/boomerang.png" , Boomerange 
 http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lvxwthWGjU2DV-8YCcCvP43H7sLs_BWKpeqGph8YcCuyg
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zhGgTLX/boomerang.png" , Boomerange-BK
+https://restream-live.realiptv.to/ALEX/sg5ng25ikf/659470
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY  
 http://pp.prison2break.xyz:8080/live/carloseloyguerreiro02/LGtev3TsrR/98000.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/5W5y8f0/disney-jr.png" , DISNEY  jr
@@ -137,6 +141,8 @@ http://tv14s.xyz:8080/live/781245/753468/57420.m3u8
 http://pp.prison2break.xyz:8080/carloseloyguerreiro02/LGtev3TsrR/97994
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick jr
 http://pp.prison2break.xyz:8080/live/carloseloyguerreiro02/LGtev3TsrR/97997.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , movie family
+http://pp.prison2break.xyz:8080/carloseloyguerreiro02/LGtev3TsrR/98029
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/dGlKoLW.png" , روتانا سينما 
 http://185.9.2.18/chid_288/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/pGgp38I.png" , روتانا افلام  
@@ -265,6 +271,7 @@ http://tv14s.xyz:8080/71983280/57849683/1818
 http://tv14s.xyz:8080/71983280/57849683/1817
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", MSNBC  
 http://41.205.93.154/MSNBC/index.m3u8
+
 
 
 
