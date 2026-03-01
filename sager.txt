@@ -126,7 +126,7 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7woV4Cz.png" , براعم  
 http://pp.prison2break.xyz:8080/carloseloyguerreiro02/LGtev3TsrR/98143
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C10XDwn/jeemtv.jpg" , جيم  
-http://pp.prison2break.xyz:8080/carloseloyguerreiro02/LGtev3TsrR/98121
+https://restream-live.realiptv.to/ALEX/sg5ng25ikf/659480
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zhGgTLX/boomerang.png" , Boomerange 
 http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lvxwthWGjU2DV-8YCcCvP43H7sLs_BWKpeqGph8YcCuyg
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zhGgTLX/boomerang.png" , Boomerange-BK
@@ -222,7 +222,7 @@ http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/119297.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا افلام
 http://pp.prison2break.xyz:8080/carloseloyguerreiro02/LGtev3TsrR/98035
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
-http://pp.prison2break.xyz:8080/live/carloseloyguerreiro02/LGtev3TsrR/98137.m3u8
+https://restream-live.realiptv.to/ALEX/sg5ng25ikf/659474
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
 http://176.65.146.147:9981/stream/channelid/2096576635
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/qnCg98M/mekamlin.png" , مكملين 
@@ -250,7 +250,7 @@ https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", شوف 
 https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/r7BK36X/Animal.jpg", animal planet  
-http://pp.prison2break.xyz:8080/carloseloyguerreiro02/LGtev3TsrR/98001
+https://restream-live.realiptv.to/ALEX/sg5ng25ikf/659467
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/r7BK36X/Animal.jpg", animal planet us
 http://tv14s.xyz:8080/71983280/57849683/17870
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/z7dc1VC/bbcearth.jpg", bbc earth
@@ -273,6 +273,7 @@ http://tv14s.xyz:8080/71983280/57849683/1818
 http://tv14s.xyz:8080/71983280/57849683/1817
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", MSNBC  
 http://41.205.93.154/MSNBC/index.m3u8
+
 
 
 
