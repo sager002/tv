@@ -160,7 +160,7 @@ http://185.9.2.18/chid_247/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483628.jpg" , المصرية الثانية
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/118972
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
-http://portal.geniptv.com:8080/carloseloyguerreiro02/LGtev3TsrR/4996
+https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
@@ -183,6 +183,8 @@ https://edge.fastpublish.me/live/index.m3u8
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://l-television.com/LTV/wp-content/uploads/2021/07/LTV-final-logo-300x298.png", ال تي في  ᴴᴰ
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://www.redtvlebanon.com/assets/images/RED.png", RED TV
+https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/uWibV0i.png", العهد
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/119101
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/71qxh9L/etgah.jpg", قناة الاتجاه  ᴴᴰ
@@ -273,6 +275,7 @@ http://tv14s.xyz:8080/71983280/57849683/1818
 http://tv14s.xyz:8080/71983280/57849683/1817
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", MSNBC  
 http://41.205.93.154/MSNBC/index.m3u8
+
 
 
 
