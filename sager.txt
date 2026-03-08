@@ -154,7 +154,7 @@ http://185.9.2.18/chid_5224/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/6HMluzv.png" , روتانا خليجية  
 http://185.9.2.18/chid_285/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/btnhPjZ.png" , روتانادراما  
-http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/118891.m3u8
+http://185.9.2.18/chid_2179/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/6ZLkpgR/Masriyah1.jpg" , المصرية
 http://185.9.2.18/chid_247/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483628.jpg" , المصرية الثانية
@@ -277,3 +277,4 @@ http://tv14s.xyz:8080/71983280/57849683/1817
 http://89.105.221.127/CNN/index.m3u8?token=test
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", MSNBC  
 http://41.205.93.154/MSNBC/index.m3u8
+
