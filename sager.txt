@@ -256,7 +256,7 @@ https://restream-live.realiptv.to/ALEX/sg5ng25ikf/659467
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/r7BK36X/Animal.jpg", animal planet us
 http://tv14s.xyz:8080/71983280/57849683/17870
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/z7dc1VC/bbcearth.jpg", bbc earth
-http://portal.geniptv.com:8080/carloseloyguerreiro02/LGtev3TsrR/98142
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/659454.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/1KZG3b4/fe43c644-081a-4816-a4e1-411740081c52.png",الشرق Discovery  ᴴᴰ
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/1KZG3b4/fe43c644-081a-4816-a4e1-411740081c52.png",الشرق Documentary  ᴴᴰ
@@ -277,6 +277,7 @@ http://tv14s.xyz:8080/71983280/57849683/1817
 http://89.105.221.127/CNN/index.m3u8?token=test
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", MSNBC  
 http://41.205.93.154/MSNBC/index.m3u8
+
 
 
 
