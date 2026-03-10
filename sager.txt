@@ -33,7 +33,7 @@ https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/naVEZtj.png" , القرين
 https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
-EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/naVEZtj.png" , الراي
+#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/naVEZtj.png" , الراي
 http://vipzpqsexox.top:8080/VIP0112175379459091/zug9nxe7u5ik/6606
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2F8TwT3/bahrain.png" , البحرين  ᴴᴰ
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
@@ -279,6 +279,7 @@ http://tv14s.xyz:8080/71983280/57849683/1817
 http://89.105.221.127/CNN/index.m3u8?token=test
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", MSNBC  
 http://41.205.93.154/MSNBC/index.m3u8
+
 
 
 
