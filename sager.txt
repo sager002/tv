@@ -2,7 +2,7 @@
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/thqzs1w/arabia.png" , العربية  ᴴᴰ
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/dMJhDzV/hadath.png" , العربية الحدث  ᴴᴰ
-https://live.alarabiya.net/alarabiapublish/alhadath_720p/chunks.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
 #EXTINF:0 type="stream" tvg-id="AlJazeera.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" , الجزيرة  ᴴᴰ
 http://live-hls-web-aja.getaj.net/AJA/04.m3u8
 #EXTINF:0 type="stream" tvg-id="AlJazeera.qa" tvg-logo="https://i.ibb.co/1fH3xNVF/jaz-mbshr.jpg" , الجزيرة مباشر ᴴᴰ
@@ -279,6 +279,7 @@ http://tv14s.xyz:8080/71983280/57849683/1817
 http://89.105.221.127/CNN/index.m3u8?token=test
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", MSNBC  
 http://41.205.93.154/MSNBC/index.m3u8
+
 
 
 
