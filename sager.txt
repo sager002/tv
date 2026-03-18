@@ -280,7 +280,7 @@ http://tv14s.xyz:8080/71983280/57849683/1817
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN BK
 http://89.105.221.127/CNN/index.m3u8?token=test
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", MSNBC  
-http://41.205.93.154/MSNBC/index.m3u8
+https://a1xs.vip/300008
 
 
 
