@@ -162,7 +162,7 @@ http://185.9.2.18/chid_2179/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/6ZLkpgR/Masriyah1.jpg" , المصرية
 http://185.9.2.18/chid_247/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483628.jpg" , المصرية الثانية
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/118972
+http://mezianeiptv.com:88/HN8ZR4FEYK/M5EHX4AQHK/7564
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
 https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
@@ -212,21 +212,21 @@ https://fastly.live.brightcove.com/6386792572112/eu-central-1/5377161796001/eyJh
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/V055t5e.png" , المسيرة
 https://live.cdnbridge.tv/Almasirah/Almasirah_1080p/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/aeY4ax8.png", |ART| افلام 1  
-http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/118865.m3u8
+http://64fgw3no.mix4kglobal.cfd:8080/MIX0627177065790988/3a47f8qxwtji/1328199
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/icE2WOw.png",  |ART| افلام 2  
-http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/118866.m3u8
+http://64fgw3no.mix4kglobal.cfd:8080/MIX0627177065790988/3a47f8qxwtji/1328200
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/kzNnSoV.png", |ART| حكايات 1 
-http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/118867.m3u8
+http://64fgw3no.mix4kglobal.cfd:8080/MIX0627177065790988/3a47f8qxwtji/1321298
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/EfzfrOL.png", |ART| حكايات 2 
-http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/118868.m3u8
+http://64fgw3no.mix4kglobal.cfd:8080/MIX0627177065790988/3a47f8qxwtji/1330897
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/osn_al_yawm.png", |OSN| اليوم 
 http://pp.prison2break.xyz:8080/carloseloyguerreiro02/LGtev3TsrR/98015
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا 
-http://161.123.116.21:8080/Kenny1/Kenny2/1689980
+http://64fgw3no.mix4kglobal.cfd:8080/MIX0627177065790988/3a47f8qxwtji/1331200
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا بالعربي
-http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/119297.m3u8
+http://mezianeiptv.com:88/HN8ZR4FEYK/M5EHX4AQHK/471106
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا افلام
-http://pp.prison2break.xyz:8080/carloseloyguerreiro02/LGtev3TsrR/98035
+http://mezianeiptv.com:88/HN8ZR4FEYK/M5EHX4AQHK/471107
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
 https://restream-live.realiptv.to/nopbot/jbadWjxWV1/659474
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
