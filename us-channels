@@ -62,3 +62,245 @@ http://89.105.221.127/foodnetwork/index.m3u8?token=test
 http://89.105.221.127/SYFY/index.m3u8?token=test
 #EXTINF:-1,HBO(L)
 http://89.105.221.127/HBO/index.m3u8?token=test
+#EXTINF:-1,A&E HD
+http://nor1live.win/livehttpplay?channel_id=23104
+#EXTINF:-1,ADN 40 HD
+http://nor1live.win/livehttpplay?channel_id=23030
+#EXTINF:-1,AFN movie HD
+http://nor1live.win/livehttpplay?channel_id=23018
+#EXTINF:-1,AFN spectrum HD
+http://nor1live.win/livehttpplay?channel_id=23019
+#EXTINF:-1,AXSTV USA
+http://nor1live.win/livehttpplay?channel_id=23151
+#EXTINF:-1,BANDAMAX HD
+http://nor1live.win/livehttpplay?channel_id=23041
+#EXTINF:-1,BET BET West HD
+http://nor1live.win/livehttpplay?channel_id=23066
+#EXTINF:-1,BET Canadá HD
+http://nor1live.win/livehttpplay?channel_id=23063
+#EXTINF:-1,BET Caribe HD
+http://nor1live.win/livehttpplay?channel_id=23062
+#EXTINF:-1,BET Her Caribe HD
+http://nor1live.win/livehttpplay?channel_id=23065
+#EXTINF:-1,BIG NETWORK USA
+http://nor1live.win/livehttpplay?channel_id=23139
+#EXTINF:-1,bravo HD
+http://nor1live.win/livehttpplay?channel_id=23110
+#EXTINF:-1,BRAVO HD
+http://nor1live.win/livehttpplay?channel_id=23070
+#EXTINF:-1,CARTOON NETWORK HD
+http://nor1live.win/livehttpplay?channel_id=23045
+#EXTINF:-1,CBS SPORTS USA
+http://nor1live.win/livehttpplay?channel_id=23132
+#EXTINF:-1,CMT EAST HD
+http://nor1live.win/livehttpplay?channel_id=23077
+#EXTINF:-1,CNBC HD
+http://nor1live.win/livehttpplay?channel_id=23115
+#EXTINF:-1,CNBC WORLD HD
+http://nor1live.win/livehttpplay?channel_id=23117
+#EXTINF:-1,COMEDY CARIBE HD
+http://nor1live.win/livehttpplay?channel_id=23119
+#EXTINF:-1,COMEDY WEST HD
+http://nor1live.win/livehttpplay?channel_id=23083
+#EXTINF:-1,COZI TV SD
+http://nor1live.win/livehttpplay?channel_id=23000
+#EXTINF:-1,DISTRITO COMEDIA HD
+http://nor1live.win/livehttpplay?channel_id=23043
+#EXTINF:-1,E! EAST HD
+http://nor1live.win/livehttpplay?channel_id=23113
+#EXTINF:-1,E! WEST HD
+http://nor1live.win/livehttpplay?channel_id=23008
+#EXTINF:-1,ESPN 2 USA
+http://nor1live.win/livehttpplay?channel_id=23123
+#EXTINF:-1,ESPN ACCN USA
+http://nor1live.win/livehttpplay?channel_id=23141
+#EXTINF:-1,ESPN DEPORTES USA
+http://nor1live.win/livehttpplay?channel_id=23135
+#EXTINF:-1,ESPN HD USA
+http://nor1live.win/livehttpplay?channel_id=23120
+#EXTINF:-1,ESPN NETWORK USA
+http://nor1live.win/livehttpplay?channel_id=23140
+#EXTINF:-1,ESPN NEWS USA
+http://nor1live.win/livehttpplay?channel_id=23121
+#EXTINF:-1,ESPN U USA
+http://nor1live.win/livehttpplay?channel_id=23122
+#EXTINF:-1,FANDUEL TV USA
+http://nor1live.win/livehttpplay?channel_id=23136
+#EXTINF:-1,FOOD NETWORK HD WEST
+http://nor1live.win/livehttpplay?channel_id=23098
+#EXTINF:-1,FOX DEPORTES USA
+http://nor1live.win/livehttpplay?channel_id=23134
+#EXTINF:-1,FOX PREMIUM HD
+http://nor1live.win/livehttpplay?channel_id=23054
+#EXTINF:-1,FOX SPORTS 3 HD
+http://nor1live.win/livehttpplay?channel_id=23055
+#EXTINF:-1,FS1 FOXSPORTS 1 US
+http://nor1live.win/livehttpplay?channel_id=23131
+#EXTINF:-1,FS2 FOXSPORTS 2US
+http://nor1live.win/livehttpplay?channel_id=23142
+#EXTINF:-1,fyi HD
+http://nor1live.win/livehttpplay?channel_id=23108
+#EXTINF:-1,GALAVISION EAST HD
+http://nor1live.win/livehttpplay?channel_id=23090
+#EXTINF:-1,GALAVISION WEST HD
+http://nor1live.win/livehttpplay?channel_id=23091
+#EXTINF:-1,GOLDEN EDGE HD
+http://nor1live.win/livehttpplay?channel_id=23047
+#EXTINF:-1,GOLDEN HD
+http://nor1live.win/livehttpplay?channel_id=23046
+#EXTINF:-1,GOLF CHANNEL HD
+http://nor1live.win/livehttpplay?channel_id=23005
+#EXTINF:-1,GOLF USA
+http://nor1live.win/livehttpplay?channel_id=23130
+#EXTINF:-1,GOLTV HD
+http://nor1live.win/livehttpplay?channel_id=23056
+#EXTINF:-1,GREAT AMERICAN FAMILY WEST
+http://nor1live.win/livehttpplay?channel_id=23100
+#EXTINF:-1,Hallmark East HD
+http://nor1live.win/livehttpplay?channel_id=23057
+#EXTINF:-1,Hallmark Movie East HD
+http://nor1live.win/livehttpplay?channel_id=23059
+#EXTINF:-1,Hallmark Movie west HD
+http://nor1live.win/livehttpplay?channel_id=23060
+#EXTINF:-1,Hallmark West HD
+http://nor1live.win/livehttpplay?channel_id=23058
+#EXTINF:-1,HBO FAMILY HD
+http://nor1live.win/livehttpplay?channel_id=23049
+#EXTINF:-1,HGTV HD WEST
+http://nor1live.win/livehttpplay?channel_id=23097
+#EXTINF:-1,HISTORY
+http://nor1live.win/livehttpplay?channel_id=23105
+#EXTINF:-1,LIFETIME EAST HD
+http://nor1live.win/livehttpplay?channel_id=23106
+#EXTINF:-1,LMN HD
+http://nor1live.win/livehttpplay?channel_id=23107
+#EXTINF:-1,LOGO EAST HD
+http://nor1live.win/livehttpplay?channel_id=23014
+#EXTINF:-1,MAGNOLIA HD WES
+http://nor1live.win/livehttpplay?channel_id=23101
+#EXTINF:-1,MAVTV HD WEST
+http://nor1live.win/livehttpplay?channel_id=23096
+#EXTINF:-1,MAVTV USA
+http://nor1live.win/livehttpplay?channel_id=23126
+#EXTINF:-1,MGM+DRIVE HD
+http://nor1live.win/livehttpplay?channel_id=23076
+#EXTINF:-1,MGM+HD
+http://nor1live.win/livehttpplay?channel_id=23072
+#EXTINF:-1,MGM+MARQUE HD
+http://nor1live.win/livehttpplay?channel_id=23075
+#EXTINF:-1,MLB NETWORK HD
+http://nor1live.win/livehttpplay?channel_id=23103
+#EXTINF:-1,MLB USA
+http://nor1live.win/livehttpplay?channel_id=23125
+#EXTINF:-1,MOTORTREND USA
+http://nor1live.win/livehttpplay?channel_id=23150
+#EXTINF:-1,MSG +HD USA
+http://nor1live.win/livehttpplay?channel_id=23147
+#EXTINF:-1,MSG HD USA
+http://nor1live.win/livehttpplay?channel_id=23146
+#EXTINF:-1,MSNBC
+http://nor1live.win/livehttpplay?channel_id=23116
+#EXTINF:-1,MTV EAST HD
+http://nor1live.win/livehttpplay?channel_id=23078
+#EXTINF:-1,MTV HITS HD
+http://nor1live.win/livehttpplay?channel_id=23011
+#EXTINF:-1,MTV LIVE HD
+http://nor1live.win/livehttpplay?channel_id=23081
+#EXTINF:-1,NBA USA
+http://nor1live.win/livehttpplay?channel_id=23128
+#EXTINF:-1,NBC SPORTS CHICAGO USA
+http://nor1live.win/livehttpplay?channel_id=23149
+#EXTINF:-1,Newsnation (WGNA) HD
+http://nor1live.win/livehttpplay?channel_id=23102
+#EXTINF:-1,NFL USA
+http://nor1live.win/livehttpplay?channel_id=23124
+#EXTINF:-1,NHL USA
+http://nor1live.win/livehttpplay?channel_id=23127
+#EXTINF:-1,NICK EAST HD
+http://nor1live.win/livehttpplay?channel_id=23010
+#EXTINF:-1,NICK JR HD
+http://nor1live.win/livehttpplay?channel_id=23044
+#EXTINF:-1,NICK WEST HD
+http://nor1live.win/livehttpplay?channel_id=23079
+#EXTINF:-1,NXT SPORTS USA
+http://nor1live.win/livehttpplay?channel_id=23143
+#EXTINF:-1,Olimpics Extra 1 HD
+http://nor1live.win/livehttpplay?channel_id=23152
+#EXTINF:-1,OUTDOOR CHANNEL
+http://nor1live.win/livehttpplay?channel_id=23138
+#EXTINF:-1,OXYGEN EAST HD
+http://nor1live.win/livehttpplay?channel_id=23068
+#EXTINF:-1,OXYGEN West HD
+http://nor1live.win/livehttpplay?channel_id=23067
+#EXTINF:-1,Pac-12 Network HD
+http://nor1live.win/livehttpplay?channel_id=23095
+#EXTINF:-1,PARAMOUND CANADÁ HD
+http://nor1live.win/livehttpplay?channel_id=23013
+#EXTINF:-1,PARAMOUND CARIBE HD
+http://nor1live.win/livehttpplay?channel_id=23118
+#EXTINF:-1,PARAMOUND EAST HD
+http://nor1live.win/livehttpplay?channel_id=23082
+#EXTINF:-1,PARAMOUND WEST HD
+http://nor1live.win/livehttpplay?channel_id=23012
+#EXTINF:-1,PURSUIT CHANNEL
+http://nor1live.win/livehttpplay?channel_id=23137
+#EXTINF:-1,REVOLT HD
+http://nor1live.win/livehttpplay?channel_id=23084
+#EXTINF:-1,SNY (SPORTNET NY)
+http://nor1live.win/livehttpplay?channel_id=23148
+#EXTINF:-1,Story HD
+http://nor1live.win/livehttpplay?channel_id=23085
+#EXTINF:-1,SyFy East HD
+http://nor1live.win/livehttpplay?channel_id=23071
+#EXTINF:-1,SyFy HD
+http://nor1live.win/livehttpplay?channel_id=23111
+#EXTINF:-1,TELEMUNDO HD
+http://nor1live.win/livehttpplay?channel_id=23042
+#EXTINF:-1,TELEMUNDO MOUNTAIN HD
+http://nor1live.win/livehttpplay?channel_id=23004
+#EXTINF:-1,TENNIS USA
+http://nor1live.win/livehttpplay?channel_id=23129
+#EXTINF:-1,TNT
+http://nor1live.win/livehttpplay?channel_id=23133
+#EXTINF:-1,TRAVEL CHANNEL HD WEST
+http://nor1live.win/livehttpplay?channel_id=23099
+#EXTINF:-1,TUDN MX HD
+http://nor1live.win/livehttpplay?channel_id=23048
+#EXTINF:-1,TV ONE HD
+http://nor1live.win/livehttpplay?channel_id=23114
+#EXTINF:-1,TV ONE HD
+http://nor1live.win/livehttpplay?channel_id=23007
+#EXTINF:-1,ÚNICABLE HD
+http://nor1live.win/livehttpplay?channel_id=23040
+#EXTINF:-1,UNIMAS EAST HD
+http://nor1live.win/livehttpplay?channel_id=23093
+#EXTINF:-1,UNIMAS WEST HD
+http://nor1live.win/livehttpplay?channel_id=23094
+#EXTINF:-1,UNIVERSAL CINEMA HD
+http://nor1live.win/livehttpplay?channel_id=23051
+#EXTINF:-1,UNIVERSAL CRIME HD
+http://nor1live.win/livehttpplay?channel_id=23052
+#EXTINF:-1,UNIVERSAL PREMIER HD
+http://nor1live.win/livehttpplay?channel_id=23050
+#EXTINF:-1,UNIVERSAL REALITYKIT HD
+http://nor1live.win/livehttpplay?channel_id=23053
+#EXTINF:-1,UNIVERSO EAST HD
+http://nor1live.win/livehttpplay?channel_id=23086
+#EXTINF:-1,UNIVERSO WEST HD
+http://nor1live.win/livehttpplay?channel_id=23087
+#EXTINF:-1,UNIVISION EAST HD
+http://nor1live.win/livehttpplay?channel_id=23088
+#EXTINF:-1,UNIVISION TUDN USA HD
+http://nor1live.win/livehttpplay?channel_id=23092
+#EXTINF:-1,UNIVISION WEST HD
+http://nor1live.win/livehttpplay?channel_id=23089
+#EXTINF:-1,USA HD
+http://nor1live.win/livehttpplay?channel_id=23112
+#EXTINF:-1,USA HD
+http://nor1live.win/livehttpplay?channel_id=23069
+#EXTINF:-1,VH1 WEST HD
+http://nor1live.win/livehttpplay?channel_id=23080
+#EXTINF:-1,Vice HD
+http://nor1live.win/livehttpplay?channel_id=23109
+#EXTINF:-1,YES HD USA
+http://nor1live.win/livehttpplay?channel_id=23145
