@@ -164,7 +164,7 @@ http://185.9.2.18/chid_247/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483628.jpg" , المصرية الثانية
 http://mezianeiptv.com:88/HN8ZR4FEYK/M5EHX4AQHK/7564
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
-https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
+http://vipzpqsexox.top:8080/VIP0112175379459091/zug9nxe7u5ik/6896
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
@@ -190,7 +190,7 @@ https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.redtvlebanon.com/assets/images/RED.png", RED TV
 https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/uWibV0i.png", العهد
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/119101
+http://vipzpqsexox.top:8080/VIP0112175379459091/zug9nxe7u5ik/130319
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/71qxh9L/etgah.jpg", قناة الاتجاه  ᴴᴰ
 http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/fCDtN3p/jordan.jpg" ,الاردن  ᴴᴰ
