@@ -1,4 +1,6 @@
 #EXTINF:-1,5StarMax
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8?takodachi
+#EXTINF:-1,5StarMax
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1,A&E
 http://41.205.93.154/AandE/index.m3u8
@@ -26,6 +28,8 @@ http://84.17.50.102/amc/index.m3u8
 http://89.105.221.127/AMC/index.m3u8?token=test
 #EXTINF:-1,American Heroes Channel
 http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
+#EXTINF:-1,Animal Planet
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8?takodachi
 #EXTINF:-1,Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1,Animal Planet
@@ -77,47 +81,61 @@ http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1,Buzzr
 http://23.237.104.106:8080/USA_BUZZR/index.m3u8
 #EXTINF:-1,Cartoon Network
+http://89.105.221.127/CartoonNetwork/index.m3u8?token=test
+#EXTINF:-1,Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8?takodachi
+#EXTINF:-1,Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1,Cartoon Network
 http://84.17.50.102/cartoonnetwork/index.m3u8
 #EXTINF:-1,CARTOON NETWORK HD
 http://nor1live.win/livehttpplay?channel_id=23045
-#EXTINF:-1,CartoonNetwork(L)
-http://89.105.221.127/CartoonNetwork/index.m3u8?token=test
 #EXTINF:-1,CBS
 http://212.102.60.231/CBS/index.m3u8
 #EXTINF:-1,CBS SPORTS USA
 http://nor1live.win/livehttpplay?channel_id=23132
 #EXTINF:-1,Cinemax
-http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
-#EXTINF:-1,cinemax(L)
 http://89.105.221.127/cinemax/index.m3u8?token=test
+#EXTINF:-1,Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8?takodachi
+#EXTINF:-1,Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1,CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1,CMT EAST HD
 http://nor1live.win/livehttpplay?channel_id=23077
+#EXTINF:-1,CNBC
+http://89.105.221.127/CNBC/index.m3u8?token=test
 #EXTINF:-1,CNBC
 http://41.205.93.154/CNBC/index.m3u8
 #EXTINF:-1,CNBC HD
 http://nor1live.win/livehttpplay?channel_id=23115
 #EXTINF:-1,CNBC WORLD HD
 http://nor1live.win/livehttpplay?channel_id=23117
-#EXTINF:-1,CNBC(L)
-http://89.105.221.127/CNBC/index.m3u8?token=test
 #EXTINF:-1,CNN(L)
 http://89.105.221.127/CNN/index.m3u8?token=test
 #EXTINF:-1,COMEDY CARIBE HD
 http://nor1live.win/livehttpplay?channel_id=23119
 #EXTINF:-1,Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8?takodachi
+#EXTINF:-1,Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1,COMEDY WEST HD
 http://nor1live.win/livehttpplay?channel_id=23083
 #EXTINF:-1,Cooking Channel
+http://23.237.104.106:8080/USA_COOKING/index.m3u8?takodachi
+#EXTINF:-1,Cooking Channel
 http://23.237.104.106:8080/USA_COOKING/index.m3u8
 #EXTINF:-1,COZI TV SD
 http://nor1live.win/livehttpplay?channel_id=23000
+#EXTINF:-1,Crime & Investigation
+http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
 #EXTINF:-1,CW
 http://84.17.50.102/cw/index.m3u8
+#EXTINF:-1,Destination America
+http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8?takodachi
+#EXTINF:-1,Discovery
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8?takodachi
 #EXTINF:-1,Discovery
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1,Discovery
@@ -126,22 +144,26 @@ http://41.205.93.154/DISCOVERY/tracks-v1a1/mono.m3u8
 http://84.17.50.102/discovery/index.m3u8
 #EXTINF:-1,Discovery(L)
 http://89.105.221.127/Discovery/index.m3u8?token=test
+#EXTINF:-1,Disney Channel
+http://89.105.221.127/Disney/index.m3u8?token=test
 #EXTINF:-1,Disney Junior
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1,Disney XD
 http://84.17.50.102/disneyxd/index.m3u8
-#EXTINF:-1,Disney(L)
-http://89.105.221.127/Disney/index.m3u8?token=test
 #EXTINF:-1,DISTRITO COMEDIA HD
 http://nor1live.win/livehttpplay?channel_id=23043
+#EXTINF:-1,E!
+http://23.237.104.106:8080/USA_E/index.m3u8?takodachi
 #EXTINF:-1,E!
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1,E! EAST HD
 http://nor1live.win/livehttpplay?channel_id=23113
 #EXTINF:-1,E! WEST HD
 http://nor1live.win/livehttpplay?channel_id=23008
+#EXTINF:-1,ESPN
+http://89.105.221.127/ESPN1/index.m3u8?token=test
 #EXTINF:-1,ESPN
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1,ESPN
@@ -164,14 +186,14 @@ http://nor1live.win/livehttpplay?channel_id=23140
 http://nor1live.win/livehttpplay?channel_id=23121
 #EXTINF:-1,ESPN U USA
 http://nor1live.win/livehttpplay?channel_id=23122
-#EXTINF:-1,ESPN1(L)
-http://89.105.221.127/ESPN1/index.m3u8?token=test
 #EXTINF:-1,ESPNU
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1,EWTN
 http://84.17.50.102/ewtn/index.m3u8
 #EXTINF:-1,FANDUEL TV USA
 http://nor1live.win/livehttpplay?channel_id=23136
+#EXTINF:-1,Food Network
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8?takodachi
 #EXTINF:-1,Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1,FOOD NETWORK HD WEST
@@ -199,11 +221,13 @@ http://nor1live.win/livehttpplay?channel_id=23142
 #EXTINF:-1,Fuse
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1,FX
+http://89.105.221.127/FX/index.m3u8?token=test
+#EXTINF:-1,FX
+http://23.237.104.106:8080/USA_FX/index.m3u8?takodachi
+#EXTINF:-1,FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1,FX
 http://84.17.50.102/fx/index.m3u8
-#EXTINF:-1,FX(L)
-http://89.105.221.127/FX/index.m3u8?token=test
 #EXTINF:-1,FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1,fyi HD
@@ -225,6 +249,8 @@ http://nor1live.win/livehttpplay?channel_id=23056
 #EXTINF:-1,GREAT AMERICAN FAMILY WEST
 http://nor1live.win/livehttpplay?channel_id=23100
 #EXTINF:-1,Hallmark
+http://89.105.221.127/Hallmark/index.m3u8?token=test
+#EXTINF:-1,Hallmark
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 #EXTINF:-1,Hallmark
 http://84.17.50.102/hallmark/index.m3u8
@@ -236,20 +262,24 @@ http://nor1live.win/livehttpplay?channel_id=23059
 http://nor1live.win/livehttpplay?channel_id=23060
 #EXTINF:-1,Hallmark West HD
 http://nor1live.win/livehttpplay?channel_id=23058
-#EXTINF:-1,Hallmark(L)
-http://89.105.221.127/Hallmark/index.m3u8?token=test
+#EXTINF:-1,HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8?takodachi
 #EXTINF:-1,HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1,HBO 2
+http://89.105.221.127/hbo2/index.m3u8?token=test
+#EXTINF:-1,HBO 2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8?takodachi
+#EXTINF:-1,HBO 2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1,HBO Comedy
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8?takodachi
 #EXTINF:-1,HBO FAMILY HD
 http://nor1live.win/livehttpplay?channel_id=23049
 #EXTINF:-1,HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1,HBO(L)
 http://89.105.221.127/HBO/index.m3u8?token=test
-#EXTINF:-1,hbo2(L)
-http://89.105.221.127/hbo2/index.m3u8?token=test
 #EXTINF:-1,HGTV HD WEST
 http://nor1live.win/livehttpplay?channel_id=23097
 #EXTINF:-1,History
@@ -259,7 +289,11 @@ http://nor1live.win/livehttpplay?channel_id=23105
 #EXTINF:-1,HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1,IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8?takodachi
+#EXTINF:-1,IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:-1,INSP
+http://89.105.221.127/INSP/index.m3u8?token=test
 #EXTINF:-1,ION
 http://23.237.104.106:8080/USA_ION/index.m3u8
 #EXTINF:-1,Lifetime
@@ -280,7 +314,7 @@ http://nor1live.win/livehttpplay?channel_id=23101
 http://nor1live.win/livehttpplay?channel_id=23096
 #EXTINF:-1,MAVTV USA
 http://nor1live.win/livehttpplay?channel_id=23126
-#EXTINF:-1,MeTV(L)
+#EXTINF:-1,MeTV
 http://89.105.221.127/MeTV/index.m3u8?token=test
 #EXTINF:-1,MGM+DRIVE HD
 http://nor1live.win/livehttpplay?channel_id=23076
@@ -288,14 +322,20 @@ http://nor1live.win/livehttpplay?channel_id=23076
 http://nor1live.win/livehttpplay?channel_id=23072
 #EXTINF:-1,MGM+MARQUE HD
 http://nor1live.win/livehttpplay?channel_id=23075
+#EXTINF:-1,MLB Network
+http://89.105.221.127/MLBNetwork/mpegts?token=test
 #EXTINF:-1,MLB NETWORK HD
 http://nor1live.win/livehttpplay?channel_id=23103
 #EXTINF:-1,MLB USA
 http://nor1live.win/livehttpplay?channel_id=23125
 #EXTINF:-1,MoreMax
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8?takodachi
+#EXTINF:-1,MoreMax
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1,MOTORTREND USA
 http://nor1live.win/livehttpplay?channel_id=23150
+#EXTINF:-1,MSG
+http://23.237.104.106:8080/USA_MSG/index.m3u8?takodachi
 #EXTINF:-1,MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1,MSG +HD USA
@@ -303,9 +343,11 @@ http://nor1live.win/livehttpplay?channel_id=23147
 #EXTINF:-1,MSG HD USA
 http://nor1live.win/livehttpplay?channel_id=23146
 #EXTINF:-1,MSNBC
-http://nor1live.win/livehttpplay?channel_id=23116
-#EXTINF:-1,MSNBC(L)
 http://89.105.221.127/MSNBC/index.m3u8?token=test
+#EXTINF:-1,MSNBC
+http://nor1live.win/livehttpplay?channel_id=23116
+#EXTINF:-1,MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8?takodachi
 #EXTINF:-1,MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1,MTV
@@ -314,30 +356,36 @@ http://84.17.50.102/mtv/index.m3u8
 http://nor1live.win/livehttpplay?channel_id=23078
 #EXTINF:-1,MTV HITS HD
 http://nor1live.win/livehttpplay?channel_id=23011
+#EXTINF:-1,MTV Live
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8?takodachi
 #EXTINF:-1,MTV LIVE HD
 http://nor1live.win/livehttpplay?channel_id=23081
 #EXTINF:-1,MTV(L)
 http://89.105.221.127/MTV/index.m3u8?token=test
+#EXTINF:-1,Nat Geo
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8?takodachi
+#EXTINF:-1,Nat Geo Wild
+http://89.105.221.127/NatGeoWild/index.m3u8?token=test
 #EXTINF:-1,Nat Geo Wild
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,NatGeoWild(L)
-http://89.105.221.127/NatGeoWild/index.m3u8?token=test
+#EXTINF:-1,National Geographic
+http://89.105.221.127/NationalGeographic/index.m3u8?token=test
 #EXTINF:-1,National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-#EXTINF:-1,NationalGeographic(L)
-http://89.105.221.127/NationalGeographic/index.m3u8?token=test
+#EXTINF:-1,NBA TV
+http://89.105.221.127/NBATV/index.m3u8?token=test
 #EXTINF:-1,NBA TV
 http://212.102.60.231/NBA_TV/index.m3u8
 #EXTINF:-1,NBA TV
 http://84.17.50.102/nbatv/index.m3u8
 #EXTINF:-1,NBA USA
 http://nor1live.win/livehttpplay?channel_id=23128
-#EXTINF:-1,NBATV(L)
-http://89.105.221.127/NBATV/index.m3u8?token=test
 #EXTINF:-1,NBC
 http://41.205.93.154/NBC/index.m3u8
 #EXTINF:-1,NBC SPORTS CHICAGO USA
 http://nor1live.win/livehttpplay?channel_id=23149
+#EXTINF:-1,NESN
+http://23.237.104.106:8080/USA_NESN/index.m3u8?takodachi
 #EXTINF:-1,Newsnation (WGNA) HD
 http://nor1live.win/livehttpplay?channel_id=23102
 #EXTINF:-1,NFL Network
@@ -357,11 +405,11 @@ http://nor1live.win/livehttpplay?channel_id=23044
 #EXTINF:-1,NICK WEST HD
 http://nor1live.win/livehttpplay?channel_id=23079
 #EXTINF:-1,Nickelodeon
+http://89.105.221.127/Nickelodeon/index.m3u8?token=test
+#EXTINF:-1,Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1,Nickelodeon
 http://84.17.50.102/nickelodeon/index.m3u8
-#EXTINF:-1,Nickelodeon(L)
-http://89.105.221.127/Nickelodeon/index.m3u8?token=test
 #EXTINF:-1,Nicktoons
 http://212.102.60.231/NICKTOONS/index.m3u8
 #EXTINF:-1,Nicktoons
@@ -372,18 +420,20 @@ http://89.105.221.127/NTV/index.m3u8?token=test
 http://nor1live.win/livehttpplay?channel_id=23143
 #EXTINF:-1,Olimpics Extra 1 HD
 http://nor1live.win/livehttpplay?channel_id=23152
+#EXTINF:-1,Outdoor Channel
+http://89.105.221.127/OutdoorChannel/index.m3u8?token=test
+#EXTINF:-1,Outdoor Channel
+http://23.237.104.106:8080/USA_OUTDOOR/mpegts
 #EXTINF:-1,OUTDOOR CHANNEL
 http://nor1live.win/livehttpplay?channel_id=23138
-#EXTINF:-1,OutdoorChannel(L)
-http://89.105.221.127/OutdoorChannel/index.m3u8?token=test
 #EXTINF:-1,OWN
 http://84.17.50.102/own/index.m3u8
+#EXTINF:-1,Oxygen
+http://89.105.221.127/Oxygen/index.m3u8?token=test
 #EXTINF:-1,OXYGEN EAST HD
 http://nor1live.win/livehttpplay?channel_id=23068
 #EXTINF:-1,OXYGEN West HD
 http://nor1live.win/livehttpplay?channel_id=23067
-#EXTINF:-1,Oxygen(L)
-http://89.105.221.127/Oxygen/index.m3u8?token=test
 #EXTINF:-1,Pac-12 Network HD
 http://nor1live.win/livehttpplay?channel_id=23095
 #EXTINF:-1,PARAMOUND CANADÁ HD
@@ -394,6 +444,8 @@ http://nor1live.win/livehttpplay?channel_id=23118
 http://nor1live.win/livehttpplay?channel_id=23082
 #EXTINF:-1,PARAMOUND WEST HD
 http://nor1live.win/livehttpplay?channel_id=23012
+#EXTINF:-1,Paramount Network
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8?takodachi
 #EXTINF:-1,Paramount Network
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1,PURSUIT CHANNEL
@@ -407,11 +459,13 @@ http://nor1live.win/livehttpplay?channel_id=23084
 #EXTINF:-1,SEC Network
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:-1,Showtime
+http://89.105.221.127/Showtime/index.m3u8?token=test
+#EXTINF:-1,Showtime
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8?takodachi
+#EXTINF:-1,Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 #EXTINF:-1,Showtime Family
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Showtime(L)
-http://89.105.221.127/Showtime/index.m3u8?token=test
 #EXTINF:-1,SNY
 http://212.102.60.231/SNY/index.m3u8
 #EXTINF:-1,SNY (SPORTNET NY)
@@ -419,13 +473,21 @@ http://nor1live.win/livehttpplay?channel_id=23148
 #EXTINF:-1,Sportsman Channel
 http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1,Starz
+http://23.237.104.106:8080/USA_STARZ/index.m3u8?takodachi
+#EXTINF:-1,Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:-1,Starz Cinema
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8?takodachi
+#EXTINF:-1,Starz Cinema
 http://23.237.104.106:8080/USA_STARZ_CINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Starz Comedy
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8?takodachi
 #EXTINF:-1,Starz Encore Classic
 http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8
 #EXTINF:-1,Story HD
 http://nor1live.win/livehttpplay?channel_id=23085
+#EXTINF:-1,SYFY
+http://23.237.104.106:8080/USA_SYFY/index.m3u8?takodachi
 #EXTINF:-1,SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1,SyFy East HD
@@ -435,15 +497,17 @@ http://nor1live.win/livehttpplay?channel_id=23111
 #EXTINF:-1,SYFY(L)
 http://89.105.221.127/SYFY/index.m3u8?token=test
 #EXTINF:-1,TBS
-http://41.205.93.154/TBS/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TBS(L)
 http://89.105.221.127/TBS/index.m3u8?token=test
+#EXTINF:-1,TBS
+http://41.205.93.154/TBS/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TELEMUNDO HD
 http://nor1live.win/livehttpplay?channel_id=23042
 #EXTINF:-1,TELEMUNDO MOUNTAIN HD
 http://nor1live.win/livehttpplay?channel_id=23004
 #EXTINF:-1,TENNIS USA
 http://nor1live.win/livehttpplay?channel_id=23129
+#EXTINF:-1,TLC
+http://89.105.221.127/tlc/mpegts?token=test
 #EXTINF:-1,TLC
 http://84.17.50.102/tlc/index.m3u8
 #EXTINF:-1,tlc(L)
@@ -460,6 +524,8 @@ http://89.105.221.127/TNTHD/index.m3u8?token=test
 http://nor1live.win/livehttpplay?channel_id=23099
 #EXTINF:-1,TravelChannel(L)
 http://89.105.221.127/TravelChannel/index.m3u8?token=test
+#EXTINF:-1,truTV
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8?takodachi
 #EXTINF:-1,TUDN MX HD
 http://nor1live.win/livehttpplay?channel_id=23048
 #EXTINF:-1,TV ONE HD
@@ -495,6 +561,8 @@ http://nor1live.win/livehttpplay?channel_id=23112
 #EXTINF:-1,USA HD
 http://nor1live.win/livehttpplay?channel_id=23069
 #EXTINF:-1,VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8?takodachi
+#EXTINF:-1,VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1,VH1
 http://84.17.50.102/vh1/index.m3u8
@@ -504,8 +572,14 @@ http://nor1live.win/livehttpplay?channel_id=23080
 http://nor1live.win/livehttpplay?channel_id=23109
 #EXTINF:-1,Vice TV
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
+#EXTINF:-1,VICE TV
+http://23.237.104.106:8080/USA_VICETV/index.m3u8?takodachi
+#EXTINF:-1,WE TV
+http://23.237.104.106:8080/USA_WE_TV/mpegts
 #EXTINF:-1,WE TV
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+#EXTINF:-1,WGN
+http://23.237.104.106:8080/USA_WGN/index.m3u8?takodachi
 #EXTINF:-1,YES HD USA
 http://nor1live.win/livehttpplay?channel_id=23145
 #EXTINF:-1,YES Network
