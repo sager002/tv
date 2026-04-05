@@ -276,18 +276,10 @@ http://pp.prison2break.xyz:8080/carloseloyguerreiro02/LGtev3TsrR/98008
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/0pZHs1jz/h2.png", Hestory 2
 http://pp.prison2break.xyz:8080/carloseloyguerreiro02/LGtev3TsrR/98007
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/S4K1TDfH/foxnews.jpg",Fox News  
-http://tv14s.xyz:8080/71983280/57849683/1818
+http://41.205.93.154/FOX-NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN  
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN BK
 http://89.105.221.127/CNN/index.m3u8?token=test
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", MSNBC  
-https://a1xs.vip/300008
-
-
-
-
-
-
-
-
+http://nor1live.win/livehttpplay?channel_id=23116
