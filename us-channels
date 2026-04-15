@@ -12,6 +12,18 @@ http://212.102.60.231/ABC/index.m3u8
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1,ABC
 http://89.105.221.127/ABC/index.m3u8?token=test
+#EXTINF:-1,ABC Chicago
+http://89.187.178.197:1970/ABCChicago/index.m3u8
+#EXTINF:-1,ABC Dallas
+http://89.187.178.197:1970/ABCDallas/index.m3u8
+#EXTINF:-1,ABC Las Vegas
+http://89.187.178.197:1970/ABCLasVegas/index.m3u8
+#EXTINF:-1,ABC Los Angeles
+http://89.187.178.197:1970/ABCLosAngeles/index.m3u8
+#EXTINF:-1,ABC New York
+http://89.187.178.197:1970/ABCNewYork/index.m3u8
+#EXTINF:-1,ABC Pittsburgh
+http://89.187.178.197:1970/ABCPittsburgh/index.m3u8
 #EXTINF:-1,abc-kabc-los-angeles-ca
 http://origin.thetvapp.to/hls/abc-kabc-los-angeles-ca/mono.m3u8
 #EXTINF:-1,accnetwork
@@ -28,8 +40,6 @@ http://nor1live.win/livehttpplay?channel_id=23018
 http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1,amc
 http://84.17.50.102/amc/index.m3u8
-#EXTINF:-1,AMC
-http://41.205.93.154/AMC/index.m3u8
 #EXTINF:-1,AMC
 http://89.105.221.127/AMC/index.m3u8?token=test
 #EXTINF:-1,AMCEast
@@ -76,8 +86,6 @@ http://nor1live.win/livehttpplay?channel_id=23064
 http://nor1live.win/livehttpplay?channel_id=23065
 #EXTINF:-1,BET-EN
 http://41.205.93.154/BET-EN/index.m3u8
-#EXTINF:-1,BETHER
-http://41.205.93.154/BETHER/index.m3u8
 #EXTINF:-1,BIG NETWORK USA (N)
 http://nor1live.win/livehttpplay?channel_id=23139
 #EXTINF:-1,BLOOMBERG
@@ -100,6 +108,20 @@ http://nor1live.win/livehttpplay?channel_id=23045
 http://84.17.50.102/cartoonnetwork/index.m3u8
 #EXTINF:-1,CBS
 http://212.102.60.231/CBS/index.m3u8
+#EXTINF:-1,CBS Chicago
+http://89.187.178.197:1970/CBSChicago/index.m3u8
+#EXTINF:-1,CBS Dallas
+http://89.187.178.197:1970/CBSDallas/index.m3u8
+#EXTINF:-1,CBS Las Vegas
+http://89.187.178.197:1970/CBSLasVegas/index.m3u8
+#EXTINF:-1,CBS Los Angeles
+http://89.187.178.197:1970/CBSLosAngeles/index.m3u8
+#EXTINF:-1,CBS New York
+http://89.187.178.197:1970/CBSNewYork/index.m3u8
+#EXTINF:-1,CBS Philadelphia
+http://89.187.178.197:1970/CBSPhiladelphia/index.m3u8
+#EXTINF:-1,CBS Pittsburgh
+http://89.187.178.197:1970/CBSPittsburgh/index.m3u8
 #EXTINF:-1,CBS SPORTS USA (N)
 http://nor1live.win/livehttpplay?channel_id=23132
 #EXTINF:-1,cinemax
@@ -202,10 +224,24 @@ http://84.17.50.102/fox/index.m3u8
 http://41.205.93.154/FOX49/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Fox Business (154)
 http://41.205.93.154/FOXBUSINESS/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FOX Chicago
+http://89.187.178.197:1970/FOXChicago/index.m3u8
+#EXTINF:-1,FOX Dallas
+http://89.187.178.197:1970/FOXDallas/index.m3u8
 #EXTINF:-1,FOX DEPORTES USA (N)
 http://nor1live.win/livehttpplay?channel_id=23134
+#EXTINF:-1,FOX Las Vegas
+http://89.187.178.197:1970/FOXLasVegas/index.m3u8
+#EXTINF:-1,FOX Los Angeles
+http://89.187.178.197:1970/FOXLosAngeles/index.m3u8
+#EXTINF:-1,FOX New York
+http://89.187.178.197:1970/FOXNewYork/index.m3u8
 #EXTINF:-1,Fox News (154)
 http://41.205.93.154/FOX-NEWS/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FOX Philadelphia
+http://89.187.178.197:1970/FOXPhiladelphia/index.m3u8
+#EXTINF:-1,FOX Pittsburgh
+http://89.187.178.197:1970/FOXPittsburgh/index.m3u8
 #EXTINF:-1,FOX PREMIUM HD (N)
 http://nor1live.win/livehttpplay?channel_id=23054
 #EXTINF:-1,FOX SPORTS 3 HD (N)
@@ -392,6 +428,20 @@ http://89.105.221.127/NBATV/index.m3u8?token=test
 http://origin.thetvapp.to/hls/NBATV/mono.m3u8
 #EXTINF:-1,NBC
 http://41.205.93.154/NBC/index.m3u8
+#EXTINF:-1,NBC Chicago
+http://89.187.178.197:1970/NBCChicago/index.m3u8
+#EXTINF:-1,NBC Dallas
+http://89.187.178.197:1970/NBCDallas/index.m3u8
+#EXTINF:-1,NBC Las Vegas
+http://89.187.178.197:1970/NBCLasVegas/index.m3u8
+#EXTINF:-1,NBC Los Angeles
+http://89.187.178.197:1970/NBCLosAngeles/index.m3u8
+#EXTINF:-1,NBC New York
+http://89.187.178.197:1970/NBCNewYork/index.m3u8
+#EXTINF:-1,NBC Philadelphia
+http://89.187.178.197:1970/NBCPhiladelphia/index.m3u8
+#EXTINF:-1,NBC Pittsburgh
+http://89.187.178.197:1970/NBCPittsburgh/index.m3u8
 #EXTINF:-1,NBC SPORTS CHICAGO USA (N)
 http://nor1live.win/livehttpplay?channel_id=23149
 #EXTINF:-1,nbc-knbc-los-angeles-ca
