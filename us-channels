@@ -138,8 +138,8 @@ http://nor1live.win/livehttpplay?channel_id=23115
 http://nor1live.win/livehttpplay?channel_id=23117
 #EXTINF:-1,CNN ( 89.105.221.127 )
 http://89.105.221.127/CNN/index.m3u8?token=test
-#EXTINF:-1,CNN ( 89.105.221.127 )
-http://89.105.221.127/CNN/mpegts?token=test
+#EXTINF:-1,CNN ( 161.129.178.5 )
+http://161.129.178.5/cnn/playlist.m3u8
 #EXTINF:-1,COMEDY CARIBE HD  ( nor1live.win )
 http://nor1live.win/livehttpplay?channel_id=23119
 #EXTINF:-1,COMEDY WEST HD  ( nor1live.win )
