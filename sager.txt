@@ -40,7 +40,7 @@ http://vipzpqsexox.top:8080/VIP0112175379459091/zug9nxe7u5ik/6606
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2F8TwT3/bahrain.png" , البحرين  ᴴᴰ
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/N5RB4sp.png" , قطر 1  ᴴᴰ
-https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/iWJxDUm.png" , قطر 2  ᴴᴰ
 https://qatartv.akamaized.net/hls/live/2026574-b/qtv2/4.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/XVFKwdm/rayan.png" , الريان  ᴴᴰ
