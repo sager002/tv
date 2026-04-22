@@ -130,9 +130,9 @@ https://restream-live.realiptv.to/ALEX/sg5ng25ikf/659471
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/TzOKMMy.png" , ماجد  ᴴᴰ
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7woV4Cz.png" , براعم  
-https://restream-live.realiptv.to/ALEX/sg5ng25ikf/659468
+http://tv.startseven.tn:2052/405562493960/1910143340/47483
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C10XDwn/jeemtv.jpg" , جيم  
-https://restream-live.realiptv.to/ALEX/sg5ng25ikf/659480
+http://tv.startseven.tn:2052/405562493960/1910143340/47361
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zhGgTLX/boomerang.png" , Boomerange 
 http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lvxwthWGjU2DV-8YCcCvP43H7sLs_BWKpeqGph8YcCuyg
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zhGgTLX/boomerang.png" , Boomerange-BK
@@ -232,7 +232,7 @@ http://proxpanel.cc:80/h1wqD6CY/byxHYgX/786539
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا افلام
 http://proxpanel.cc:80/h1wqD6CY/byxHYgX/786538
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
-https://restream-live.realiptv.to/nopbot/jbadWjxWV1/659474
+http://tv.startseven.tn:2052/405562493960/1910143340/298925
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
 http://176.65.146.147:9981/stream/channelid/2096576635
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/qnCg98M/mekamlin.png" , مكملين 
@@ -264,7 +264,7 @@ https://restream-live.realiptv.to/nopbot/jbadWjxWV1/659467
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/r7BK36X/Animal.jpg", animal planet us
 http://tv14s.xyz:8080/71983280/57849683/17870
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/z7dc1VC/bbcearth.jpg", bbc earth
-https://restream-live.realiptv.to/live/nopbot/jbadWjxWV1/659454.m3u8
+http://tv.startseven.tn:2052/405562493960/1910143340/298927
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/1KZG3b4/fe43c644-081a-4816-a4e1-411740081c52.png",الشرق Discovery  ᴴᴰ
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/1KZG3b4/fe43c644-081a-4816-a4e1-411740081c52.png",الشرق Documentary  ᴴᴰ
