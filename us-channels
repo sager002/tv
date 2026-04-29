@@ -910,3 +910,91 @@ http://origin.thetvapp.to/hls/WNET/mono.m3u8
 http://origin.thetvapp.to/hls/WPIX/mono.m3u8
 #EXTINF:-1,yes-network ( origin.thetvapp.to )
 http://origin.thetvapp.to/hls/yes-network/mono.m3u8
+#EXTINF:-1 ,Cinemax
+http://23.88.66.93/Cinemax/index.m3u8
+#EXTINF:-1 ,Discovery
+http://23.88.66.93/Discovery/index.m3u8
+#EXTINF:-1 ,Fox
+http://23.88.66.93/Fox/index.m3u8
+#EXTINF:-1 ,HBO
+http://23.88.66.93/HBO/index.m3u8
+#EXTINF:-1 ,HBO_2
+http://23.88.66.93/HBO_2/index.m3u8
+#EXTINF:-1 ,History_HD
+http://23.88.66.93/History_HD/index.m3u8
+#EXTINF:-1 ,National_Geographic
+http://23.88.66.93/National_Geographic/index.m3u8
+#EXTINF:-1 ,Outdoor_Channel_HD
+http://31.148.48.15:80/Outdoor_Channel_HD/playlist.m3u8
+#EXTINF:-1 ,BLOOMBERG
+http://41.205.64.66/BLOOMBERG/index.m3u8
+#EXTINF:-1 ,CNN
+http://41.205.64.66/CNN/index.m3u8
+#EXTINF:-1 ,HALLMARK
+http://41.205.64.66/HALLMARK/index.m3u8
+#EXTINF:-1 ,HBO-COMEDY
+http://41.205.64.66/HBO-COMEDY/index.m3u8
+#EXTINF:-1 ,MSNBC
+http://41.205.64.66/MSNBC/index.m3u8
+#EXTINF:-1 ,NBC
+http://41.205.64.66/NBC/index.m3u8
+#EXTINF:-1 ,RT-ENGLISH
+http://41.205.64.66/RT-ENGLISH/index.m3u8
+#EXTINF:-1 ,TLC
+http://41.205.64.66/TLC/index.m3u8
+#EXTINF:-1 ,ZEE-TV
+http://41.205.64.66/ZEE-TV/index.m3u8
+#EXTINF:-1 ,AMC
+http://41.205.70.146/AMC/index.m3u8
+#EXTINF:-1 ,DISCOVERY-CHANNEL
+http://41.205.70.146/DISCOVERY-CHANNEL/index.m3u8
+#EXTINF:-1 ,DISNEY-JUNIOR
+http://41.205.70.146/DISNEY-JUNIOR/index.m3u8
+#EXTINF:-1 ,TLC
+http://41.205.93.154/TLC/index.m3u8
+#EXTINF:-1 ,ZEE-TV
+http://41.205.93.154/ZEE-TV/index.m3u8
+#EXTINF:-1 ,AMC
+http://41.223.30.230/AMC/index.m3u8
+#EXTINF:-1 ,BABYTV
+http://41.223.30.230/BABYTV/index.m3u8
+#EXTINF:-1 ,BLOOMBERG
+http://41.223.30.230/BLOOMBERG/index.m3u8
+#EXTINF:-1 ,CNBC
+http://41.223.30.230/CNBC/index.m3u8
+#EXTINF:-1 ,CNN
+http://41.223.30.230/CNN/index.m3u8
+#EXTINF:-1 ,ESPN
+http://41.223.30.230/ESPN/index.m3u8
+#EXTINF:-1 ,ESPN2
+http://41.223.30.230/ESPN2/index.m3u8
+#EXTINF:-1 ,FOODNETWORK
+http://41.223.30.230/FOODNETWORK/index.m3u8
+#EXTINF:-1 ,FOXSPORTS1
+http://41.223.30.230/FOXSPORTS1/index.m3u8
+#EXTINF:-1 ,HALLMARK
+http://41.223.30.230/HALLMARK/index.m3u8
+#EXTINF:-1 ,HBOCOMEDY
+http://41.223.30.230/HBOCOMEDY/index.m3u8
+#EXTINF:-1 ,LIFETIME
+http://41.223.30.230/LIFETIME/index.m3u8
+#EXTINF:-1 ,MSNBC
+http://41.223.30.230/MSNBC/index.m3u8
+#EXTINF:-1 ,NBC
+http://41.223.30.230/NBC/index.m3u8
+#EXTINF:-1 ,NICKTOONS
+http://41.223.30.230/NICKTOONS/index.m3u8
+#EXTINF:-1 ,RAIITALIA
+http://41.223.30.230/RAIITALIA/index.m3u8
+#EXTINF:-1 ,SYFY
+http://41.223.30.230/SYFY/index.m3u8
+#EXTINF:-1 ,TBS
+http://41.223.30.230/TBS/index.m3u8
+#EXTINF:-1 ,TELEMUNDO
+http://41.223.30.230/TELEMUNDO/index.m3u8
+#EXTINF:-1 ,TLC
+http://41.223.30.230/TLC/index.m3u8
+#EXTINF:-1 ,TMC
+http://41.223.30.230/TMC/index.m3u8
+#EXTINF:-1 ,ZEETV
+http://41.223.30.230/ZEETV/index.m3u8
