@@ -88,7 +88,7 @@ http://149.100.19.144:33004/play/a03u
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/ePBvFC8.png" , ام بي سي - 1  ᴴᴰ
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ygs1mVf/MBC2-Logo.png" , ام بي سي - 2  
-http://w.shahidtv.net:8080/67324286/62788299/23
+http://w.shahidtv.net:8080/67324286/62788299/23.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/UgDTRNv.png" , ام بي سي - 3  ᴴᴰ
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/snkewG1.png" , ام بي سي - 4  ᴴᴰ
