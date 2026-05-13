@@ -236,9 +236,11 @@ https://eazyvwqssi.erbvr.com/alghadtv/alghadtv_1080p.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/YTyCBvB.png" , التغيير
 https://jmc-live.ercdn.net/altaghier/altaghier.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1
-http://w.shahidtv.net:8080/67324286/62788299/404
+http://77.137.40.221:8000/play/lw1e
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/vUJZSvs.png", beIN Sports 2   
-http://w.shahidtv.net:8080/67324286/62788299/413
+http://77.137.40.221:8000/play/sv1g
+#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/vUJZSvs.png", beIN Sports 3 
+http://77.137.40.221:8000/play/sv1h
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1   
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 2  
