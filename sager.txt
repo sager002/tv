@@ -130,7 +130,7 @@ http://77.137.40.221:8000/play/a03e
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7woV4Cz.png" , براعم  
 http://skytv4k.org:8080/sasodaniel2/GTG53de3f3erFR/3443
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C10XDwn/jeemtv.jpg" , جيم  
-http://krooztv.cloud:8080/h1wqD6CY/byxHYgX/786421
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=78799&extension=m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zhGgTLX/boomerang.png" , Boomerange 
 http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lvxwthWGjU2DV-8YCcCvP43H7sLs_BWKpeqGph8YcCuyg
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY  
@@ -162,7 +162,7 @@ http://185.9.2.18/chid_247/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483628.jpg" , المصرية الثانية
 http://mezianeiptv.com:88/HN8ZR4FEYK/M5EHX4AQHK/7564
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
-http://doubleclicktv.live:80/live/Landon/Landon/272216.m3u8
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1468&extension=m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
