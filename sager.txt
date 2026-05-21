@@ -130,13 +130,13 @@ http://77.137.40.221:8000/play/l02r
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/TzOKMMy.png" , ماجد  ᴴᴰ
 http://77.137.40.221:8000/play/a03e
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7woV4Cz.png" , براعم  
-http://ciul.glupiec.123tv.to:8080/sasodaniel2/GTG53de3f3erFR/3443
+http://lunar.pm:8080/live/2059050842/gMFsE1cuDr/132295.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C10XDwn/jeemtv.jpg" , جيم  
 http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=78799&extension=m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zhGgTLX/boomerang.png" , Boomerange 
 http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lvxwthWGjU2DV-8YCcCvP43H7sLs_BWKpeqGph8YcCuyg
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY  
-http://ciul.glupiec.123tv.to:8080/sasodaniel2/GTG53de3f3erFR/7766
+http://lunar.pm:8080/live/2059050842/gMFsE1cuDr/9343.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/5W5y8f0/disney-jr.png" , DISNEY  jr
 http://84.17.50.102/disneyjunior/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/XrKcpN02/download.png" , DISNEY XD
