@@ -140,7 +140,7 @@ http://lunar.pm:8080/live/2059050842/gMFsE1cuDr/9343.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/5W5y8f0/disney-jr.png" , DISNEY  jr
 https://tvsen7.aynaott.com/disney/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/XrKcpN02/download.png" , DISNEY XD
-http://84.17.50.102/disneyxd/index.m3u8
+http://realcdn.top:8080/free/iptv/HEGN4VXXQQSYCA/1082/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" , nickelodeon
 http://tvgold-2026.info:8089/live/3718126516561/7837531639120/85675938.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick jr
@@ -248,7 +248,7 @@ https://eazyvwqssi.erbvr.com/alghadtv/alghadtv_1080p.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/YTyCBvB.png" , التغيير
 https://jmc-live.ercdn.net/altaghier/altaghier.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1
-http://w.shahidtv.net:8080/67324286/62788299/404
+http://realcdn.top:8080/free/iptv/HEGN4VXXQQSYCA/6123/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/vUJZSvs.png", beIN Sports 2   
 http://w.shahidtv.net:8080/67324286/62788299/413
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1   
