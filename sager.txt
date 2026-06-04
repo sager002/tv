@@ -73,6 +73,8 @@ https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklis
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/9JSQglj.png" , SBC  ᴴᴰ
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/WHx1Fnr/dhikrayat.png" , ذكريات  ᴴᴰ
+https://aloula-redirect.vercel.app/3/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/dK7jJ3W/ekhbaryah.png" , الاخبارية  ᴴᴰ
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/jLD8mtg/sunnah.png" ,  السنة النبوية ᴴᴰ 
