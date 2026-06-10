@@ -109,10 +109,6 @@ http://185.9.2.18/chid_378/index.m3u8
 http://185.9.2.18/chid_379/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات  
 https://restream-live.realiptv.to/Z3nXfkOnf0/Madt8rUvmN/659420
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات (bk)
-http://doubleclicktv.live:8080/Landon/Landon/272043
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي + - افلام
-http://ciul.glupiec.123tv.to:8080/sasodaniel2/GTG53de3f3erFR/4960
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/bvhL81z/masrah-msr.png" , شاهد مسرح مصر
 https://shd-amg-fast.edgenextcdn.net/tx009/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://up6.cc/2023/05/168405543304632.png" , شاهد افلام 
@@ -122,7 +118,7 @@ https://shd-amg-fast-btpls.shahid.net/tx011/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://up6.cc/2023/05/168405543305773.png" , شاهد موفي 2
 https://shd-amg-fast-btpls.shahid.net/tx012/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" , سبيستون  ᴴᴰ
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+http://149.100.11.235:8080/SPACETOONARABIC/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" , كرتون نتورك  
 http://77.137.40.221:8000/play/l02r
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/TzOKMMy.png" , ماجد  ᴴᴰ
@@ -235,10 +231,6 @@ https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 https://eazyvwqssi.erbvr.com/alghadtv/alghadtv_1080p.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/YTyCBvB.png" , التغيير
 https://jmc-live.ercdn.net/altaghier/altaghier.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1
-http://77.137.40.221:8000/play/tjf4
-#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Vtk2cGI.png",beIN Sports 2
-http://77.137.40.221:8000/play/tjf5
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1   
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 2  
