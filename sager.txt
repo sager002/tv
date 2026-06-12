@@ -231,16 +231,28 @@ https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 https://eazyvwqssi.erbvr.com/alghadtv/alghadtv_1080p.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/YTyCBvB.png" , التغيير
 https://jmc-live.ercdn.net/altaghier/altaghier.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/D0jTxzQ/bmx1.jpg", BEIN SPORTS MAX 1 HD
+http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/187355.ts
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/93NptwpC/bmx2.jpg", BEIN SPORTS MAX 2 HD
+http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/187357.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/W4Mf4cT1/bn1.jpg", BEIN SPORTS 1 HD
 http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/149558.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/yBMBnqQ1/bn2.jpg", BEIN SPORTS 2 HD
 http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/149544.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/Swv4GB9c/bn3.jpg", BEIN SPORTS 3 HD
 http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/149533.ts
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/D0jTxzQ/bmx1.jpg", BEIN SPORTS MAX 1 HD
-http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/187355.ts
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/93NptwpC/bmx2.jpg", BEIN SPORTS MAX 2 HD
-http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/187357.ts
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/gLpsLPTn/bmx1-g.jpg",beIN SPORTS MAX 1 4K
+http://proxpanel.cc:80/h1wqD6CY/byxHYgX/835130
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/Lz00t7xk/bmx2-g.jpg",beIN SPORTS MAX 2 4K
+http://proxpanel.cc:80/h1wqD6CY/byxHYgX/835129
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/fLrVJNJ/bn1-g.jpg",beIN SPORTS 1 UHD
+http://proxpanel.cc:80/h1wqD6CY/byxHYgX/707929
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LhQkdV7d/bn2-g.jpg",beIN SPORTS 2 UHD
+http://proxpanel.cc:80/h1wqD6CY/byxHYgX/707928
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/s9cyrXCL/bn3-g.jpg",beIN SPORTS 3 UHD
+http://proxpanel.cc:80/h1wqD6CY/byxHYgX/707927
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/t9SCxnL/bn4-g.jpg",beIN SPORTS 4 UHD
+http://proxpanel.cc:80/h1wqD6CY/byxHYgX/707926
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1   
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 2  
