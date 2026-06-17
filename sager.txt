@@ -126,17 +126,17 @@ http://proxpanel.cc:80/h1wqD6CY/byxHYgX/272658
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7woV4Cz.png" , براعم  
 http://lunar.pm:8080/live/2059050842/gMFsE1cuDr/132295.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C10XDwn/jeemtv.jpg" , جيم  
-https://restream-live.realiptv.to/Z3nXfkOnf0/Madt8rUvmN/659480
+http://lemon.catchmeifyo.com:8000/pBSgdHZLQS/Mh4RYSF4nJ/101712
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zhGgTLX/boomerang.png" , Boomerange 
 https://restream-live.realiptv.to/Z3nXfkOnf0/Madt8rUvmN/659644
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY  
-http://lunar.pm:8080/live/2059050842/gMFsE1cuDr/9343.ts
+http://royaltv.world:25461/live/F5002/7294/275.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/5W5y8f0/disney-jr.png" , DISNEY  jr
 https://tvsen7.aynaott.com/disney/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/XrKcpN02/download.png" , DISNEY XD
 http://realcdn.top:8080/free/iptv/HEGN4VXXQQSYCA/1082/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" , nickelodeon
-http://proxpanel.cc:80/h1wqD6CY/byxHYgX/272606
+http://cdm2026mex.info:8089/live/5178572674698/7593425712153/3819.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick jr
 https://restream-live.realiptv.to/Z3nXfkOnf0/Madt8rUvmN/659524
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , movie family
@@ -218,7 +218,7 @@ http://krooztv.cloud:8080/h1wqD6CY/byxHYgX/786540
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا بالعربي
 http://proxpanel.cc:80/h1wqD6CY/byxHYgX/786539
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا افلام
-http://proxpanel.cc:80/h1wqD6CY/byxHYgX/786538
+http://cdm2026mex.info:8089/live/5178572674698/7593425712153/3803.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
 http://tv.startseven.tn:2052/405562493960/1910143340/298925
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
