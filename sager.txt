@@ -4,9 +4,9 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/dMJhDzV/hadath.png" , العربية الحدث  ᴴᴰ
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
 #EXTINF:0 type="stream" tvg-id="AlJazeera.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" , الجزيرة
-http://lunar.pm:8080/BILLYBIKE1/Rg8h1dStbM/132096
+https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7bRVpnu.png" , الجزيرة الثقافية
-http://proxpanel.cc:80/h1wqD6CY/byxHYgX/272692
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.arabnews.com/sites/default/files/styles/n_670_395/public/ru-rt-arabic.png" , روسيا اليوم  ᴴᴰ
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2kd9ZTd/bbc.png" , بي بي سي  ᴴᴰ
