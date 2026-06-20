@@ -205,8 +205,6 @@ https://live.cdnbridge.tv/Almasirah/Almasirah_1080p/chunks.m3u8
 http://proxpanel.app:8080/h1wqD6CY/byxHYgX/786476
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/icE2WOw.png",  |ART| افلام 2  
 http://proxpanel.cc:8080/h1wqD6CY/byxHYgX/786475
-#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/icE2WOw.png",  |ART| movie 
-http://krooztv.cloud:8080/h1wqD6CY/byxHYgX/786469
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/kzNnSoV.png", |ART| حكايات 1 
 http://proxpanel.cc:8080/h1wqD6CY/byxHYgX/786473
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/EfzfrOL.png", |ART| حكايات 2 
@@ -219,6 +217,8 @@ http://krooztv.cloud:8080/h1wqD6CY/byxHYgX/786540
 http://proxpanel.cc:80/h1wqD6CY/byxHYgX/786539
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا افلام
 http://cdm2026mex.info:8089/live/5178572674698/7593425712153/3803.ts
+#EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| family
+http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/171164.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
 http://tv.startseven.tn:2052/405562493960/1910143340/298925
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
