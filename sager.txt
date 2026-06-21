@@ -243,12 +243,12 @@ http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/149558.ts
 http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/149544.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/Swv4GB9c/bn3.jpg", BEIN SPORTS 3 HD
 http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/149533.ts
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/gLpsLPTn/bmx1-g.jpg",beIN SPORTS MAX 1 4K
-http://proxpanel.cc:80/h1wqD6CY/byxHYgX/835130
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/Lz00t7xk/bmx2-g.jpg",beIN SPORTS MAX 2 4K
-http://proxpanel.cc:80/h1wqD6CY/byxHYgX/835129
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/fLrVJNJ/bn1-g.jpg",beIN SPORTS 1 UHD
-http://proxpanel.cc:80/h1wqD6CY/byxHYgX/707929
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/gLpsLPTn/bmx1-g.jpg",beIN SPORTS MAX 1 -1
+http://tv.startseven.tn:2052/405562493960/1910143340/246
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/Lz00t7xk/bmx2-g.jpg",beIN SPORTS MAX 1 -2
+http://tv.startseven.tn:2052/405562493960/1910143340/237
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/fLrVJNJ/bn1-g.jpg",beIN SPORTS MAX 1 -3
+http://tv.startseven.tn:2052/405562493960/1910143340/238
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LhQkdV7d/bn2-g.jpg",beIN SPORTS 2 UHD
 http://proxpanel.cc:80/h1wqD6CY/byxHYgX/707928
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/s9cyrXCL/bn3-g.jpg",beIN SPORTS 3 UHD
