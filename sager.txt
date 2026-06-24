@@ -108,7 +108,7 @@ http://185.9.2.18/chid_378/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/xqq4GwW/mbc-max.png" , ام بي سي - ماكس  
 http://185.9.2.18/chid_379/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات  
-https://restream-live.realiptv.to/Z3nXfkOnf0/Madt8rUvmN/659420
+http://proxpanel.app:8080/live/monty/monty123/641697.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/bvhL81z/masrah-msr.png" , شاهد مسرح مصر
 https://shd-amg-fast.edgenextcdn.net/tx009/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://up6.cc/2023/05/168405543304632.png" , شاهد افلام 
@@ -163,6 +163,8 @@ http://mezianeiptv.com:88/HN8ZR4FEYK/M5EHX4AQHK/7564
 http://v3tv.live/live/xbinam7_119632/9YD6r0Sg/1468.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم -bk
 http://yafsg.top:80/live/134280713424/446594172248/102164.ts
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم -bk2
+http://proxpanel.app:8080/live/monty/monty123/273238.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
