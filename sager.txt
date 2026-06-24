@@ -120,7 +120,7 @@ https://shd-amg-fast-btpls.shahid.net/tx012/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" , سبيستون  ᴴᴰ
 http://149.100.11.235:8080/SPACETOONARABIC/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" , كرتون نتورك  
-http://proxpanel.cc/live/h1wqD6CY/byxHYgX/786415.ts
+http://proxpanel.app/live/rene/1234/786415.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/TzOKMMy.png" , ماجد  ᴴᴰ
 http://proxpanel.cc:80/h1wqD6CY/byxHYgX/272658
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7woV4Cz.png" , براعم  
@@ -182,9 +182,9 @@ https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.redtvlebanon.com/assets/images/RED.png", RED TV
 https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/uWibV0i.png", العهد
-http://proxpanel.cc/live/h1wqD6CY/byxHYgX/273310.ts
+http://proxpanel.app/live/rene/1234/273310.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/71qxh9L/etgah.jpg", قناة الاتجاه  ᴴᴰ
-http://proxpanel.cc/live/h1wqD6CY/byxHYgX/273283.ts
+http://proxpanel.app/live/rene/1234/273283.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/fCDtN3p/jordan.jpg" ,الاردن  ᴴᴰ
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/BS8XXug.png", فلسطين اليوم  ᴴᴰ
@@ -204,17 +204,17 @@ https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/V055t5e.png" , المسيرة
 https://live.cdnbridge.tv/Almasirah/Almasirah_1080p/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/aeY4ax8.png", |ART| افلام 1  
-http://proxpanel.app:8080/h1wqD6CY/byxHYgX/786476
+http://proxpanel.app/live/rene/1234/786476
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/icE2WOw.png",  |ART| افلام 2  
-http://proxpanel.cc:8080/h1wqD6CY/byxHYgX/786475
+http://proxpanel.app/live/rene/1234/786475
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/kzNnSoV.png", |ART| حكايات 1 
-http://proxpanel.cc:8080/h1wqD6CY/byxHYgX/786473
+http://proxpanel.app/live/rene/1234/786473
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/EfzfrOL.png", |ART| حكايات 2 
-http://proxpanel.live:8080/h1wqD6CY/byxHYgX/786472
+http://proxpanel.app/live/rene/1234/786472
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/osn_al_yawm.png", |OSN| اليوم 
-http://proxpanel.cc:80/h1wqD6CY/byxHYgX/786535
+http://proxpanel.app/live/rene/1234/786535.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا 
-http://krooztv.cloud:8080/h1wqD6CY/byxHYgX/786540
+http://proxpanel.app/live/rene/1234/786540.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا بالعربي
 http://proxpanel.cc:80/h1wqD6CY/byxHYgX/786539
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا افلام
@@ -224,7 +224,7 @@ http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/171164.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
 http://tv.startseven.tn:2052/405562493960/1910143340/298925
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
-http://proxpanel.cc/live/h1wqD6CY/byxHYgX/272167.ts
+http://proxpanel.app/live/rene/1234/272167.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/qnCg98M/mekamlin.png" , مكملين 
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/4SBWZsb/hewar.png" , الحوار
