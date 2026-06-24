@@ -234,27 +234,13 @@ https://eazyvwqssi.erbvr.com/alghadtv/alghadtv_1080p.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/YTyCBvB.png" , التغيير
 https://jmc-live.ercdn.net/altaghier/altaghier.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/D0jTxzQ/bmx1.jpg", BEIN SPORTS MAX 1 HD
-http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/187355.ts
+http://proxpanel.app/live/george/george1234/838075.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/93NptwpC/bmx2.jpg", BEIN SPORTS MAX 2 HD
-http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/187357.ts
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/W4Mf4cT1/bn1.jpg", BEIN SPORTS 1 HD
-http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/149558.ts
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/yBMBnqQ1/bn2.jpg", BEIN SPORTS 2 HD
-http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/149544.ts
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/Swv4GB9c/bn3.jpg", BEIN SPORTS 3 HD
-http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/149533.ts
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/gLpsLPTn/bmx1-g.jpg",beIN SPORTS MAX 1 -1
-http://tv.startseven.tn:2052/405562493960/1910143340/246
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/Lz00t7xk/bmx2-g.jpg",beIN SPORTS MAX 1 -2
-http://tv.startseven.tn:2052/405562493960/1910143340/237
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/fLrVJNJ/bn1-g.jpg",beIN SPORTS MAX 1 -3
-http://tv.startseven.tn:2052/405562493960/1910143340/238
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LhQkdV7d/bn2-g.jpg",beIN SPORTS 2 UHD
-http://proxpanel.cc:80/h1wqD6CY/byxHYgX/707928
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/s9cyrXCL/bn3-g.jpg",beIN SPORTS 3 UHD
-http://proxpanel.cc:80/h1wqD6CY/byxHYgX/707927
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/t9SCxnL/bn4-g.jpg",beIN SPORTS 4 UHD
-http://proxpanel.cc:80/h1wqD6CY/byxHYgX/707926
+http://proxpanel.app/live/george/george1234/838074.ts
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/PsjRcn1N/bmx3.jpg", BEIN SPORTS MAX 3 HD
+http://proxpanel.app/live/george/george1234/838073.ts
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/KpDdhb9m/bmx4.jpg", BEIN SPORTS MAX 4 HD
+http://proxpanel.app/live/george/george1234/838072.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1   
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 2  
