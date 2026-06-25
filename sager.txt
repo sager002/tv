@@ -134,7 +134,7 @@ http://proxpanel.app/live/monty/monty123/786412.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY  
 http://royaltv.world:25461/live/F5002/7294/275.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/5W5y8f0/disney-jr.png" , DISNEY  jr
-https://tvsen7.aynaott.com/disney/index.m3u8
+http://84.17.50.102/disneyjunior/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/XrKcpN02/download.png" , DISNEY XD
 http://realcdn.top:8080/free/iptv/HEGN4VXXQQSYCA/1082/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" , nickelodeon
