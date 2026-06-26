@@ -136,7 +136,7 @@ http://royaltv.world:25461/live/F5002/7294/275.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/5W5y8f0/disney-jr.png" , DISNEY  jr
 http://84.17.50.102/disneyjunior/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/XrKcpN02/download.png" , DISNEY XD
-http://realcdn.top:8080/free/iptv/HEGN4VXXQQSYCA/1082/index.m3u8
+http://84.17.50.102/disneyxd/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" , nickelodeon
 http://cdm2026mex.info:8089/live/5178572674698/7593425712153/3819.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick jr
