@@ -46,9 +46,9 @@ https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/4qB5iN0.png" , الريان القديم  ᴴᴰ
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/live_1080p/chunks_dvr.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" , ابوظبي  ᴴᴰ
-http://lunar.pm:8080/BILLYBIKE1/Rg8h1dStbM/132249
+http://lordstreams.live/live/White91/6061626364/272675.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/92cDsx9/emarat.png" , الامارات  ᴴᴰ
-http://lunar.pm:8080/BILLYBIKE1/Rg8h1dStbM/132248
+http://lordstreams.live/live/White91/6061626364/272679.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" , ابوظبي ناشيونال جيوغرافيك  ᴴᴰ
 http://185.9.2.18/chid_597/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/tq5Aj9i.png" , الشارقة  ᴴᴰ
@@ -108,7 +108,7 @@ http://185.9.2.18/chid_378/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/xqq4GwW/mbc-max.png" , ام بي سي - ماكس  
 http://185.9.2.18/chid_379/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات  
-http://proxpanel.app:8080/live/monty/monty123/641697.ts
+http://lordstreams.live:8080/live/White91/6061626364/641697.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/bvhL81z/masrah-msr.png" , شاهد مسرح مصر
 https://shd-amg-fast.edgenextcdn.net/tx009/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://up6.cc/2023/05/168405543304632.png" , شاهد افلام 
@@ -124,13 +124,13 @@ https://iptv.domains/live/Henry/123456/182656.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/TzOKMMy.png" , ماجد  ᴴᴰ
 https://iptv.domains/live/Henry/123456/183228.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7woV4Cz.png" , براعم  
-http://lunar.pm:8080/live/2059050842/gMFsE1cuDr/132295.ts
+http://lordstreams.live/live/White91/6061626364/786421.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C10XDwn/jeemtv.jpg" , جيم  
 http://lemon.catchmeifyo.com:8000/pBSgdHZLQS/Mh4RYSF4nJ/101712
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zhGgTLX/boomerang.png" , Boomerange 
 https://restream-live.realiptv.to/Z3nXfkOnf0/Madt8rUvmN/659644
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/JBSspqn/cartoonito.jpg" , cartoonito
-http://proxpanel.app/live/monty/monty123/786412.ts
+http://lordstreams.live/live/White91/6061626364/786412.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY  
 http://royaltv.world:25461/live/F5002/7294/275.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/5W5y8f0/disney-jr.png" , DISNEY  jr
@@ -164,7 +164,7 @@ http://v3tv.live/live/xbinam7_119632/9YD6r0Sg/1468.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم -bk
 http://yafsg.top:80/live/134280713424/446594172248/102164.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم -bk2
-http://proxpanel.app:8080/live/monty/monty123/273238.ts
+http://lordstreams.live:8080/live/White91/6061626364/273238.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
@@ -186,7 +186,7 @@ https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.redtvlebanon.com/assets/images/RED.png", RED TV
 https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/uWibV0i.png", العهد
-http://proxpanel.app/live/collins1/collins1/273310.ts
+http://lordstreams.live/live/White91/6061626364/273310.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/71qxh9L/etgah.jpg", قناة الاتجاه  ᴴᴰ
 https://iptv.domains/live/Henry/123456/182911.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/fCDtN3p/jordan.jpg" ,الاردن  ᴴᴰ
@@ -210,17 +210,17 @@ https://live.cdnbridge.tv/Almasirah/Almasirah_1080p/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/aeY4ax8.png", |ART| افلام 1  
 https://iptv.domains/live/Henry/123456/182709.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/icE2WOw.png",  |ART| افلام 2  
-http://proxpanel.app/live/collins1/collins1/786475
+http://lordstreams.live/live/White91/6061626364/786475
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/kzNnSoV.png", |ART| حكايات 1 
 https://iptv.domains/live/Henry/123456/182712.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/EfzfrOL.png", |ART| حكايات 2 
 https://iptv.domains/live/Henry/123456/182713.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/osn_al_yawm.png", |OSN| اليوم 
-http://proxpanel.app/live/collins1/collins1/786535.ts
+http://lordstreams.live/live/White91/6061626364/786535.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا 
-http://proxpanel.app/live/collins1/collins1/786540.ts
+http://lordstreams.live/live/White91/6061626364/786540.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا بالعربي
-http://proxpanel.cc:80/collins1/collins1/786539
+http://lordstreams.live/White91/6061626364/786539
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا افلام
 http://cdm2026mex.info:8089/live/5178572674698/7593425712153/3803.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| family
@@ -228,7 +228,7 @@ http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/171164.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
 http://tv.startseven.tn:2052/405562493960/1910143340/298925
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
-http://proxpanel.app/live/collins1/collins1/272167.ts
+http://lordstreams.live/live/White91/6061626364/272167.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/qnCg98M/mekamlin.png" , مكملين 
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/4SBWZsb/hewar.png" , الحوار
@@ -250,11 +250,11 @@ http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/149533.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/gLpsLPTn/bmx1-g.jpg",beIN SPORTS MAX 1
 http://tv.startseven.tn:2052/405562493960/1910143340/238
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LhQkdV7d/bn2-g.jpg",beIN SPORTS 2 UHD
-http://proxpanel.cc:80/collins1/collins1/707928
+http://lordstreams.live/White91/6061626364/707928
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/s9cyrXCL/bn3-g.jpg",beIN SPORTS 3 UHD
-http://proxpanel.cc:80/collins1/collins1/707927
+http://lordstreams.live/White91/6061626364/707927
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/t9SCxnL/bn4-g.jpg",beIN SPORTS 4 UHD
-http://proxpanel.cc:80/collins1/collins1/707926
+http://lordstreams.live/White91/6061626364/707926
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1   
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 2  
@@ -274,7 +274,7 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/1KZG3b4/fe43c644-081a-4816-a4e1-411740081c52.png",الشرق Documentary  ᴴᴰ
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", |OSN| ديسكفري  
-http://proxpanel.cc:80/collins1/collins1/786487
+http://lordstreams.live/White91/6061626364/786487
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", Discovery us
 https://dvrfl04.tulix.tv/teleup-discovery/mpegts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/S4K1TDfH/foxnews.jpg",Fox News  
