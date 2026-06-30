@@ -46,9 +46,9 @@ https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/4qB5iN0.png" , الريان القديم  ᴴᴰ
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/live_1080p/chunks_dvr.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" , ابوظبي  ᴴᴰ
-https://iptv.domains/live/Henry/123456/182879.ts
+http://lunar.pm:8080/BILLYBIKE1/Rg8h1dStbM/132249
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/92cDsx9/emarat.png" , الامارات  ᴴᴰ
-https://iptv.domains/live/Henry/123456/182883.ts
+http://lunar.pm:8080/BILLYBIKE1/Rg8h1dStbM/132248
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" , ابوظبي ناشيونال جيوغرافيك  ᴴᴰ
 http://185.9.2.18/chid_597/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/tq5Aj9i.png" , الشارقة  ᴴᴰ
