@@ -8,7 +8,7 @@ https://rt-arb.rttv.com/dvr/rtarab/playlist_800Kb.m3u8
 http://149.100.11.235:8080/BBCArabic/index.m3u8
 #EXTINF:-1,France24
 http://149.100.11.235:8080/France24/index.m3u8
-#EXTINF:-1,الكويت
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/b5YkqW7k/ktv1.jpg",الكويت
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8
 #EXTINF:-1,البحرين
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/chunklist_w989646851_b978000.m3u8
