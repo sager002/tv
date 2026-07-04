@@ -1,6 +1,6 @@
-#EXTINF:-1,العربية
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/thqzs1w/arabia.png" ,العربية
 https://live.alarabiya.net/alarabiapublish/alarabiya_360p/chunks.m3u8
-#EXTINF:-1,الجزيرة
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/GQ4qcX6B/aljazeera.jpg",الجزيرة
 https://live-hls-apps-aja-fa.getaj.net/AJA/04.m3u8
 #EXTINF:-1,RT
 https://rt-arb.rttv.com/dvr/rtarab/playlist_800Kb.m3u8
