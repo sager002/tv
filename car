@@ -1,0 +1,16 @@
+#EXTINF:-1,العربية
+https://live.alarabiya.net/alarabiapublish/alarabiya_360p/chunks.m3u8
+#EXTINF:-1,الجزيرة
+https://live-hls-apps-aja-fa.getaj.net/AJA/04.m3u8
+#EXTINF:-1,RT
+https://rt-arb.rttv.com/dvr/rtarab/playlist_800Kb.m3u8
+#EXTINF:-1,BBCArabic
+http://149.100.11.235:8080/BBCArabic/index.m3u8
+#EXTINF:-1,France24
+http://149.100.11.235:8080/France24/index.m3u8
+#EXTINF:-1,الكويت
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8
+#EXTINF:-1,البحرين
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/chunklist_w989646851_b978000.m3u8
+#EXTINF:-1,قطر
+https://live.kwikmotion.com/qtv1live/qtv1.smil/qtv1publish/qtv1_480p/chunks.m3u8
