@@ -1,16 +1,16 @@
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/thqzs1w/arabia.png" ,العربية
 https://live.alarabiya.net/alarabiapublish/alarabiya_360p/chunks.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/GQ4qcX6B/aljazeera.jpg",الجزيرة
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LDfCS1My/aljazeera.jpg", الجزيرة 
 https://live-hls-apps-aja-fa.getaj.net/AJA/04.m3u8
-#EXTINF:-1,RT
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/dsKGHYkX/rt.jpg", RT
 https://rt-arb.rttv.com/dvr/rtarab/playlist_800Kb.m3u8
-#EXTINF:-1,BBCArabic
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2kd9ZTd/bbc.png", BBCArabic
 http://149.100.11.235:8080/BBCArabic/index.m3u8
-#EXTINF:-1,France24
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mCGXGLN2/france.jpg",France24
 http://149.100.11.235:8080/France24/index.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/b5YkqW7k/ktv1.jpg",الكويت
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/Z1SS3vzS/ktv1.jpg", الكويت
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8
-#EXTINF:-1,البحرين
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/qMTj4pjj/bahrain.jpg", البحرين
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/chunklist_w989646851_b978000.m3u8
-#EXTINF:-1,قطر
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/3y5pXYmb/qatar1.jpg",قطر
 https://live.kwikmotion.com/qtv1live/qtv1.smil/qtv1publish/qtv1_480p/chunks.m3u8
