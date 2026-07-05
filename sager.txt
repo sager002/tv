@@ -3,19 +3,19 @@
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/dMJhDzV/hadath.png" , العربية الحدث  ᴴᴰ
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
-#EXTINF:0 type="stream" tvg-id="AlJazeera.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" , الجزيرة
+#EXTINF:0 type="stream" tvg-id="AlJazeera.qa" tvg-logo="https://i.ibb.co/LDfCS1My/aljazeera.jpg" , الجزيرة
 https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
 #EXTINF:0 type="stream" tvg-id="AlJazeera.qa" tvg-logo="https://i.ibb.co/1fH3xNVF/jaz-mbshr.jpg" , الجزيرة مباشر ᴴᴰ
 https://live-hls-web-ajm.getaj.net/AJM/02.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7bRVpnu.png" , الجزيرة الثقافية
 https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://www.arabnews.com/sites/default/files/styles/n_670_395/public/ru-rt-arabic.png" , روسيا اليوم  ᴴᴰ
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/dsKGHYkX/rt.jpg" , روسيا اليوم  ᴴᴰ
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2kd9ZTd/bbc.png" , بي بي سي  ᴴᴰ
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
-#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/420px-France24.png" ,  فرنسا 24
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mCGXGLN2/france.jpg" ,  فرنسا 24
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/EfKe3ae.png", المانيا  ᴴᴰ
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/k2wxN7dH/dw.jpg", المانيا  ᴴᴰ
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/Yhx941G/skynews.png", سكاي نيوز  ᴴᴰ
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
@@ -23,7 +23,7 @@ https://stream.skynewsarabia.com/hls/sna_720.m3u8
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.alaraby.com/themes/custom/arabytv/logo.svg" , العربي  ᴴᴰ
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/kG0d8Ay.png" ,  الكويت  ᴴᴰ
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/Z1SS3vzS/ktv1.jpg" ,  الكويت  ᴴᴰ
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/naVEZtj.png" , الكويت الاخبار  ᴴᴰ
 https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
@@ -35,9 +35,9 @@ https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
 https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/naVEZtj.png" , الراي
 http://ciul.glupiec.123tv.to:8080/sasodaniel2/GTG53de3f3erFR/82757
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2F8TwT3/bahrain.png" , البحرين  ᴴᴰ
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/qMTj4pjj/bahrain.jpg" , البحرين  ᴴᴰ
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/N5RB4sp.png" , قطر 1  ᴴᴰ
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/3y5pXYmb/qatar1.jpg" , قطر 1  ᴴᴰ
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/iWJxDUm.png" , قطر 2  ᴴᴰ
 https://qatartv.akamaized.net/hls/live/2026574-b/qtv2/4.m3u8
