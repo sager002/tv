@@ -6,9 +6,9 @@ https://live-hls-apps-aja-fa.getaj.net/AJA/04.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/dsKGHYkX/rt.jpg", RT
 https://rt-arb.rttv.com/dvr/rtarab/playlist_800Kb.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2kd9ZTd/bbc.png", BBCArabic
-http://149.100.11.235:8080/BBCArabic/index.m3u8
+http://149.100.11.235:8080/BBCArabic/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mCGXGLN2/france.jpg",France24
-http://149.100.11.235:8080/France24/index.m3u8
+http://149.100.11.235:8080/France24/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/kGX3jMH/mayadeen.png", الميادين
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b2000000.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/Z1SS3vzS/ktv1.jpg", الكويت
