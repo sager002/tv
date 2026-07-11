@@ -122,7 +122,7 @@ https://shd-amg-fast-btpls.shahid.net/tx012/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" , سبيستون  ᴴᴰ
 http://149.100.11.235:8080/SPACETOONARABIC/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" , كرتون نتورك  
-https://iptv.domains/live/Henry/123456/182656.ts
+http://185.160.192.64/live/xagGXKdXvl/sRF8kAXX6i/342351.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/TzOKMMy.png" , ماجد  ᴴᴰ
 https://iptv.domains/live/Henry/123456/183228.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7woV4Cz.png" , براعم  
@@ -135,8 +135,12 @@ https://restream-live.realiptv.to/Z3nXfkOnf0/Madt8rUvmN/659644
 http://lordstreams.live/live/White91/6061626364/786412.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY  
 http://bgdc.live:25461/joesardo55/37458621/622
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY -bk
+http://185.160.192.64/live/xagGXKdXvl/sRF8kAXX6i/342361.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/5W5y8f0/disney-jr.png" , DISNEY  jr
 http://bgdc.live:25461/joesardo55/37458621/623
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/5W5y8f0/disney-jr.png" , DISNEY  jr -bk
+http://185.160.192.64/live/xagGXKdXvl/sRF8kAXX6i/342360.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/XrKcpN02/download.png" , DISNEY XD
 http://bgdc.live:25461/joesardo55/37458621/624
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" , nickelodeon
@@ -287,6 +291,8 @@ http://redworld.pro:8880/live/Melany2025/62upBbekb4Ku/452697.ts
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN -bk
 http://limited-name.com/live/cjnyk3geth/7689226674/175988.ts
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN -bk2
+http://udashboard.vip:8080/live/Akeriptv76/BknNtsYXxV/285566.ts
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", MSNBC  
 http://41.223.30.230/MSNBC/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", MSNBC -bk
