@@ -8,7 +8,7 @@ https://rt-arb.rttv.com/dvr/rtarab/playlist_800Kb.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2kd9ZTd/bbc.png", BBCArabic
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mCGXGLN2/france.jpg",France24
-https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_500.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/kGX3jMH/mayadeen.png", الميادين
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b2000000.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/Z1SS3vzS/ktv1.jpg", الكويت
