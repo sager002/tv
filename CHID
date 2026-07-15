@@ -148,10 +148,14 @@ http://149.100.11.235:8080/Al-ArabiyaAlhadath/index.m3u8
 http://149.100.11.235:8080/AlFathSonnahTV/index.m3u8
 #EXTINF:-1,ALFATHTV
 http://149.100.11.235:8080/ALFATHTV/index.m3u8
+#EXTINF:-1,AlGhadHD
+http://149.100.11.235:8080/AlGhadHD/index.m3u8
 #EXTINF:-1,AlHadathAlyoum
 http://149.100.11.235:8080/AlHadathAlyoum/index.m3u8
 #EXTINF:-1,ALhayat
 http://149.100.11.235:8080/ALhayat/index.m3u8
+#EXTINF:-1,AlHayatHD
+http://149.100.11.235:8080/AlHayatHD/index.m3u8
 #EXTINF:-1,AlhayatMuslsalat
 http://149.100.11.235:8080/AlhayatMuslsalat/index.m3u8
 #EXTINF:-1,AlhayatWeAlnas
@@ -204,8 +208,12 @@ http://149.100.11.235:8080/Cima/index.m3u8
 http://149.100.11.235:8080/dmcdrama/index.m3u8
 #EXTINF:-1,dmcmasraheyat
 http://149.100.11.235:8080/dmcmasraheyat/index.m3u8
+#EXTINF:-1,EgyptianTVHD
+http://149.100.11.235:8080/EgyptianTVHD/index.m3u8
 #EXTINF:-1,ELMEHWAR
 http://149.100.11.235:8080/ELMEHWAR/index.m3u8
+#EXTINF:-1,ExtraLive
+http://149.100.11.235:8080/ExtraLive/index.m3u8
 #EXTINF:-1,ExtraNews
 http://149.100.11.235:8080/ExtraNews/index.m3u8
 #EXTINF:-1,France24
@@ -214,6 +222,8 @@ http://149.100.11.235:8080/France24/index.m3u8
 http://149.100.11.235:8080/HADRAMAUTTV/index.m3u8
 #EXTINF:-1,IraqNow
 http://149.100.11.235:8080/IraqNow/index.m3u8
+#EXTINF:-1,JordanHD
+http://149.100.11.235:8080/JordanHD/index.m3u8
 #EXTINF:-1,KSASports2
 http://149.100.11.235:8080/KSASports2/index.m3u8
 #EXTINF:-1,LBCSAT
@@ -250,6 +260,8 @@ http://149.100.11.235:8080/NileDrama/index.m3u8
 http://149.100.11.235:8080/NileLife/index.m3u8
 #EXTINF:-1,NileNews
 http://149.100.11.235:8080/NileNews/index.m3u8
+#EXTINF:-1,NileNewsHD
+http://149.100.11.235:8080/NileNewsHD/index.m3u8
 #EXTINF:-1,NileSport
 http://149.100.11.235:8080/NileSport/index.m3u8
 #EXTINF:-1,NogoumFMTV
