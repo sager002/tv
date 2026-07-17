@@ -297,3 +297,5 @@ http://udashboard.vip:8080/live/Akeriptv76/BknNtsYXxV/285566.ts
 http://41.223.30.230/MSNBC/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", MSNBC -bk
 http://limited-name.com/live/cjnyk3geth/7689226674/228579.ts
+#EXTINF:0 type="stream" tvg-logo="https://ona22.journalists.org/wp-content/uploads/sites/9/2022/08/News-Nation-400x400-1.jpg", NEWSNATION
+http://40.160.24.58/NEWSNATION/index.m3u8
