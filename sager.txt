@@ -234,7 +234,7 @@ http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/171164.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
 http://vpjertrcww.top:8080/VIP013821748767869473/dba172a3c21f/6609
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
-http://lordstreams.live/live/White91/6061626364/272167.ts
+http://185.160.192.64:8789/live/xagGXKdXvl/sRF8kAXX6i/23022.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/qnCg98M/mekamlin.png" , مكملين 
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/4SBWZsb/hewar.png" , الحوار
