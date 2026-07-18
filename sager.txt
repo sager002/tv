@@ -287,6 +287,8 @@ https://dvrfl04.tulix.tv/teleup-discovery/mpegts
 http://huekavirtual.click:8080/live/HV_DavidGaona09./da20vid23g/17776.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/S4K1TDfH/foxnews.jpg",Fox News -bk
 http://redworld.pro:8880/live/Melany2025/62upBbekb4Ku/452697.ts
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/S4K1TDfH/foxnews.jpg",Fox News -bk2
+http://41.205.77.102/FOX-NEWS/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN -bk
