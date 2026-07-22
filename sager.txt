@@ -218,13 +218,13 @@ http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/28498.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/icE2WOw.png",  |ART| افلام 2  
 http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/28500.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/kzNnSoV.png", |ART| حكايات 1 
-http://185.160.192.64/live/xagGXKdXvl/sRF8kAXX6i/22997.ts
+http://lordstreams.live/live/White91/6061626364/786473.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/EfzfrOL.png", |ART| حكايات 2 
-http://185.160.192.64/live/xagGXKdXvl/sRF8kAXX6i/22996.ts
+http://proxpanel.app:8080/live/monty/monty123/786472.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/osn_al_yawm.png", |OSN| اليوم 
 http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/459098.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا 
-http://185.160.192.64/live/xagGXKdXvl/sRF8kAXX6i/342395.ts
+http://proxpanel.app:8080/live/monty/monty123/786540.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا بالعربي
 http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/459118.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا افلام
