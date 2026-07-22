@@ -46,9 +46,9 @@ https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/4qB5iN0.png" , الريان القديم  ᴴᴰ
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/live_1080p/chunks_dvr.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" , ابوظبي  ᴴᴰ
-http://pluton-ott.net/live/0568750972/7311629374/19456.ts
+http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/278638.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/92cDsx9/emarat.png" , الامارات  ᴴᴰ
-http://lordstreams.live/live/White91/6061626364/272679.ts
+http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/278639.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" , ابوظبي ناشيونال جيوغرافيك  ᴴᴰ
 http://185.9.2.18/chid_597/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/tq5Aj9i.png" , الشارقة  ᴴᴰ
@@ -108,7 +108,7 @@ http://185.9.2.18/chid_378/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/xqq4GwW/mbc-max.png" , ام بي سي - ماكس  
 http://185.9.2.18/chid_379/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات  
-http://185.160.192.64/live/xagGXKdXvl/sRF8kAXX6i/120304.ts
+http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/28910.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/pWgxTxv/mbc-v.jpg" , ام بي سي - منوعات -bk
 http://pluton-ott.net/live/0568750972/7311629374/492672.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/bvhL81z/masrah-msr.png" , شاهد مسرح مصر
@@ -122,7 +122,7 @@ https://shd-amg-fast-btpls.shahid.net/tx012/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" , سبيستون  ᴴᴰ
 http://149.100.11.235:8080/SPACETOONARABIC/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" , كرتون نتورك  
-http://185.160.192.64/live/xagGXKdXvl/sRF8kAXX6i/342351.ts
+http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/285183.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/TzOKMMy.png" , ماجد  ᴴᴰ
 https://iptv.domains/live/Henry/123456/183228.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/7woV4Cz.png" , براعم  
@@ -146,7 +146,9 @@ http://bgdc.live:25461/joesardo55/37458621/624
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" , nickelodeon
 http://bgdc.live:25461/joesardo55/37458621/621
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick jr
-http://bgdc.live:25461/joesardo55/37458621/94599
+http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/459080.ts
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick toon
+http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/459079.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , movie family
 http://77.137.40.221:8000/play/n01o
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/dGlKoLW.png" , روتانا سينما 
@@ -168,9 +170,7 @@ http://mezianeiptv.com:88/HN8ZR4FEYK/M5EHX4AQHK/7564
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم  
 http://v3tv.live/live/xbinam7_119632/9YD6r0Sg/1468.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم -bk
-http://pluton-ott.net/live/0568750972/7311629374/492569.ts
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم -bk2
-http://185.160.192.64/live/xagGXKdXvl/sRF8kAXX6i/149871.ts
+http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/28913.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
@@ -214,27 +214,27 @@ https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/V055t5e.png" , المسيرة
 https://live.cdnbridge.tv/Almasirah/Almasirah_1080p/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/aeY4ax8.png", |ART| افلام 1  
-http://185.160.192.64/live/xagGXKdXvl/sRF8kAXX6i/22999.ts
+http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/28498.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/icE2WOw.png",  |ART| افلام 2  
-http://185.160.192.64/live/xagGXKdXvl/sRF8kAXX6i/22998.ts
+http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/28500.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/kzNnSoV.png", |ART| حكايات 1 
 http://185.160.192.64/live/xagGXKdXvl/sRF8kAXX6i/22997.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/EfzfrOL.png", |ART| حكايات 2 
 http://185.160.192.64/live/xagGXKdXvl/sRF8kAXX6i/22996.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/osn_al_yawm.png", |OSN| اليوم 
-http://185.160.192.64/live/xagGXKdXvl/sRF8kAXX6i/342435.ts
+http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/459098.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا 
 http://185.160.192.64/live/xagGXKdXvl/sRF8kAXX6i/342395.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا بالعربي
-http://185.160.192.64/live/xagGXKdXvl/sRF8kAXX6i/342394.ts
+http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/459118.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا افلام
-http://185.160.192.64/live/xagGXKdXvl/sRF8kAXX6i/342422.ts
+http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/459117.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| family
 http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/171164.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
 http://vpjertrcww.top:8080/VIP013821748767869473/dba172a3c21f/6609
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
-http://185.160.192.64:8789/live/xagGXKdXvl/sRF8kAXX6i/23022.ts
+http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/28904.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/qnCg98M/mekamlin.png" , مكملين 
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/4SBWZsb/hewar.png" , الحوار
