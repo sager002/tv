@@ -290,10 +290,8 @@ http://redworld.pro:8880/live/Melany2025/62upBbekb4Ku/452697.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/S4K1TDfH/foxnews.jpg",Fox News -bk2
 http://41.205.77.102/FOX-NEWS/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN -bk
 http://limited-name.com/live/cjnyk3geth/7689226674/175988.ts
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN -bk2
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN -bk
 http://udashboard.vip:8080/live/Akeriptv76/BknNtsYXxV/285566.ts
 #EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", MSNBC  
 http://41.223.30.230/MSNBC/index.m3u8
