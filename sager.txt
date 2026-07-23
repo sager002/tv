@@ -40,7 +40,7 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/3y5pXYmb/qatar1.jpg" , قطر 1  ᴴᴰ
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/iWJxDUm.png" , قطر 2  ᴴᴰ
-https://qatartv.akamaized.net/hls/live/2026574-b/qtv2/4.m3u8
+https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/XVFKwdm/rayan.png" , الريان  ᴴᴰ
 https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/4qB5iN0.png" , الريان القديم  ᴴᴰ
@@ -176,7 +176,7 @@ http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
 http://185.9.2.18/chid_521/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png", ام تي في 
-http://185.9.2.18/chid_387/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png", او تي في  
 http://185.9.2.18/chid_312/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/S71LY0GD/download.jpg", ال تي في 
