@@ -143,6 +143,8 @@ http://bgdc.live:25461/joesardo55/37458621/623
 http://185.160.192.64/live/xagGXKdXvl/sRF8kAXX6i/342360.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/XrKcpN02/download.png" , DISNEY XD
 http://bgdc.live:25461/joesardo55/37458621/624
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/XrKcpN02/download.png" , DISNEY XD -bk
+http://royaltv.world:25461/live/F5002/7294/13164.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" , nickelodeon
 http://bgdc.live:25461/joesardo55/37458621/621
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick jr
@@ -151,6 +153,8 @@ http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/459080.ts
 http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/459079.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , movie family
 http://77.137.40.221:8000/play/n01o
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY movie
+http://lordstreams.live/live/White91/6061626364/786506.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/dGlKoLW.png" , روتانا سينما 
 http://185.9.2.18/chid_288/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/pGgp38I.png" , روتانا افلام  
@@ -171,6 +175,8 @@ http://mezianeiptv.com:88/HN8ZR4FEYK/M5EHX4AQHK/7564
 http://v3tv.live/live/xbinam7_119632/9YD6r0Sg/1468.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم -bk
 http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/28913.ts
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/znbQCZq/alam.png", العالم -bk2
+http://lordstreams.live/live/White91/6061626364/273238.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/ssNtvdK/jadeed.png", الجديد  
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png", ال بي سي انترناشيونال  
@@ -194,7 +200,7 @@ https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/uWibV0i.png", العهد
 http://lordstreams.live/live/White91/6061626364/273310.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/71qxh9L/etgah.jpg", قناة الاتجاه  ᴴᴰ
-https://iptv.domains/live/Henry/123456/182911.ts
+http://lordstreams.live/live/White91/6061626364/273283.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/fCDtN3p/jordan.jpg" ,الاردن  ᴴᴰ
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/BS8XXug.png", فلسطين اليوم  ᴴᴰ
@@ -295,8 +301,8 @@ http://limited-name.com/live/cjnyk3geth/7689226674/175988.ts
 http://udashboard.vip:8080/live/Akeriptv76/BknNtsYXxV/285566.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN -bk2
 http://srv.mypanel.life:8080/live/jju4420/NebeQ90Mp1/6992.ts
-#EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", MSNBC  
-http://limited-name.com/live/cjnyk3geth/7689226674/228579.ts
+#EXTINF:0 type="stream" tvg-logo="https://pictures.grabien.com/profiles/large/0004/4190.jpg", MS now
+http://40.160.24.53/MSNBC/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://ona22.journalists.org/wp-content/uploads/sites/9/2022/08/News-Nation-400x400-1.jpg", NEWSNATION
 http://40.160.24.58/NEWSNATION/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://specialops.org/wp-content/uploads/2022/03/salem-news-channel-880x440-1.jpg", salem-news
