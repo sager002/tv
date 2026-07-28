@@ -230,3 +230,7 @@ http://41.205.93.154/WWE/index.m3u8
 http://41.205.93.154/ZEE-TV/index.m3u8
 #EXTINF:-1,cnn -bk
 http://176.122.125.10:8080/cnn/index.m3u8
+#EXTINF:-1,fox news
+https://primexclusive.day:443/1444576/5450985/407469
+#EXTINF:-1,cnn
+https://primexclusive.day:443/1444576/5450985/1026
