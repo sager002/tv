@@ -146,7 +146,7 @@ https://primexclusive.day:443/1444576/5450985/26101
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/XrKcpN02/download.png" , DISNEY XD -bk
 http://royaltv.world:25461/live/F5002/7294/13164.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" , nickelodeon
-https://primexclusive.day:443/1444576/5450985/16196
+http://2707-2026.gold:8089/live/1826465239420/4192874740371/85675938.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick jr
 http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/459080.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick toon
@@ -249,24 +249,6 @@ https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 https://eazyvwqssi.erbvr.com/alghadtv/alghadtv_1080p.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/YTyCBvB.png" , التغيير
 https://jmc-live.ercdn.net/altaghier/altaghier.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/D0jTxzQ/bmx1.jpg", BEIN SPORTS MAX 1 HD
-http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/187355.ts
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/93NptwpC/bmx2.jpg", BEIN SPORTS MAX 2 HD
-http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/187357.ts
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/W4Mf4cT1/bn1.jpg", BEIN SPORTS 1 HD
-http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/149558.ts
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/yBMBnqQ1/bn2.jpg", BEIN SPORTS 2 HD
-http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/149544.ts
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/Swv4GB9c/bn3.jpg", BEIN SPORTS 3 HD
-http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/149533.ts
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/gLpsLPTn/bmx1-g.jpg",beIN SPORTS MAX 1
-http://tv.startseven.tn:2052/405562493960/1910143340/238
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LhQkdV7d/bn2-g.jpg",beIN SPORTS 2 UHD
-http://lordstreams.live/White91/6061626364/707928
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/s9cyrXCL/bn3-g.jpg",beIN SPORTS 3 UHD
-http://lordstreams.live/White91/6061626364/707927
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/t9SCxnL/bn4-g.jpg",beIN SPORTS 4 UHD
-http://lordstreams.live/White91/6061626364/707926
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1   
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/L8Lzfw9/alkass2.png", الكاس 2  
@@ -292,9 +274,7 @@ https://dvrfl04.tulix.tv/teleup-discovery/mpegts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/S4K1TDfH/foxnews.jpg",Fox News
 http://huekavirtual.click:8080/live/HV_DavidGaona09./da20vid23g/17776.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/S4K1TDfH/foxnews.jpg",Fox News -bk
-http://redworld.pro:8880/live/Melany2025/62upBbekb4Ku/452697.ts
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/S4K1TDfH/foxnews.jpg",Fox News -bk2
-http://41.205.77.102/FOX-NEWS/index.m3u8
+http://barnsideiptv.ddns.net/live/zVywGmUxj4/3GpPSaErTd/1133.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN
 http://limited-name.com/live/cjnyk3geth/7689226674/175988.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN -bk
