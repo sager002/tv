@@ -282,3 +282,87 @@ http://40.160.24.55/WE_TV/index.m3u8?452
 http://40.160.24.55/WEATHER_NATION/index.m3u8?453
 #EXTINF:-1,WORLD_FISHING_NETWORK
 http://40.160.24.55/WORLD_FISHING_NETWORK/index.m3u8?454
+#EXTINF:-1,Aspire (1080p)
+http://206.212.244.63/10/index.m3u8
+#EXTINF:-1,Law & Crime (720p)
+http://206.212.244.63/102/index.m3u8
+#EXTINF:-1,MeTV+ (720p)
+http://206.212.244.63/111/index.m3u8
+#EXTINF:-1,MeTV Toons (720p)
+http://206.212.244.63/112/index.m3u8
+#EXTINF:-1,MTV Classic (720p)
+http://206.212.244.63/117/index.m3u8
+#EXTINF:-1,MTVU (720p)
+http://206.212.244.63/119/index.m3u8
+#EXTINF:-1,National Geographic West (720p)
+http://206.212.244.63/122/index.m3u8
+#EXTINF:-1,NBC News NOW HD (720p)
+http://206.212.244.63/127/index.m3u8
+#EXTINF:-1,QVC2 (720p)
+http://206.212.244.63/142/index.m3u8
+#EXTINF:-1,Scares by Shudder (720p)
+http://206.212.244.63/147/index.m3u8
+#EXTINF:-1,BET West (720p)
+http://206.212.244.63/16/index.m3u8
+#EXTINF:-1,BET Gospel (576p)
+http://206.212.244.63/17/index.m3u8
+#EXTINF:-1,BET Her West (720p)
+http://206.212.244.63/19/index.m3u8
+#EXTINF:-1,BET Jams (576p)
+http://206.212.244.63/20/index.m3u8
+#EXTINF:-1,BET Soul (576p)
+http://206.212.244.63/21/index.m3u8
+#EXTINF:-1,ACC Network (720p)
+http://206.212.244.63/2486/index.m3u8
+#EXTINF:-1,Disney Channel West (720p)
+http://206.212.244.63/3146/index.m3u8
+#EXTINF:-1,Nicktoons (1080p)
+http://206.212.244.63/3151/index.m3u8
+#EXTINF:-1,Nicktoons West (1080p)
+http://206.212.244.63/3152/index.m3u8
+#EXTINF:-1,WCBS-TV 2.1 (720p)
+http://206.212.244.63/32/index.m3u8
+#EXTINF:-1,KLFY-TV 10.1 (720p)
+http://206.212.244.63/33/index.m3u8
+#EXTINF:-1,Cleo TV (720p)
+http://206.212.244.63/38/index.m3u8
+#EXTINF:-1,CNBC World (576p)
+http://206.212.244.63/42/index.m3u8
+#EXTINF:-1,Game Show Network (1080p)
+http://206.212.244.63/4237/index.m3u8
+#EXTINF:-1,Logo (720p)
+http://206.212.244.63/4242/index.m3u8
+#EXTINF:-1,Dog TV (720p)
+http://206.212.244.63/56/index.m3u8
+#EXTINF:-1,FETV (720p)
+http://206.212.244.63/60/index.m3u8
+#EXTINF:-1,FanDuel Racing (720p)
+http://206.212.244.63/6139/index.m3u8
+#EXTINF:-1,NBC Sports Chicago (720p)
+http://206.212.244.63/6141/index.m3u8
+#EXTINF:-1,Super Channel Vault (1080p)
+http://206.212.244.63/6142/index.m3u8
+#EXTINF:-1,Altitude Sports (720p)
+http://206.212.244.63/6153/index.m3u8
+#EXTINF:-1,BabyFirst (720p)
+http://206.212.244.63/639/index.m3u8
+#EXTINF:-1,BabyTV US (576p)
+http://206.212.244.63/641/index.m3u8
+#EXTINF:-1,KADN-TV 15.1 (720p)
+http://206.212.244.63/65/index.m3u8
+#EXTINF:-1,Disney Channel (720p)
+http://206.212.244.63/650/index.m3u8
+#EXTINF:-1,Disney Junior West (720p)
+http://206.212.244.63/655/index.m3u8
+#EXTINF:-1,PBS Kids (720p)
+http://206.212.244.63/669/index.m3u8
+#EXTINF:-1,PBS Kids 24/7 (1080p)
+http://206.212.244.63/672/index.m3u8
+#EXTINF:-1,Freeform West (720p)
+http://206.212.244.63/70/index.m3u8
+#EXTINF:-1,FYI (720p)
+http://206.212.244.63/78/index.m3u8
+#EXTINF:-1,Great American Faith & Living (1080p)
+http://206.212.244.63/82/index.m3u8
+#EXTINF:-1,WDAF-TV 4.2 (576p)
+http://206.212.244.63/9/index.m3u8
