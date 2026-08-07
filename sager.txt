@@ -278,11 +278,11 @@ http://lordstreams.live/White91/6061626364/786487
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/NZTX5S6/discovery.png", Discovery us
 https://dvrfl04.tulix.tv/teleup-discovery/mpegts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/S4K1TDfH/foxnews.jpg",Fox News
-http://huekavirtual.click:8080/live/HV_DavidGaona09./da20vid23g/17776.ts
+http://88b9da48.kazmazpaz.ru/iptv/FHKC2D3GGKYK3Q/19147/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/S4K1TDfH/foxnews.jpg",Fox News -bk
 http://barnsideiptv.ddns.net/live/zVywGmUxj4/3GpPSaErTd/1133.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN
-http://limited-name.com/live/cjnyk3geth/7689226674/175988.ts
+http://d029dcec.kazmazpaz.ru/iptv/FHKC2D3GGKYK3Q/6499/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN -bk
 http://udashboard.vip:8080/live/Akeriptv76/BknNtsYXxV/285566.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN -bk2
