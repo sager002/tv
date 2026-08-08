@@ -130,7 +130,7 @@ http://lemon.catchmeifyo.com:8000/live/pBSgdHZLQS/Mh4RYSF4nJ/101713.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/C10XDwn/jeemtv.jpg" , جيم  
 http://lemon.catchmeifyo.com:8000/live/pBSgdHZLQS/Mh4RYSF4nJ/101712.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zhGgTLX/boomerang.png" , Boomerange 
-https://restream-live.realiptv.to/Z3nXfkOnf0/Madt8rUvmN/659644
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/8462
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/JBSspqn/cartoonito.jpg" , cartoonito
 http://lordstreams.live/live/White91/6061626364/786412.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY ch (arabic)
@@ -226,7 +226,7 @@ https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/V055t5e.png" , المسيرة
 https://live.cdnbridge.tv/Almasirah/Almasirah_1080p/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/aeY4ax8.png", |ART| افلام 1  
-http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/28498.ts
+http://hdlocal.de:8080/live/eurotv/jyrDCMeEZchhnvsWWS2211/1327.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/icE2WOw.png",  |ART| افلام 2  
 http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/28500.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/kzNnSoV.png", |ART| حكايات 1 
@@ -240,7 +240,7 @@ http://proxpanel.app:8080/live/monty/monty123/786540.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا بالعربي
 http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/459118.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا افلام
-http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/459117.ts
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/2716
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| family
 http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/171164.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
