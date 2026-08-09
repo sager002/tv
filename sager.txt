@@ -293,3 +293,5 @@ http://40.160.24.53/MSNBC/index.m3u8
 http://40.160.24.58/NEWSNATION/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://specialops.org/wp-content/uploads/2022/03/salem-news-channel-880x440-1.jpg", salem-news
 https://amg00732-salemmediagroup-snc-ono-ekp8j.amagi.tv/playlist/amg00732-salemmediagroup-snc-ono/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/8gp1BpNN/reuiters.png", Reuters
+https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
