@@ -34,7 +34,7 @@ https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/naVEZtj.png" , القرين
 https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/naVEZtj.png" , الراي
-http://ciul.glupiec.123tv.to:8080/sasodaniel2/GTG53de3f3erFR/82757
+http://lunar.pm:8080/live/maco325/Fishing/135368.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/qMTj4pjj/bahrain.jpg" , البحرين  ᴴᴰ
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/3y5pXYmb/qatar1.jpg" , قطر 1  ᴴᴰ
@@ -284,8 +284,6 @@ http://barnsideiptv.ddns.net/live/zVywGmUxj4/3GpPSaErTd/1133.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN
 http://d029dcec.kazmazpaz.ru/iptv/FHKC2D3GGKYK3Q/6499/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN -bk
-http://udashboard.vip:8080/live/Akeriptv76/BknNtsYXxV/285566.ts
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/RQNNYNn/cnn.png", CNN -bk2
 http://srv.mypanel.life:8080/live/jju4420/NebeQ90Mp1/6992.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/vCHfGfFn/Screenshot-20260803-215632.jpg", MS now
 http://40.160.24.53/MSNBC/index.m3u8
