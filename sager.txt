@@ -136,19 +136,17 @@ http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/8462
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/JBSspqn/cartoonito.jpg" , cartoonito
 http://lordstreams.live/live/White91/6061626364/786412.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY  
-https://primexclusive.day:443/1444576/5450985/16130
+https://pinkponyclub.online:443/DGaffSr23/ayisLWpRZw/16130
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/5W5y8f0/disney-jr.png" , DISNEY  jr
-https://primexclusive.day:443/1444576/5450985/16133
+https://pinkponyclub.online:443/DGaffSr23/ayisLWpRZw/16133
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/XrKcpN02/download.png" , DISNEY XD
-https://primexclusive.day:443/1444576/5450985/26101
+https://pinkponyclub.online:443/DGaffSr23/ayisLWpRZw/26101
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" , nickelodeon
-https://primexclusive.day:443/1444576/5450985/16196
+http://live.tvpython.net/live/F52300F12D2/kwpkngz/459077.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick jr
-http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/459080.ts
+https://pinkponyclub.online:443/DGaffSr23/ayisLWpRZw/16191
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , nick toon
 http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/459079.ts
-#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" , movie family
-http://77.137.40.221:8000/play/n01o
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" , DISNEY movie
 http://lordstreams.live/live/White91/6061626364/786506.ts
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/dGlKoLW.png" , روتانا سينما 
