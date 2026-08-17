@@ -206,6 +206,8 @@ http://149.100.11.235:8080/CGTN-Arabic/index.m3u8
 http://149.100.11.235:8080/Cima/index.m3u8
 #EXTINF:-1,dmcdrama
 http://149.100.11.235:8080/dmcdrama/index.m3u8
+#EXTINF:-1,dmcHD
+http://149.100.11.235:8080/dmcHD/index.m3u8
 #EXTINF:-1,dmcmasraheyat
 http://149.100.11.235:8080/dmcmasraheyat/index.m3u8
 #EXTINF:-1,EgyptianTVHD
@@ -268,10 +270,14 @@ http://149.100.11.235:8080/NileSport/index.m3u8
 http://149.100.11.235:8080/NogoumFMTV/index.m3u8
 #EXTINF:-1,ONDrama
 http://149.100.11.235:8080/ONDrama/index.m3u8
+#EXTINF:-1,ONEHD
+http://149.100.11.235:8080/ONEHD/index.m3u8
 #EXTINF:-1,Palestine
 http://149.100.11.235:8080/Palestine/index.m3u8
 #EXTINF:-1,RotanaCinemaEGY
 http://149.100.11.235:8080/RotanaCinemaEGY/index.m3u8
+#EXTINF:-1,RotanaCinemaEGYHD
+http://149.100.11.235:8080/RotanaCinemaEGYHD/index.m3u8
 #EXTINF:-1,RotanaCinemaKSA
 http://149.100.11.235:8080/RotanaCinemaKSA/index.m3u8
 #EXTINF:-1,RotanaClassic
@@ -284,6 +290,10 @@ http://149.100.11.235:8080/RotanaDrama/index.m3u8
 http://149.100.11.235:8080/RotanaKhalijia/index.m3u8
 #EXTINF:-1,RotanaMusic
 http://149.100.11.235:8080/RotanaMusic/index.m3u8
+#EXTINF:-1,ROYAHD
+http://149.100.11.235:8080/ROYAHD/index.m3u8
+#EXTINF:-1,RTARABICHD
+http://149.100.11.235:8080/RTARABICHD/index.m3u8
 #EXTINF:-1,SadaElBalad
 http://149.100.11.235:8080/SadaElBalad/index.m3u8
 #EXTINF:-1,SadaElBalad2
