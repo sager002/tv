@@ -225,8 +225,6 @@ http://proxpanel.app:8080/live/monty/monty123/786540.ts
 http://live.tvpython.net/live/rg3zn7sv/ndvwezpx/459118.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| يا هلا افلام
 http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/2716
-#EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/OSN/OSNYahala.ae.png", |OSN| family
-http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/171164.ts
 #EXTINF:0 type="stream" tvg-logo="http://silvertv.net:1997/images/BEIN/Fatafeat.png" ,فتافيت  
 http://vpjertrcww.top:8080/VIP013821748767869473/dba172a3c21f/6609
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/DG0QC2z/majd.png" , المجد  
@@ -236,7 +234,7 @@ http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/4SBWZsb/hewar.png" , الحوار
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-id="AlGhadTV.eg" tvg-logo="https://i.ibb.co/JwSztVz3/ga6NXb9.png" ,الغد
-https://eazyvwqssi.erbvr.com/alghadtv/alghadtv_1080p.m3u8
+http://149.100.11.235:8080/AlGhadHD/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/YTyCBvB.png" , التغيير
 https://jmc-live.ercdn.net/altaghier/altaghier.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/2twJp1x/kass1.png", الكاس 1   
