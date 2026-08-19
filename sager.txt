@@ -54,7 +54,7 @@ https://svs.itworkscdn.net/smc1live/smc1tv.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/zQ3d95t/dubai.png" , دبي  ᴴᴰ
 http://185.9.2.18/chid_139/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/M5RPFYH/smadubai.jpg" , سما دبي  ᴴᴰ
-http://lunar.pm:8080/live/2059050842/gMFsE1cuDr/132255.m3u8
+http://lunar.pm:8080/BILLYBIKE1/Rg8h1dStbM/135497
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/3TkCNYG/wosta.png" , الوسطى  ᴴᴰ
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/VBCdTKp/shargiyah.png" , الشرقية من كلبى  ᴴᴰ
