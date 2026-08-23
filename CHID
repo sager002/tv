@@ -318,3 +318,447 @@ http://149.100.11.235:8080/Yemen/index.m3u8
 http://149.100.11.235:8080/YemenToday/index.m3u8
 #EXTINF:-1,ZamalekSports
 http://149.100.11.235:8080/ZamalekSports/index.m3u8
+#EXTINF:-1,2M Maroc
+http://149.62.183.138:9981/play/a0av
+#EXTINF:-1,5 KIDS
+http://149.62.183.138:9981/play/a09c
+#EXTINF:-1,A TV
+http://149.62.183.138:9981/play/a0cv
+#EXTINF:-1,A3 HD
+http://149.62.183.138:9981/play/a07k
+#EXTINF:-1,AL NADA TV
+http://149.62.183.138:9981/play/a0bo
+#EXTINF:-1,AL Oula HD
+http://149.62.183.138:9981/play/a080
+#EXTINF:-1,AL Resala
+http://149.62.183.138:9981/play/a0d6
+#EXTINF:-1,AL SABAH
+http://149.62.183.138:9981/play/a08p
+#EXTINF:-1,AL SABAH
+http://149.62.183.138:9981/play/a09w
+#EXTINF:-1,AL SHARQIYA HD
+http://149.62.183.138:9981/play/a08i
+#EXTINF:-1,AL Shams
+http://149.62.183.138:9981/play/a0bd
+#EXTINF:-1,AL oula
+http://149.62.183.138:9981/play/a07z
+#EXTINF:-1,AL-AKHBAR
+http://149.62.183.138:9981/play/a0ci
+#EXTINF:-1,AL-Anbar
+http://149.62.183.138:9981/play/a0bp
+#EXTINF:-1,ALFATH TV
+http://149.62.183.138:9981/play/a09e
+#EXTINF:-1,ALISTIQAMA TV
+http://149.62.183.138:9981/play/a0ac
+#EXTINF:-1,ALRAHMAN
+http://149.62.183.138:9981/play/a0a7
+#EXTINF:-1,ALhayat
+http://149.62.183.138:9981/play/a0co
+#EXTINF:-1,Aden TV
+http://149.62.183.138:9981/play/a0aw
+#EXTINF:-1,Al Ahly HD
+http://149.62.183.138:9981/play/a07q
+#EXTINF:-1,Al Ahly SD
+http://149.62.183.138:9981/play/a07w
+#EXTINF:-1,Al Alam HD
+http://149.62.183.138:9981/play/a09o
+#EXTINF:-1,Al Alam Syria
+http://149.62.183.138:9981/play/a0cw
+#EXTINF:-1,Al Aoula inter
+http://149.62.183.138:9981/play/a0ct
+#EXTINF:-1,Al Arabiya
+http://149.62.183.138:9981/play/a07r
+#EXTINF:-1,Al Araby 2 HD
+http://149.62.183.138:9981/play/a0b4
+#EXTINF:-1,Al Ekhbaria
+http://149.62.183.138:9981/play/a0c9
+#EXTINF:-1,Al Fath Al3amh
+http://149.62.183.138:9981/play/a09n
+#EXTINF:-1,Al Fath Sonnah TV
+http://149.62.183.138:9981/play/a09i
+#EXTINF:-1,Al Ghad HD
+http://149.62.183.138:9981/play/a09m
+#EXTINF:-1,Al Insen TV
+http://149.62.183.138:9981/play/a073
+#EXTINF:-1,Al JANOUBIA TV
+http://149.62.183.138:9981/play/a071
+#EXTINF:-1,Al Kahera Wal Nas
+http://149.62.183.138:9981/play/a07y
+#EXTINF:-1,Al Kahera Wal Nas +2
+http://149.62.183.138:9981/play/a0ap
+#EXTINF:-1,Al Kawthar HD
+http://149.62.183.138:9981/play/a09g
+#EXTINF:-1,Al Masryia HD
+http://149.62.183.138:9981/play/a0bg
+#EXTINF:-1,Al Nas
+http://149.62.183.138:9981/play/a0bn
+#EXTINF:-1,Al Qahera News
+http://149.62.183.138:9981/play/a07p
+#EXTINF:-1,Al Qahera News SD
+http://149.62.183.138:9981/play/a07m
+#EXTINF:-1,Al Shams Drama
+http://149.62.183.138:9981/play/a0ay
+#EXTINF:-1,Al Thania
+http://149.62.183.138:9981/play/a0a2
+#EXTINF:-1,Al Wathaeqya
+http://149.62.183.138:9981/play/a0de
+#EXTINF:-1,Al joumhouriya
+http://149.62.183.138:9981/play/a0bf
+#EXTINF:-1,Al-Arabiya Alhadath
+http://149.62.183.138:9981/play/a07s
+#EXTINF:-1,Al-Burhan Rukia TV
+http://149.62.183.138:9981/play/a0ab
+#EXTINF:-1,Al-Ganob
+http://149.62.183.138:9981/play/a08w
+#EXTINF:-1,Al-Majd3
+http://149.62.183.138:9981/play/a0bq
+#EXTINF:-1,Al-Nahar Drama
+http://149.62.183.138:9981/play/a08a
+#EXTINF:-1,Al-Nahar Life
+http://149.62.183.138:9981/play/a07u
+#EXTINF:-1,Al-Nahar One
+http://149.62.183.138:9981/play/a089
+#EXTINF:-1,AlAraby2
+http://149.62.183.138:9981/play/a09z
+#EXTINF:-1,AlHadath Alyoum
+http://149.62.183.138:9981/play/a08r
+#EXTINF:-1,AlHayat 3
+http://149.62.183.138:9981/play/a0cs
+#EXTINF:-1,AlHayat HD
+http://149.62.183.138:9981/play/a0cr
+#EXTINF:-1,AlHayat Sport
+http://149.62.183.138:9981/play/a0cu
+#EXTINF:-1,AlSaeedah
+http://149.62.183.138:9981/play/a09j
+#EXTINF:-1,Alhayat Muslsalat
+http://149.62.183.138:9981/play/a08f
+#EXTINF:-1,Alhayat We Alnas
+http://149.62.183.138:9981/play/a0cq
+#EXTINF:-1,Alkass four HD
+http://149.62.183.138:9981/play/a09t
+#EXTINF:-1,Alkass one HD
+http://149.62.183.138:9981/play/a09q
+#EXTINF:-1,Alkass three HD
+http://149.62.183.138:9981/play/a09s
+#EXTINF:-1,Alkass two HD
+http://149.62.183.138:9981/play/a09r
+#EXTINF:-1,Almamlaka TV
+http://149.62.183.138:9981/play/a0ag
+#EXTINF:-1,Alsouriya TV-HD
+http://149.62.183.138:9981/play/a0a0
+#EXTINF:-1,Alsouriya tv
+http://149.62.183.138:9981/play/a0bb
+#EXTINF:-1,Althanya
+http://149.62.183.138:9981/play/a0bi
+#EXTINF:-1,Amman TV
+http://149.62.183.138:9981/play/a0aa
+#EXTINF:-1,Attessia TV
+http://149.62.183.138:9981/play/a06y
+#EXTINF:-1,Azhari
+http://149.62.183.138:9981/play/a084
+#EXTINF:-1,BBC Arabic
+http://149.62.183.138:9981/play/a0cn
+#EXTINF:-1,BBC News TV
+http://149.62.183.138:9981/play/a085
+#EXTINF:-1,Beity TV
+http://149.62.183.138:9981/play/a0b3
+#EXTINF:-1,CBC
+http://149.62.183.138:9981/play/a08b
+#EXTINF:-1,CBC Drama
+http://149.62.183.138:9981/play/a08d
+#EXTINF:-1,CBC HD
+http://149.62.183.138:9981/play/a0bu
+#EXTINF:-1,CBC Sofra
+http://149.62.183.138:9981/play/a08c
+#EXTINF:-1,CGTN
+http://149.62.183.138:9981/play/a0aq
+#EXTINF:-1,CGTN-Arabic
+http://149.62.183.138:9981/play/a0ax
+#EXTINF:-1,CHAINE 1
+http://149.62.183.138:9981/play/a07j
+#EXTINF:-1,Canal algerie HD
+http://149.62.183.138:9981/play/a07c
+#EXTINF:-1,Carthage+
+http://149.62.183.138:9981/play/a072
+#EXTINF:-1,DUBAI RACING 1 HD
+http://149.62.183.138:9981/play/a0dt
+#EXTINF:-1,DUBAI RACING 2 HD
+http://149.62.183.138:9981/play/a0du
+#EXTINF:-1,DUBAI SPORTS 1 HD
+http://149.62.183.138:9981/play/a0dr
+#EXTINF:-1,DUBAI SPORTS 2 HD
+http://149.62.183.138:9981/play/a0ds
+#EXTINF:-1,DamasRadio FM
+http://149.62.183.138:9981/play/a0a1
+#EXTINF:-1,Dubai One HD
+http://149.62.183.138:9981/play/a0dq
+#EXTINF:-1,Dubai TV HD
+http://149.62.183.138:9981/play/a0do
+#EXTINF:-1,ELMEHWAR
+http://149.62.183.138:9981/play/a08q
+#EXTINF:-1,Egyptian TV HD
+http://149.62.183.138:9981/play/a08m
+#EXTINF:-1,El barlamaniya
+http://149.62.183.138:9981/play/a07i
+#EXTINF:-1,Elhiwar Ettounsi
+http://149.62.183.138:9981/play/a06w
+#EXTINF:-1,Extra Live SD
+http://149.62.183.138:9981/play/a0bx
+#EXTINF:-1,Extra News
+http://149.62.183.138:9981/play/a08e
+#EXTINF:-1,Extra News HD
+http://149.62.183.138:9981/play/a0d9
+#EXTINF:-1,France 24
+http://149.62.183.138:9981/play/a0cp
+#EXTINF:-1,HADRAMAUT TV
+http://149.62.183.138:9981/play/a0au
+#EXTINF:-1,HANNIBAL TV
+http://149.62.183.138:9981/play/a074
+#EXTINF:-1,Hadramout TV
+http://149.62.183.138:9981/play/a0a9
+#EXTINF:-1,I Film Arabic
+http://149.62.183.138:9981/play/a09k
+#EXTINF:-1,Iraq Now
+http://149.62.183.138:9981/play/a0b8
+#EXTINF:-1,Jawhara FM-TV
+http://149.62.183.138:9981/play/a075
+#EXTINF:-1,Jordan Amen
+http://149.62.183.138:9981/play/a0a5
+#EXTINF:-1,Jordan HD
+http://149.62.183.138:9981/play/a0af
+#EXTINF:-1,Jordan Sport HD
+http://149.62.183.138:9981/play/a0b7
+#EXTINF:-1,KSA SPORTS 1
+http://149.62.183.138:9981/play/a0cd
+#EXTINF:-1,KSA SPORTS 2
+http://149.62.183.138:9981/play/a0ce
+#EXTINF:-1,KSA SPORTS 3
+http://149.62.183.138:9981/play/a0cf
+#EXTINF:-1,Kuwait Sport Plus
+http://149.62.183.138:9981/play/a0cl
+#EXTINF:-1,Kuwait Sports
+http://149.62.183.138:9981/play/a0ck
+#EXTINF:-1,Kuwait TV 1
+http://149.62.183.138:9981/play/a0ch
+#EXTINF:-1,Kuwait TV 2
+http://149.62.183.138:9981/play/a0cj
+#EXTINF:-1,LBC SAT
+http://149.62.183.138:9981/play/a0d5
+#EXTINF:-1,LIBYA ALHADATH HD
+http://149.62.183.138:9981/play/a09x
+#EXTINF:-1,LIBYA SPORT 1 HD
+http://149.62.183.138:9981/play/a087
+#EXTINF:-1,Libya Al Hedaya TV
+http://149.62.183.138:9981/play/a0db
+#EXTINF:-1,Libya Alrasmia
+http://149.62.183.138:9981/play/a0as
+#EXTINF:-1,Libya Alwataniya
+http://149.62.183.138:9981/play/a086
+#EXTINF:-1,Libya Radio Quran Karem
+http://149.62.183.138:9981/play/a0dd
+#EXTINF:-1,Libya Sport 2 HD
+http://149.62.183.138:9981/play/a0da
+#EXTINF:-1,MBC MASR
+http://149.62.183.138:9981/play/a0at
+#EXTINF:-1,MBC Masr 2
+http://149.62.183.138:9981/play/a08n
+#EXTINF:-1,MDEEH
+http://149.62.183.138:9981/play/a07t
+#EXTINF:-1,Madrastna 1
+http://149.62.183.138:9981/play/a0dc
+#EXTINF:-1,Maspero Zaman
+http://149.62.183.138:9981/play/a094
+#EXTINF:-1,Mazzika
+http://149.62.183.138:9981/play/a09h
+#EXTINF:-1,Misr Al Zera3eya
+http://149.62.183.138:9981/play/a09f
+#EXTINF:-1,Misr Quran Kareem
+http://149.62.183.138:9981/play/a09a
+#EXTINF:-1,Mix
+http://149.62.183.138:9981/play/a08h
+#EXTINF:-1,Mix Bel Araby
+http://149.62.183.138:9981/play/a08o
+#EXTINF:-1,Mix One
+http://149.62.183.138:9981/play/a095
+#EXTINF:-1,Modern Mti
+http://149.62.183.138:9981/play/a08l
+#EXTINF:-1,N Africa
+http://149.62.183.138:9981/play/a0b6
+#EXTINF:-1,Nessma Ejdida
+http://149.62.183.138:9981/play/a077
+#EXTINF:-1,Nile Cinema
+http://149.62.183.138:9981/play/a093
+#EXTINF:-1,Nile Comedy
+http://149.62.183.138:9981/play/a08y
+#EXTINF:-1,Nile Culture
+http://149.62.183.138:9981/play/a082
+#EXTINF:-1,Nile Drama
+http://149.62.183.138:9981/play/a090
+#EXTINF:-1,Nile Family
+http://149.62.183.138:9981/play/a081
+#EXTINF:-1,Nile Life
+http://149.62.183.138:9981/play/a08z
+#EXTINF:-1,Nile News
+http://149.62.183.138:9981/play/a08x
+#EXTINF:-1,Nile News HD
+http://149.62.183.138:9981/play/a092
+#EXTINF:-1,Nile Sport
+http://149.62.183.138:9981/play/a091
+#EXTINF:-1,Nile TV
+http://149.62.183.138:9981/play/a0bh
+#EXTINF:-1,Nogoum FM TV
+http://149.62.183.138:9981/play/a09l
+#EXTINF:-1,ON  E
+http://149.62.183.138:9981/play/a098
+#EXTINF:-1,ON Drama
+http://149.62.183.138:9981/play/a099
+#EXTINF:-1,ON E HD
+http://149.62.183.138:9981/play/a097
+#EXTINF:-1,ON SPORT
+http://149.62.183.138:9981/play/a0az
+#EXTINF:-1,ON SPORT HD
+http://149.62.183.138:9981/play/a0aj
+#EXTINF:-1,ON SPORT MAX
+http://149.62.183.138:9981/play/a0b0
+#EXTINF:-1,ON SPORT MAX HD
+http://149.62.183.138:9981/play/a0ak
+#EXTINF:-1,ON SPORT PLUS
+http://149.62.183.138:9981/play/a0b1
+#EXTINF:-1,ON SPORT PLUS HD
+http://149.62.183.138:9981/play/a0al
+#EXTINF:-1,Oman TV Culture HD
+http://149.62.183.138:9981/play/a0c3
+#EXTINF:-1,Oman TV General HD
+http://149.62.183.138:9981/play/a0c0
+#EXTINF:-1,Oman TV General SD
+http://149.62.183.138:9981/play/a0c4
+#EXTINF:-1,Oman TV Live HD
+http://149.62.183.138:9981/play/a0c2
+#EXTINF:-1,Oman TV Sport HD
+http://149.62.183.138:9981/play/a0c1
+#EXTINF:-1,Oscar TV
+http://149.62.183.138:9981/play/a0be
+#EXTINF:-1,Oyoun AlWatan
+http://149.62.183.138:9981/play/a0a8
+#EXTINF:-1,Palestine
+http://149.62.183.138:9981/play/a08k
+#EXTINF:-1,Panorama Drama
+http://149.62.183.138:9981/play/a0bj
+#EXTINF:-1,Panorama Drama 2
+http://149.62.183.138:9981/play/a0bk
+#EXTINF:-1,Panorama Film
+http://149.62.183.138:9981/play/a0bl
+#EXTINF:-1,Panorama Food
+http://149.62.183.138:9981/play/a0bm
+#EXTINF:-1,Press TV HD
+http://149.62.183.138:9981/play/a09v
+#EXTINF:-1,R Tunisie Culture
+http://149.62.183.138:9981/play/a079
+#EXTINF:-1,R Tunisie Nationale
+http://149.62.183.138:9981/play/a076
+#EXTINF:-1,R Tunisie internationale
+http://149.62.183.138:9981/play/a078
+#EXTINF:-1,ROYA HD
+http://149.62.183.138:9981/play/a0ae
+#EXTINF:-1,RT ARABIC HD
+http://149.62.183.138:9981/play/a0ad
+#EXTINF:-1,RT ARABIC SD
+http://149.62.183.138:9981/play/a0ba
+#EXTINF:-1,RT English
+http://149.62.183.138:9981/play/a0ah
+#EXTINF:-1,Rotana Cinema EGY
+http://149.62.183.138:9981/play/a0d3
+#EXTINF:-1,Rotana Cinema EGY HD
+http://149.62.183.138:9981/play/a0d7
+#EXTINF:-1,Rotana Cinema KSA
+http://149.62.183.138:9981/play/a0d4
+#EXTINF:-1,Rotana Classic
+http://149.62.183.138:9981/play/a0d1
+#EXTINF:-1,Rotana Clip
+http://149.62.183.138:9981/play/a0cz
+#EXTINF:-1,Rotana Drama
+http://149.62.183.138:9981/play/a0d2
+#EXTINF:-1,Rotana Khalijia
+http://149.62.183.138:9981/play/a0d0
+#EXTINF:-1,Rotana Music
+http://149.62.183.138:9981/play/a0cy
+#EXTINF:-1,SABA HD
+http://149.62.183.138:9981/play/a083
+#EXTINF:-1,SAMA DUBAI HD
+http://149.62.183.138:9981/play/a0dp
+#EXTINF:-1,SBC
+http://149.62.183.138:9981/play/a0c8
+#EXTINF:-1,SPACETOON ARABIC
+http://149.62.183.138:9981/play/a08g
+#EXTINF:-1,Sada El Balad
+http://149.62.183.138:9981/play/a08t
+#EXTINF:-1,Sada El Balad 2
+http://149.62.183.138:9981/play/a08u
+#EXTINF:-1,Sada ElBalad 3
+http://149.62.183.138:9981/play/a08s
+#EXTINF:-1,Sahar Kurdi
+http://149.62.183.138:9981/play/a0ar
+#EXTINF:-1,Saudi CH For Quran
+http://149.62.183.138:9981/play/a0cb
+#EXTINF:-1,Saudi CH For Sunnah
+http://149.62.183.138:9981/play/a0cc
+#EXTINF:-1,Saudi TV
+http://149.62.183.138:9981/play/a0c6
+#EXTINF:-1,Saudia Alaan TV
+http://149.62.183.138:9981/play/a0ca
+#EXTINF:-1,Sky News Arabia
+http://149.62.183.138:9981/play/a0am
+#EXTINF:-1,Sky News Arabia HD
+http://149.62.183.138:9981/play/a0an
+#EXTINF:-1,Sudan TV
+http://149.62.183.138:9981/play/a07n
+#EXTINF:-1,Syria 2 HD
+http://149.62.183.138:9981/play/a0b5
+#EXTINF:-1,Syria News HD
+http://149.62.183.138:9981/play/a09y
+#EXTINF:-1,Syria News SD
+http://149.62.183.138:9981/play/a0df
+#EXTINF:-1,Syria TV 01
+http://149.62.183.138:9981/play/a0a3
+#EXTINF:-1,TUNISIA SHOP
+http://149.62.183.138:9981/play/a0a6
+#EXTINF:-1,TUNISNA
+http://149.62.183.138:9981/play/a06x
+#EXTINF:-1,TV 4
+http://149.62.183.138:9981/play/a07d
+#EXTINF:-1,TV 5
+http://149.62.183.138:9981/play/a07e
+#EXTINF:-1,TV5
+http://149.62.183.138:9981/play/a09d
+#EXTINF:-1,TV6 HD
+http://149.62.183.138:9981/play/a07f
+#EXTINF:-1,TV7 ELMAARIFA
+http://149.62.183.138:9981/play/a07g
+#EXTINF:-1,TV8 EDHAKIRA
+http://149.62.183.138:9981/play/a07h
+#EXTINF:-1,Telvza TV
+http://149.62.183.138:9981/play/a070
+#EXTINF:-1,Thikrayatt
+http://149.62.183.138:9981/play/a0c7
+#EXTINF:-1,Tunisia NAT 1
+http://149.62.183.138:9981/play/a06v
+#EXTINF:-1,Tunisia NAT 2
+http://149.62.183.138:9981/play/a06z
+#EXTINF:-1,Yemen
+http://149.62.183.138:9981/play/a07o
+#EXTINF:-1,Yemen Today
+http://149.62.183.138:9981/play/a07v
+#EXTINF:-1,Zamalek Sports
+http://149.62.183.138:9981/play/a0bv
+#EXTINF:-1,a Konoz Alhayat
+http://149.62.183.138:9981/play/a0b9
+#EXTINF:-1,dmc
+http://149.62.183.138:9981/play/a0bt
+#EXTINF:-1,dmc HD
+http://149.62.183.138:9981/play/a0bs
+#EXTINF:-1,dmc drama
+http://149.62.183.138:9981/play/a0bw
+#EXTINF:-1,dmc masraheyat
+http://149.62.183.138:9981/play/a0by
+#EXTINF:-1,programme nationale HD
+http://149.62.183.138:9981/play/a07b
